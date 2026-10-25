@@ -1,0 +1,787 @@
+{
+  "topics": [
+    "Yoga Philosophy & History",
+    "Hatha Yoga",
+    "Patanjali's Yoga Sutras",
+    "Conceptual Techniques",
+    "Human Systems & Physiology",
+    "Yoga for Wellness",
+    "Yoga & Stress Management",
+    "Communication & Teaching",
+    "General Rules of Practice",
+    "Asana Theory",
+    "Pranayama & Kriya Theory"
+  ],
+  "questions": [
+    {
+      "id": "q001",
+      "topic": "Yoga Philosophy & History",
+      "question": "The Sanskrit root 'yuj', from which the word 'Yoga' derives, literally means:",
+      "options": [
+        "To yoke or unite",
+        "To breathe",
+        "To sit still",
+        "To chant"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Yoga' comes from the root 'yuj' meaning 'to yoke' or 'to unite', referring to the union of the individual mind with universal intelligence.",
+      "pageRef": "Handbook pg. 10"
+    },
+    {
+      "id": "q002",
+      "topic": "Yoga Philosophy & History",
+      "question": "Patanjali's famous definition 'Yogah Chittavritti Nirodhah' translates to:",
+      "options": [
+        "Excellence in action",
+        "Stoppage of the fluctuations of the mind",
+        "Union of body and breath",
+        "Awakening of Kundalini energy"
+      ],
+      "correctIndex": 1,
+      "explanation": "Patanjali defines Yoga as the cessation (Nirodhah) of the fluctuations (Vritti) of the mind (Chitta).",
+      "pageRef": "Handbook pg. 10"
+    },
+    {
+      "id": "q003",
+      "topic": "Yoga Philosophy & History",
+      "question": "Which of the following is NOT one of the six Astika (orthodox) Darshanas, the Shad-Darshana?",
+      "options": [
+        "Samkhya",
+        "Nyaya",
+        "Charvaka",
+        "Vedanta"
+      ],
+      "correctIndex": 2,
+      "explanation": "Charvaka is classified as a Nastika (non-believer in Vedic authority) philosophy, along with Buddhist and Jain systems, whereas Samkhya, Nyaya, and Vedanta are among the six Astika Darshanas.",
+      "pageRef": "Handbook pg. 13"
+    },
+    {
+      "id": "q004",
+      "topic": "Yoga Philosophy & History",
+      "question": "In the Samkhya system, the two principal elements out of its 25 total are:",
+      "options": [
+        "Prana and Apana",
+        "Purusha and Prakriti",
+        "Sattva and Rajas",
+        "Atman and Brahman"
+      ],
+      "correctIndex": 1,
+      "explanation": "Samkhya enumerates 25 elements, with Purusha (consciousness) and Prakriti (the non-conscious, changeful matter composed of the three Gunas) as the two principal ones.",
+      "pageRef": "Handbook pg. 13"
+    },
+    {
+      "id": "q005",
+      "topic": "Yoga Philosophy & History",
+      "question": "Patanjali's Yoga Sutra is composed of 195 sutras divided into how many Padas (chapters)?",
+      "options": [
+        "Two",
+        "Three",
+        "Four",
+        "Five"
+      ],
+      "correctIndex": 2,
+      "explanation": "The Yoga Sutra has 195 sutras divided into four Padas: Samadhi, Sadhana, Vibhuti, and Kaivalya Pada.",
+      "pageRef": "Handbook pg. 14"
+    },
+    {
+      "id": "q006",
+      "topic": "Yoga Philosophy & History",
+      "question": "Which Path of Yoga is primarily defined by selfless action and service to others, transcending concern for success or failure?",
+      "options": [
+        "Jnana Yoga",
+        "Bhakti Yoga",
+        "Karma Yoga",
+        "Raja Yoga"
+      ],
+      "correctIndex": 2,
+      "explanation": "Karma Yoga emphasises selfless service and action, free from egoism and attachment to results.",
+      "pageRef": "Handbook pg. 16"
+    },
+    {
+      "id": "q007",
+      "topic": "Yoga Philosophy & History",
+      "question": "Raja Yoga is often called the 'Royal Path' because it emphasises:",
+      "options": [
+        "Devotional chanting and prayer",
+        "Control of the intellect through meditation, concentration, and breath control",
+        "Selfless physical labour",
+        "Study of ancient scriptures only"
+      ],
+      "correctIndex": 1,
+      "explanation": "Raja Yoga, the scientific path, emphasises mastery of the mind/intellect via meditation, concentration, and breath control; Hatha Yoga is considered a stepping-stone to it.",
+      "pageRef": "Handbook pg. 16"
+    },
+    {
+      "id": "q008",
+      "topic": "Hatha Yoga",
+      "question": "Which of the following is considered the earliest and most widely studied practical text on Hatha Yoga?",
+      "options": [
+        "Gheranda Samhita",
+        "Hatha Yoga Pradipika",
+        "Hatha Ratnavali",
+        "Bhagavad Gita"
+      ],
+      "correctIndex": 1,
+      "explanation": "Hatha Yoga Pradipika, written by Yogi Swatmaram, is believed to be one of the earliest works (c. 15th century) and is a practical manual of Hatha Yoga techniques.",
+      "pageRef": "Handbook pg. 18"
+    },
+    {
+      "id": "q009",
+      "topic": "Hatha Yoga",
+      "question": "According to Hatha Yoga Pradipika, which of the following is NOT one of the six Badhaka Tattva (causes of failure) in yoga?",
+      "options": [
+        "Atyahara (overeating)",
+        "Dhairya (perseverance)",
+        "Prajalpa (excessive talking)",
+        "Laulyam (fickleness of mind)"
+      ],
+      "correctIndex": 1,
+      "explanation": "Dhairya (perseverance/steadfastness) is one of the six Sadhaka Tattva (causes of success), not a Badhaka Tattva. The Badhaka Tattvas include Atyahara, Prayasa, Prajalpa, Niyamagraha, Janasanga, and Laulyam.",
+      "pageRef": "Handbook pg. 20"
+    },
+    {
+      "id": "q010",
+      "topic": "Hatha Yoga",
+      "question": "Which of the following correctly lists the six purificatory Shad-Kriyas of Hatha Yoga?",
+      "options": [
+        "Dhauti, Basti, Neti, Trataka, Nauli, Kapalabhati",
+        "Yama, Niyama, Asana, Pranayama, Pratyahara, Dharana",
+        "Mudra, Bandha, Mantra, Tapa, Dhyana, Samadhi",
+        "Pancha-mahabhuta, Tanmatra, Indriya, Manas, Ahamkara, Buddhi"
+      ],
+      "correctIndex": 0,
+      "explanation": "The six Shad-Kriyas (purificatory actions) of Hatha Yoga are Dhauti, Basti, Neti, Trataka, Nauli, and Kapalabhati.",
+      "pageRef": "Handbook pg. 23"
+    },
+    {
+      "id": "q011",
+      "topic": "Hatha Yoga",
+      "question": "According to Mitahara principles in Hatha Yoga Pradipika, how should a yogi ideally fill the stomach while eating?",
+      "options": [
+        "Completely full with sweet food",
+        "Half with food, one-fourth with water, one-fourth left empty",
+        "One-third each of food, water, and air",
+        "As little as possible, skipping meals regularly"
+      ],
+      "correctIndex": 1,
+      "explanation": "Mitahara recommends filling half the stomach with pleasant, sweet food, one-fourth with water/liquid, and leaving one-fourth empty.",
+      "pageRef": "Handbook pg. 19"
+    },
+    {
+      "id": "q012",
+      "topic": "Hatha Yoga",
+      "question": "The main purpose of Kriya (purificatory techniques) in both Hatha Yoga and the Yoga Sutra is:",
+      "options": [
+        "Building muscular strength",
+        "Nadi-shuddhi (purification of subtle energy channels)",
+        "Weight loss",
+        "Memorizing scriptures"
+      ],
+      "correctIndex": 1,
+      "explanation": "Kriyas primarily serve Nadi-shuddhi, since Prana can only be regulated through Pranayama once its flow in the nadis is unobstructed.",
+      "pageRef": "Handbook pg. 23"
+    },
+    {
+      "id": "q013",
+      "topic": "Patanjali's Yoga Sutras",
+      "question": "Ashtanga Yoga, as described by Patanjali, consists of how many limbs (angas)?",
+      "options": [
+        "Four",
+        "Six",
+        "Eight",
+        "Ten"
+      ],
+      "correctIndex": 2,
+      "explanation": "Ashtanga Yoga consists of eight limbs: Yama, Niyama, Asana, Pranayama, Pratyahara, Dharana, Dhyana, and Samadhi.",
+      "pageRef": "Handbook pg. 25"
+    },
+    {
+      "id": "q014",
+      "topic": "Patanjali's Yoga Sutras",
+      "question": "Which group of limbs of Ashtanga Yoga is classified as 'Antaranga Yoga' (internal yoga)?",
+      "options": [
+        "Yama, Niyama, Asana",
+        "Pranayama, Pratyahara",
+        "Dharana, Dhyana, Samadhi",
+        "Asana, Pranayama, Pratyahara"
+      ],
+      "correctIndex": 2,
+      "explanation": "The last three limbs - Dharana, Dhyana, and Samadhi - are Antaranga (internal) Yoga, as they work on internal mental capacities rather than externally observable behaviour.",
+      "pageRef": "Handbook pg. 26"
+    },
+    {
+      "id": "q015",
+      "topic": "Patanjali's Yoga Sutras",
+      "question": "Which of the following is one of the five Yamas (ethical restraints)?",
+      "options": [
+        "Santosha",
+        "Asteya",
+        "Swadhyaya",
+        "Tapa"
+      ],
+      "correctIndex": 1,
+      "explanation": "Asteya (non-stealing) is one of the five Yamas. Santosha, Swadhyaya, and Tapa are Niyamas (observances), not Yamas.",
+      "pageRef": "Handbook pg. 26"
+    },
+    {
+      "id": "q016",
+      "topic": "Patanjali's Yoga Sutras",
+      "question": "Which Niyama is literally defined as 'to heat', referring to the fortitude to bear opposites like pleasure and pain with equanimity?",
+      "options": [
+        "Saucha",
+        "Santosha",
+        "Tapa",
+        "Ishwarapranidhana"
+      ],
+      "correctIndex": 2,
+      "explanation": "Tapa literally means 'to heat' - like gold purified by heating, Tapa purifies the practitioner through disciplined endurance of opposites.",
+      "pageRef": "Handbook pg. 28"
+    },
+    {
+      "id": "q017",
+      "topic": "Patanjali's Yoga Sutras",
+      "question": "Patanjali's definition of Asana, 'Sthira Sukham Asanam' (Yoga Sutra 2.46), means that a posture should be:",
+      "options": [
+        "Fast and vigorous",
+        "Steady and comfortable",
+        "Painful but rewarding",
+        "Held only briefly"
+      ],
+      "correctIndex": 1,
+      "explanation": "'Sthira Sukham Asanam' means a posture should be steady (Sthira) and comfortable (Sukham).",
+      "pageRef": "Handbook pg. 28"
+    },
+    {
+      "id": "q018",
+      "topic": "Patanjali's Yoga Sutras",
+      "question": "Chitta, according to Patanjali's framework, comprises how many components in total?",
+      "options": [
+        "Five",
+        "Eight",
+        "Twelve",
+        "Seventeen"
+      ],
+      "correctIndex": 3,
+      "explanation": "Chitta comprises 17 components: 5 Jnanendriyas, 5 Karmendriyas, 5 Pranas, Ego, and Manas.",
+      "pageRef": "Handbook pg. 29"
+    },
+    {
+      "id": "q019",
+      "topic": "Patanjali's Yoga Sutras",
+      "question": "Which Chitta Bhumi (habitual mental state) is described as the 'ideal mind for study of yoga', though its concentration does not yet last long?",
+      "options": [
+        "Kshipta (restless)",
+        "Mudha (infatuated)",
+        "Vikshipta (distracted)",
+        "Ekagra (one-pointed)"
+      ],
+      "correctIndex": 2,
+      "explanation": "Vikshipta is considered the ideal starting mental state for yoga study - it can grasp spiritual concepts, though concentration is still interrupted by distraction.",
+      "pageRef": "Handbook pg. 30"
+    },
+    {
+      "id": "q020",
+      "topic": "Patanjali's Yoga Sutras",
+      "question": "Which of the following is NOT one of the five Chitta-Vrittis (mental modifications) described by Patanjali?",
+      "options": [
+        "Pramana (correct knowledge)",
+        "Nidra (sleep)",
+        "Samadhi (absorption)",
+        "Smriti (memory)"
+      ],
+      "correctIndex": 2,
+      "explanation": "Samadhi is the eighth limb of Ashtanga Yoga, not a Chitta-Vritti. The five Vrittis are Pramana, Viparyaya, Vikalpa, Nidra, and Smriti.",
+      "pageRef": "Handbook pg. 30"
+    },
+    {
+      "id": "q021",
+      "topic": "Patanjali's Yoga Sutras",
+      "question": "How many Antarayas (obstacles/Chitta Vikshepas) does Patanjali enumerate in Yoga Sutra 1.30?",
+      "options": [
+        "Five",
+        "Seven",
+        "Nine",
+        "Eleven"
+      ],
+      "correctIndex": 2,
+      "explanation": "Patanjali lists nine Antarayas, ranging from gross (Vyadhi/disease) to subtle (Anavasthitatva/inability to maintain a yogic state).",
+      "pageRef": "Handbook pg. 33"
+    },
+    {
+      "id": "q022",
+      "topic": "Patanjali's Yoga Sutras",
+      "question": "In Patanjali's Yoga Sutras, the Parikarmas (Maitri, Karuna, Mudita, Upeksha) are cultivated to bring about:",
+      "options": [
+        "Physical strength",
+        "Chitta Prasadana (purity/clarity of mind)",
+        "Faster breathing",
+        "Supernatural powers (Siddhis)"
+      ],
+      "correctIndex": 1,
+      "explanation": "Cultivating Maitri (friendliness), Karuna (compassion), Mudita (goodwill) and Upeksha (indifference) toward different kinds of people purifies and calms the mind, known as Chitta Prasadana.",
+      "pageRef": "Handbook pg. 35"
+    },
+    {
+      "id": "q023",
+      "topic": "Patanjali's Yoga Sutras",
+      "question": "Which Klesha (affliction) is described as the 'breeding ground' for all other Kleshas, being the misapprehension of the real nature of things?",
+      "options": [
+        "Asmita",
+        "Avidya",
+        "Raga",
+        "Abhinivesha"
+      ],
+      "correctIndex": 1,
+      "explanation": "Avidya (ignorance/misapprehension) is considered the root affliction from which the other four Kleshas - Asmita, Raga, Dvesha, and Abhinivesha - arise.",
+      "pageRef": "Handbook pg. 36"
+    },
+    {
+      "id": "q024",
+      "topic": "Patanjali's Yoga Sutras",
+      "question": "The Kleshas, according to Patanjali, are five in number. Which of these is correctly matched with its meaning?",
+      "options": [
+        "Dvesha - attachment",
+        "Abhinivesha - fear of death",
+        "Asmita - aversion",
+        "Raga - egoism"
+      ],
+      "correctIndex": 1,
+      "explanation": "Abhinivesha is the fear of death/clinging to bodily existence. (Dvesha means aversion, Asmita means egoism, and Raga means attachment.)",
+      "pageRef": "Handbook pg. 36"
+    },
+    {
+      "id": "q025",
+      "topic": "Patanjali's Yoga Sutras",
+      "question": "The eight Bhavas (traits of Buddhi) are split into positive (Sattvic) and negative (Tamasic) groups. Which is a POSITIVE Bhava?",
+      "options": [
+        "Adharma",
+        "Ajnana",
+        "Aishwarya",
+        "Anaishwarya"
+      ],
+      "correctIndex": 2,
+      "explanation": "Aishwarya (strength/power/achievement) is one of the four positive Sattvic Bhavas, along with Dharma, Jnana, and Vairagya. Adharma, Ajnana, and Anaishwarya are their negative Tamasic counterparts.",
+      "pageRef": "Handbook pg. 37"
+    },
+    {
+      "id": "q026",
+      "topic": "Conceptual Techniques",
+      "question": "Pratipakshabhavana is the technique of:",
+      "options": [
+        "Repeating a mantra continuously",
+        "Cultivating an opposite, positive thought when a negative thought arises",
+        "Holding one's breath to calm the mind",
+        "Avoiding all social contact"
+      ],
+      "correctIndex": 1,
+      "explanation": "Pratipakshabhavana involves consciously generating the opposite, positive thought whenever a destructive or negative thought arises, as referenced in Yoga Sutra 2.33-34.",
+      "pageRef": "Handbook pg. 38"
+    },
+    {
+      "id": "q027",
+      "topic": "Conceptual Techniques",
+      "question": "The four Purusharthas (goals of human life) are:",
+      "options": [
+        "Yama, Niyama, Asana, Pranayama",
+        "Dharma, Artha, Kama, Moksha",
+        "Sattva, Rajas, Tamas, Prakriti",
+        "Vyadhi, Styana, Samshaya, Pramada"
+      ],
+      "correctIndex": 1,
+      "explanation": "The four Purusharthas are Dharma (duty), Artha (livelihood/means), Kama (pleasure/desire), and Moksha (liberation).",
+      "pageRef": "Handbook pg. 39"
+    },
+    {
+      "id": "q028",
+      "topic": "Human Systems & Physiology",
+      "question": "Homeostasis is best defined as:",
+      "options": [
+        "The complete absence of any bodily change",
+        "A self-regulating process maintaining dynamic stability under changing conditions",
+        "The process of digestion only",
+        "A state achieved only through Samadhi"
+      ],
+      "correctIndex": 1,
+      "explanation": "Homeostasis is a self-regulating biological process that maintains dynamic equilibrium as internal/external conditions change, e.g., regulation of body temperature or blood pressure.",
+      "pageRef": "Handbook pg. 40"
+    },
+    {
+      "id": "q029",
+      "topic": "Human Systems & Physiology",
+      "question": "A muscle contraction in which the muscle shortens while contracting (e.g., bending the elbow) is called:",
+      "options": [
+        "Isometric contraction",
+        "Eccentric contraction",
+        "Concentric contraction",
+        "Static contraction"
+      ],
+      "correctIndex": 2,
+      "explanation": "Concentric contraction is an isotonic contraction type in which the muscle shortens as it contracts, such as flexing the biceps brachii while bending the elbow.",
+      "pageRef": "Handbook pg. 43"
+    },
+    {
+      "id": "q030",
+      "topic": "Human Systems & Physiology",
+      "question": "Which blood component is primarily responsible for transporting oxygen throughout the body?",
+      "options": [
+        "White Blood Cells",
+        "Platelets",
+        "Red Blood Cells",
+        "Plasma"
+      ],
+      "correctIndex": 2,
+      "explanation": "Red Blood Cells contain haemoglobin, which transports oxygen from the lungs to all parts of the body.",
+      "pageRef": "Handbook pg. 45"
+    },
+    {
+      "id": "q031",
+      "topic": "Human Systems & Physiology",
+      "question": "Normal blood pressure is typically expressed as 120/80 mm Hg. What does the '80' (Diastolic pressure) represent?",
+      "options": [
+        "Pressure exerted when the heart contracts",
+        "Pressure exerted when the heart is between beats",
+        "The pulse rate per minute",
+        "The amount of oxygen in blood"
+      ],
+      "correctIndex": 1,
+      "explanation": "Diastolic pressure (usually below 80 mm Hg) is the pressure on vessel walls when the heart is relaxed, between beats; Systolic pressure (~120 mm Hg) occurs during heart contraction.",
+      "pageRef": "Handbook pg. 46"
+    },
+    {
+      "id": "q032",
+      "topic": "Human Systems & Physiology",
+      "question": "Which structure prevents food from entering the windpipe while swallowing?",
+      "options": [
+        "Larynx",
+        "Epiglottis",
+        "Trachea",
+        "Alveoli"
+      ],
+      "correctIndex": 1,
+      "explanation": "The epiglottis is a flap of cartilage that closes over the windpipe during swallowing, directing food into the oesophagus instead of the trachea.",
+      "pageRef": "Handbook pg. 47"
+    },
+    {
+      "id": "q033",
+      "topic": "Human Systems & Physiology",
+      "question": "What is the approximate normal value of Tidal Volume (TV), the air inhaled/exhaled in one normal breath?",
+      "options": [
+        "500 ml",
+        "1500 ml",
+        "3000 ml",
+        "6000 ml"
+      ],
+      "correctIndex": 0,
+      "explanation": "Tidal Volume, the volume of a single normal breath, is approximately 500 ml.",
+      "pageRef": "Handbook pg. 49"
+    },
+    {
+      "id": "q034",
+      "topic": "Human Systems & Physiology",
+      "question": "In the digestive system, the liquid food mixed with gastric acid in the stomach, which then passes to the small intestine, is called:",
+      "options": [
+        "Bile",
+        "Chyme",
+        "Plasma",
+        "Lymph"
+      ],
+      "correctIndex": 1,
+      "explanation": "Chyme is the liquid food formed in the stomach by mixing food with hydrochloric acid, mucous, and enzymes, before it passes through the pylorus to the small intestine.",
+      "pageRef": "Handbook pg. 52"
+    },
+    {
+      "id": "q035",
+      "topic": "Human Systems & Physiology",
+      "question": "Which endocrine gland produces melatonin and regulates the body's sleep-wake cycle?",
+      "options": [
+        "Thyroid gland",
+        "Pineal gland",
+        "Adrenal gland",
+        "Thymus gland"
+      ],
+      "correctIndex": 1,
+      "explanation": "The Pineal gland, located deep in the brain, produces melatonin, which regulates the body's internal clock for sleep and wakefulness.",
+      "pageRef": "Handbook pg. 54"
+    },
+    {
+      "id": "q036",
+      "topic": "Human Systems & Physiology",
+      "question": "Which Asana is specifically noted in the handbook as stimulating the thyroid and parathyroid glands?",
+      "options": [
+        "Sarvangasana",
+        "Halasana",
+        "Ardhamatsyendrasana",
+        "Padmasana"
+      ],
+      "correctIndex": 1,
+      "explanation": "Halasana is noted to improve thyroid and parathyroid gland functioning, while Sarvangasana supports pituitary/pineal glands and Ardhamatsyendrasana stimulates the pancreas.",
+      "pageRef": "Handbook pg. 55"
+    },
+    {
+      "id": "q037",
+      "topic": "Human Systems & Physiology",
+      "question": "In First Aid, the 'ABC' sequence stands for:",
+      "options": [
+        "Attention, Breathing, Calm",
+        "Airway, Breathing, Circulation",
+        "Assess, Bandage, Call",
+        "Airway, Bleeding, CPR"
+      ],
+      "correctIndex": 1,
+      "explanation": "ABC stands for Airway (ensure it's clear), Breathing (check/assist), and Circulation (check pulse, administer compressions if absent).",
+      "pageRef": "Handbook pg. 55"
+    },
+    {
+      "id": "q038",
+      "topic": "Yoga for Wellness",
+      "question": "The WHO's 1948 definition of health describes it as a state of complete well-being in which dimensions?",
+      "options": [
+        "Only physical well-being",
+        "Physical and mental well-being only",
+        "Physical, intellectual, emotional, social and spiritual well-being",
+        "Only the absence of disease"
+      ],
+      "correctIndex": 2,
+      "explanation": "The WHO defines health as complete physical, intellectual, emotional, social and spiritual well-being, and not merely the absence of disease or infirmity.",
+      "pageRef": "Handbook pg. 64"
+    },
+    {
+      "id": "q039",
+      "topic": "Yoga for Wellness",
+      "question": "According to Samkhya philosophy, pain (Dukha) caused by natural calamities like earthquakes or floods is categorized as:",
+      "options": [
+        "Adhyatmik",
+        "Adhibhautik",
+        "Adhidaivik",
+        "Adhikarik"
+      ],
+      "correctIndex": 2,
+      "explanation": "Adhidaivik pain arises from unknown/natural elements such as natural calamities, distinct from Adhyatmik (self-caused) and Adhibhautik (caused by other beings) pain.",
+      "pageRef": "Handbook pg. 65"
+    },
+    {
+      "id": "q040",
+      "topic": "Yoga for Wellness",
+      "question": "In the concept of Triguna, which Guna is characterized by balance, harmony, purity, and wellbeing?",
+      "options": [
+        "Rajas",
+        "Tamas",
+        "Sattva",
+        "Avidya"
+      ],
+      "correctIndex": 2,
+      "explanation": "Sattva represents balance, harmony, purity, health, and wellbeing; Rajas is activity/restlessness, and Tamas is lethargy/dullness.",
+      "pageRef": "Handbook pg. 67"
+    },
+    {
+      "id": "q041",
+      "topic": "Yoga for Wellness",
+      "question": "A Tamasic diet, as described in the handbook, typically includes which of the following?",
+      "options": [
+        "Fresh fruits and sprouts",
+        "Stale, processed, and reheated food, alcohol, and meat",
+        "Honey and herbs",
+        "Fresh vegetable juices"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tamasic food includes 'dead' or heavy foods such as meat, fish, stale/processed food, alcohol, and drugs - pulling consciousness toward laziness and inertia.",
+      "pageRef": "Handbook pg. 68"
+    },
+    {
+      "id": "q042",
+      "topic": "Yoga for Wellness",
+      "question": "Per the handbook, one gram of fat provides approximately how many calories of energy?",
+      "options": [
+        "4 calories",
+        "7 calories",
+        "9 calories",
+        "12 calories"
+      ],
+      "correctIndex": 2,
+      "explanation": "One gram of fat provides about 9 calories of energy, compared to 4 calories each for protein and carbohydrate.",
+      "pageRef": "Handbook pg. 70"
+    },
+    {
+      "id": "q043",
+      "topic": "Yoga & Stress Management",
+      "question": "'Eustress', as described in the handbook, refers to:",
+      "options": [
+        "Chronic harmful stress",
+        "Good stress that provides challenge and motivation, leading to better performance",
+        "A type of Klesha",
+        "A respiratory disorder"
+      ],
+      "correctIndex": 1,
+      "explanation": "Eustress is positive stress - the kind that comes from challenge and motivation (e.g., from competition) - that can heighten performance and awareness.",
+      "pageRef": "Handbook pg. 77"
+    },
+    {
+      "id": "q044",
+      "topic": "Yoga & Stress Management",
+      "question": "Which three virtues, which together constitute Kriya Yoga, are described as especially effective in reducing Kleshas and managing stress?",
+      "options": [
+        "Yama, Niyama, Asana",
+        "Tapa, Swadhyaya, Ishwarapranidhana",
+        "Pratyaksha, Anumana, Agama",
+        "Dharana, Dhyana, Samadhi"
+      ],
+      "correctIndex": 1,
+      "explanation": "Kriya Yoga consists of Tapa (austerity), Swadhyaya (self-study), and Ishwarapranidhana (surrender to God) - together correcting wrong tendencies that cause stress.",
+      "pageRef": "Handbook pg. 77"
+    },
+    {
+      "id": "q045",
+      "topic": "Yoga & Stress Management",
+      "question": "'Klishta Vrittis' are mental modifications that:",
+      "options": [
+        "Are based on the Kleshas and cause pain/suffering",
+        "Never occur in an untrained mind",
+        "Are the same as Samadhi",
+        "Only occur during sleep"
+      ],
+      "correctIndex": 0,
+      "explanation": "Klishta Vrittis are vrittis rooted in the Kleshas and are sources of pain/suffering, as opposed to Aklishta Vrittis which do not cause suffering.",
+      "pageRef": "Handbook pg. 74"
+    },
+    {
+      "id": "q046",
+      "topic": "Yoga & Stress Management",
+      "question": "According to the Yogic perspective presented in the handbook, a mentally 'healthy mind' is primarily one that is:",
+      "options": [
+        "Highly reactive and always busy",
+        "Calm, clear, detached, and capable of one-pointedness (Ekagrata)",
+        "Free of all thoughts permanently",
+        "Completely isolated from society"
+      ],
+      "correctIndex": 1,
+      "explanation": "Yoga defines a healthy mind as calm, clear, detached, and capable of Ekagrata (one-pointedness), able to understand and control emotions.",
+      "pageRef": "Handbook pg. 75"
+    },
+    {
+      "id": "q047",
+      "topic": "Yoga & Stress Management",
+      "question": "Pratyahara is often called the 'bridge' between Bahiranga and Antaranga Yoga because it:",
+      "options": [
+        "Is a physical posture",
+        "Is the final step of Bahiranga Yoga that prepares the mind for Dharana, Dhyana, and Samadhi",
+        "Has no connection to the eight limbs",
+        "Replaces the need for Asana"
+      ],
+      "correctIndex": 1,
+      "explanation": "Pratyahara, the withdrawal of the senses, is the last of the five Bahiranga (external) limbs, preparing the practitioner for the internal (Antaranga) stages of concentration.",
+      "pageRef": "Handbook pg. 78"
+    },
+    {
+      "id": "q048",
+      "topic": "Communication & Teaching",
+      "question": "Non-verbal communication for a Yoga teacher includes all of the following EXCEPT:",
+      "options": [
+        "Gestures and facial expressions",
+        "Physical classroom environment",
+        "Clothing and appearance",
+        "Choice of precise vocabulary while speaking"
+      ],
+      "correctIndex": 3,
+      "explanation": "Choice of precise vocabulary is part of verbal communication. Non-verbal communication covers behaviour, gestures, appearance, and the physical environment.",
+      "pageRef": "Handbook pg. 80"
+    },
+    {
+      "id": "q049",
+      "topic": "Communication & Teaching",
+      "question": "What is the recommended sequence of teaching Yoga techniques in a present-day class, according to the handbook?",
+      "options": [
+        "Pranayama, Asana, Kriyas, Meditation",
+        "Kriyas, Sahaj Bhava Asanas, Surya Namaskar, Asana, Breathing Exercises, Pranayama, Dharana/Dhyana",
+        "Meditation first, then physical warm-up",
+        "Asana only, without any other components"
+      ],
+      "correctIndex": 1,
+      "explanation": "The recommended sequence is Kriyas, Sahaj Bhava Asanas (Sukshma Vyayama), Surya Namaskar, Asana, Breathing Exercises, Pranayama, then Dharana and Dhyana.",
+      "pageRef": "Handbook pg. 84"
+    },
+    {
+      "id": "q050",
+      "topic": "Communication & Teaching",
+      "question": "Which of the following is listed as something a Yoga teacher should NOT do?",
+      "options": [
+        "Encourage students to progress at their own pace",
+        "Act as a medical or psychological practitioner",
+        "Base instructions on careful observation of students",
+        "See students as individuals"
+      ],
+      "correctIndex": 1,
+      "explanation": "The handbook explicitly states a Yoga teacher must not act as a medical or psychological practitioner, but should simply teach Yoga practice and refer acute cases to specialists.",
+      "pageRef": "Handbook pg. 86"
+    },
+    {
+      "id": "q051",
+      "topic": "General Rules of Practice",
+      "question": "What is the recommended standard daily duration for Asana practice, according to the handbook's general rules?",
+      "options": [
+        "5-10 minutes",
+        "25-30 minutes",
+        "60-90 minutes",
+        "There is no limit"
+      ],
+      "correctIndex": 1,
+      "explanation": "The standard recommended daily dose of Yoga (Asana) exercise is around 25-30 minutes, with missed days made up as soon as possible.",
+      "pageRef": "Handbook pg. 89"
+    },
+    {
+      "id": "q052",
+      "topic": "General Rules of Practice",
+      "question": "Before taking up traditional Pranayama practice, an aspirant must first:",
+      "options": [
+        "Learn advanced meditation techniques",
+        "Perfect the Asanas and complete purificatory Kriyas if needed",
+        "Fast for a week",
+        "Travel to the Himalayas"
+      ],
+      "correctIndex": 1,
+      "explanation": "The general rules state the aspirant must perfect Asanas before Pranayama, and should first undertake the six purificatory Kriyas if not already physiologically healthy.",
+      "pageRef": "Handbook pg. 157"
+    },
+    {
+      "id": "q053",
+      "topic": "Asana Theory",
+      "question": "For beginners, which style of Asana practice does Shri Yogendraji recommend, as opposed to long static holds?",
+      "options": [
+        "Dynamic practice - holding briefly with several repeated rounds",
+        "Holding each Asana for 30 minutes",
+        "Practicing only at midnight",
+        "Skipping Asana and going straight to Pranayama"
+      ],
+      "correctIndex": 0,
+      "explanation": "For beginners, Shri Yogendraji recommends dynamic practice - short holds repeated over several rounds - with static holds reserved for advanced practitioners.",
+      "pageRef": "Handbook pg. 89"
+    },
+    {
+      "id": "q054",
+      "topic": "Asana Theory",
+      "question": "According to the general rules for Asana selection, a good daily Asana course should primarily aim to:",
+      "options": [
+        "Demonstrate acrobatic ability",
+        "Exercise major joints and muscle groups, improve circulation, and contribute to steadiness",
+        "Focus solely on advanced inversions",
+        "Be chosen randomly each day"
+      ],
+      "correctIndex": 1,
+      "explanation": "A good Asana course exercises joints and major muscle groups (spinal, abdominal), improves circulation, and builds steadiness and positive experience - not acrobatic display.",
+      "pageRef": "Handbook pg. 89"
+    },
+    {
+      "id": "q055",
+      "topic": "Pranayama & Kriya Theory",
+      "question": "What is the maximum number of Pranayama rounds recommended in a single sitting, according to the handbook's general rules?",
+      "options": [
+        "10 rounds",
+        "30 rounds",
+        "50 rounds",
+        "There is no recommended limit"
+      ],
+      "correctIndex": 1,
+      "explanation": "The handbook recommends not exceeding thirty rounds of Pranayama altogether in one sitting.",
+      "pageRef": "Handbook pg. 158"
+    }
+  ]
+}

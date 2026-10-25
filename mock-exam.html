@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Mock Exam Generator</title>
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+<div id="topnav-container"></div>
+
+<div class="page">
+  <div class="page-header">
+    <h1>Mock Exam Generator</h1>
+    <p>Generate a randomized MCQ test from the full question bank — default format mirrors the real exam (55 questions).</p>
+  </div>
+
+  <!-- SETUP SCREEN -->
+  <div id="setupScreen" class="card">
+    <h3 style="margin-bottom:16px;">New Mock Exam</h3>
+    <div class="exam-setup-form">
+      <div>
+        <label for="numQuestions">Number of questions</label>
+        <select id="numQuestions">
+          <option value="55" selected>55 (full mock exam)</option>
+          <option value="25">25 (quick practice)</option>
+          <option value="10">10 (rapid drill)</option>
+          <option value="all">All available questions</option>
+        </select>
+      </div>
+      <div>
+        <label for="timeLimit">Time limit</label>
+        <select id="timeLimit">
+          <option value="60" selected>60 minutes</option>
+          <option value="45">45 minutes</option>
+          <option value="30">30 minutes</option>
+          <option value="0">Untimed</option>
+        </select>
+      </div>
+      <div>
+        <label>Topics to include</label>
+        <div class="topic-checklist" id="topicChecklist"></div>
+        <div class="btn-row" style="margin-top:8px;">
+          <button class="btn" id="selectAllTopics" type="button">Select all</button>
+          <button class="btn" id="clearAllTopics" type="button">Clear all</button>
+        </div>
+      </div>
+      <div class="btn-row">
+        <button class="btn primary" id="startExamBtn">▶ Start Mock Exam</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- EXAM SCREEN -->
+  <div id="examScreen" style="display:none;">
+    <div class="topnav" style="margin-bottom:16px; border-radius:10px;">
+      <div class="brand" id="examProgressLabel">Question 1 of 55</div>
+      <div class="exam-timer" id="examTimer">60:00</div>
+      <div class="btn-row">
+        <button class="btn" id="flagBtn">⚑ Flag</button>
+        <button class="btn primary" id="submitExamBtn">Submit Exam</button>
+      </div>
+    </div>
+    <div class="exam-nav-grid" id="examNavGrid"></div>
+    <div id="questionCard"></div>
+    <div class="btn-row">
+      <button class="btn" id="prevQBtn">← Previous</button>
+      <button class="btn" id="nextQBtn">Next →</button>
+    </div>
+  </div>
+
+  <!-- RESULTS SCREEN -->
+  <div id="resultsScreen" style="display:none;">
+    <div class="card" style="margin-bottom:20px;">
+      <div class="score-ring-wrap">
+        <div>
+          <div class="score-big" id="scoreBig">0/0</div>
+          <div class="score-sub" id="scoreSub"></div>
+        </div>
+        <div class="btn-row">
+          <button class="btn primary" id="reviewBtn">📋 Review Answers</button>
+          <button class="btn ghost" id="retakeBtn">🔁 New Mock Exam</button>
+        </div>
+      </div>
+      <h3 style="margin-bottom:10px;">Topic Breakdown</h3>
+      <div id="topicBreakdown"></div>
+    </div>
+    <div id="reviewSection"></div>
+  </div>
+
+  <div class="card" id="historyCard">
+    <h3>Exam History</h3>
+    <div id="historyBody"></div>
+  </div>
+</div>
+
+<footer class="site-footer">All scores are saved locally in this browser.</footer>
+
+<script src="js/app.js"></script>
+<script src="js/mock-exam.js"></script>
+</body>
+</html>

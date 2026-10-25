@@ -1,0 +1,389 @@
+{
+  "generalRules": [
+    "Those not yet physiologically healthy should first complete the six purificatory acts (Dhauti, Basti, Neti, Trataka, Nauli, Kapalabhati); the physiologically healthy need these less.",
+    "Asanas should be perfected, under a teacher's guidance, before taking up Pranayama.",
+    "Practice regularly with a clean, undistracted mind, free of laziness, and full of enthusiasm, courage and surrender.",
+    "Pranayama should be done gradually - breath expelled slowly and filled in cautiously, never forced.",
+    "In early traditional practice a diet of milk and clarified butter is recommended; once practice stabilizes this restriction eases.",
+    "The average modern practitioner should attempt Pranayama only after the respiratory system is well acclimatized.",
+    "Ignoring gradation in practice can disturb homeostasis, cause schizophrenic tendencies, hiccoughs, respiratory disorders, catarrh, and pain in the head, eyes and ears, as well as psychosomatic ailments from breathing-related nervous agitation.",
+    "Begin with 5-10 minutes of preliminary conditioning in Sukhasana or another meditative pose.",
+    "Do not strain or constrict any part of the body, including the facial muscles.",
+    "Hold the abdomen in its normal contour unless a technique specifies otherwise.",
+    "Keep the spine erect and practice with full concentration, focusing the mind on the points specified.",
+    "Avoid quick, jerky movements; breathe out slowly and fill in cautiously.",
+    "Concentrate on every stage of the Pranayama.",
+    "Not recommended for children below 12 years of age.",
+    "Those with epilepsy, vertigo, cervical spondylosis, giddiness, imbalance, or those observing ritualistic fasting should sit and practice carefully (seek guidance as needed).",
+    "The Institute's Pranayama techniques are simplified for householders - to build awareness of breath, purify and strengthen the breathing muscles, and improve lung capacity.",
+    "Do not exceed thirty rounds of Pranayama altogether in one sitting.",
+    "Pranayama is usually practiced after Asana; if practiced standalone, allow at least a 3-hour gap after a meal."
+  ],
+  "items": [
+    {
+      "id": "yogendra-pranayama-i",
+      "name": "Yogendra Pranayama I",
+      "sanskritMeaning": "Equal breathing",
+      "category": "Pranayama",
+      "introduction": "Before learning the traditional Pranayamas, it is important to become aware of the breath and breathing mechanism. This practice begins with equalizing inhalation and exhalation.",
+      "startingPosition": [
+        "Stand or sit erect in any meditative posture, shoulders relaxed, hands by the sides.",
+        "Keep the spine erect and feet apart (if standing); abdomen held in normal contour.",
+        "Eyes closed (kept open if standing)."
+      ],
+      "steps": [
+        "Inhale slowly and continuously in a relaxed manner, to a comfortable count.",
+        "As soon as inhalation is complete, start exhaling slowly to the same count, equalizing inhalation and exhalation.",
+        "Concentrate on the gentle, uninterrupted flow of breath, being aware of the diaphragm, intercostal and clavicular muscles."
+      ],
+      "breath": "Equal-count inhalation and exhalation (count not exceeding 3 seconds).",
+      "recommendedPractice": "Practice as per individual capacity and comfort, count not exceeding 3 seconds; 5 rounds/session.",
+      "limitations": [
+        "None."
+      ],
+      "benefits": [
+        "Builds awareness of breathing and the inter-relationship between mental states and breath.",
+        "Sedative effect on the nervous system.",
+        "Improves concentration.",
+        "Brings quietude, inner harmony and mindfulness."
+      ],
+      "pageRef": "Handbook pg. 159",
+      "pdfHref": "resources/handbook.pdf#page=159"
+    },
+    {
+      "id": "yogendra-pranayama-ii",
+      "name": "Yogendra Pranayama II",
+      "sanskritMeaning": "Intercostal breathing",
+      "category": "Pranayama",
+      "introduction": "This practice exercises the muscles of the rib cage.",
+      "startingPosition": [
+        "Stand or sit erect, shoulders relaxed, hands by the sides.",
+        "Keep the spine erect, feet about one foot apart (if standing); abdomen held in normal contour.",
+        "Place the hands on the lower ribs, on either side of the rib cage below the nipples, thumbs extended backwards.",
+        "Eyes closed (kept open if standing)."
+      ],
+      "steps": [
+        "Inhale by expanding the intercostal muscles (front and back) to a comfortable count.",
+        "Begin exhaling as soon as inhalation is complete, keeping the same count, equalizing inhalation and exhalation.",
+        "Try not to move the abdomen and clavicle muscles.",
+        "Focus on the lower part of the ribs as the lungs expand."
+      ],
+      "breath": "Equal-count inhalation and exhalation focused on intercostal expansion (count not exceeding 3 seconds).",
+      "recommendedPractice": "Practice as per individual capacity and comfort, count not exceeding 3 seconds; 5 rounds/session.",
+      "limitations": [
+        "None."
+      ],
+      "benefits": [
+        "Better oxygen supply to body cells.",
+        "Improves vital capacity of lungs - good for asthmatics.",
+        "Exercises and develops the intercostal muscles, improving mobility of the chest wall."
+      ],
+      "pageRef": "Handbook pg. 160",
+      "pdfHref": "resources/handbook.pdf#page=160"
+    },
+    {
+      "id": "yogendra-pranayama-iii",
+      "name": "Yogendra Pranayama III",
+      "sanskritMeaning": "Clavicular breathing",
+      "category": "Pranayama",
+      "introduction": "An excellent technique for increasing vital capacity by using the unused upper area of the lungs - the clavicular region - opened up when the upper ribs and clavicles (collar bones) are pulled upward by the muscles of the neck, throat and sternum.",
+      "startingPosition": [
+        "Stand or sit erect, shoulders relaxed, hands by the sides.",
+        "Keep the spine erect and feet apart (if standing); abdomen held in normal contour.",
+        "Raise the hands and hold the respective shoulder - thumbs extending behind, fingers in front, just below the collar bone.",
+        "Keep the elbows in line with the shoulders.",
+        "Eyes closed (kept open if standing)."
+      ],
+      "steps": [
+        "Gently inhale using the clavicle muscles, with a slight upward and then backward movement of the shoulders.",
+        "Focus on the area below the armpits.",
+        "Keep the intercostal and abdominal muscles controlled, without movement.",
+        "Start exhaling as soon as inhalation is complete, keeping the same count - equalizing inhalation and exhalation."
+      ],
+      "breath": "Equal-count inhalation and exhalation focused on clavicular (upper chest) expansion (count not exceeding 3 seconds).",
+      "recommendedPractice": "Practice as per individual capacity and comfort, count not exceeding 3 seconds; 5 rounds/session.",
+      "limitations": [
+        "None."
+      ],
+      "benefits": [
+        "Ventilates residual air normally collected in the unused area of the lungs.",
+        "Prevents TB and other respiratory problems."
+      ],
+      "pageRef": "Handbook pg. 161",
+      "pdfHref": "resources/handbook.pdf#page=161"
+    },
+    {
+      "id": "yogendra-pranayama-iv",
+      "name": "Yogendra Pranayama IV",
+      "sanskritMeaning": "Diaphragm breathing",
+      "category": "Pranayama",
+      "introduction": "Exercises the diaphragm, the musculo-membranous partition separating the thoracic and abdominal cavities, which flattens during inhalation to enlarge the thoracic cavity and expand the lungs. Practiced lying down (supine), which aids optimal movement of the diaphragm.",
+      "startingPosition": [
+        "Lie supine and pull up the knees close to the hips.",
+        "Keep the feet 1 foot apart or hip-width apart (as comfortable); knees close to each other.",
+        "Place one hand on the abdomen (navel region); the other hand may rest at the side, palm facing up or down, as comfortable.",
+        "Eyes closed."
+      ],
+      "steps": [
+        "Inhale gently, moving the abdomen upwards.",
+        "As soon as inhalation is complete, exhale smoothly, being aware of the abdomen falling and sinking in.",
+        "Keep the inhalation and exhalation count equal, as per individual comfort."
+      ],
+      "breath": "Equal-count abdominal (diaphragmatic) inhalation and exhalation (count not exceeding 3 seconds).",
+      "recommendedPractice": "Practice as per individual capacity and comfort, count not exceeding 3 seconds; 10 rounds/session.",
+      "limitations": [
+        "None."
+      ],
+      "benefits": [
+        "Keeps digestive organs active.",
+        "Reduces fat collected around the stomach.",
+        "Improves breathing - vital capacity and tidal volume.",
+        "Leads to quietude and inner harmony.",
+        "Sedative effect on the nervous system, relaxing the entire body."
+      ],
+      "pageRef": "Handbook pg. 162",
+      "pdfHref": "resources/handbook.pdf#page=162"
+    },
+    {
+      "id": "yogendra-pranayama-ix-anuloma-viloma",
+      "name": "Yogendra Pranayama IX (Anuloma-Viloma)",
+      "sanskritMeaning": "Alternate nostril breathing",
+      "category": "Pranayama",
+      "introduction": "We naturally inhale and exhale through one nostril for roughly 1.5 hours before the other nostril unconsciously takes over. This Pranayama regulates that natural rhythm, bringing balance between the positive and negative effects of breathing on body and mind.",
+      "startingPosition": [
+        "Do preliminary conditioning in Sukhasana or any other meditative posture (or a firm chair with an erect backrest).",
+        "Keep the body above the waist straight and the spine erect; eyes closed."
+      ],
+      "steps": [
+        "Do a few rounds of normal inhalation and exhalation.",
+        "Hold the right fingers to the nostrils - little and ring finger resting on the left nostril, thumb on the right nostril, forefinger and middle finger bent (Pranav Mudra).",
+        "After exhalation, close both nostrils and suspend the breath (Shunyaka).",
+        "Release the thumb and inhale smoothly from the right nostril (Puraka).",
+        "Close both nostrils and retain the breath for double the time of inhalation (Kumbhaka).",
+        "Release the left nostril and exhale smoothly from the left nostril, in time equal to the inhalation (Rechaka).",
+        "Immediately inhale from the left nostril (Puraka).",
+        "Close both nostrils and retain the breath for double the inhalation period (Kumbhaka).",
+        "Release the thumb and exhale smoothly from the right nostril (Rechaka).",
+        "Close both nostrils and suspend the breath (Shunyaka).",
+        "Close the right nostril and inhale from the left one.",
+        "Do Kumbhaka for double the inhalation period, then exhale smoothly from the right nostril.",
+        "Immediately inhale from the right nostril.",
+        "Do Kumbhaka, then exhale from the left nostril.",
+        "Do Shunyaka to complete one round.",
+        "After Shunyaka, take a few normal breaths and relax."
+      ],
+      "breath": "Alternate-nostril ratio, starting at 2:4:2:2 (inhalation:retention:exhalation:suspension in seconds), gradually increased by 1 second per week up to a maximum of 8:16:8:8.",
+      "recommendedPractice": "Practice daily, 5 rounds/day, starting at a count of 2:4:2:2 seconds and gradually increasing by 1 second/week to a maximum ratio of 8:16:8:8.",
+      "limitations": [
+        "Children under 12 years should not practice.",
+        "Cardiac patients should not exceed their individual time capacity."
+      ],
+      "benefits": [
+        "Favourable pressure changes in the lungs for better oxygenation.",
+        "Brings quietude and inner harmony.",
+        "Sedative effect on the nervous system; improves concentration.",
+        "Balances the body's energies, helping cope with pains and aches."
+      ],
+      "pageRef": "Handbook pg. 163-164",
+      "pdfHref": "resources/handbook.pdf#page=163"
+    },
+    {
+      "id": "yogendra-pranayama-bhastrika",
+      "name": "Yogendra Pranayama Bhastrika",
+      "sanskritMeaning": "Bellows breath",
+      "category": "Pranayama",
+      "introduction": "Bhastrika means 'bellows'. Just as bellows fan a fire, this Pranayama increases the flow of air into the body to generate heat at both the physical and subtle level, stoking the inner fire of mind and body.",
+      "startingPosition": [
+        "Do preliminary conditioning in Sukhasana or any other meditative posture (or a firm chair with an erect backrest).",
+        "Keep the body above the waist straight and the spine erect; eyes closed."
+      ],
+      "steps": [
+        "Take in a deep breath and breathe out forcefully through the nose, without strain.",
+        "Immediately breathe in with the same force.",
+        "Inhale and exhale repeatedly, deeply and fully, using the diaphragmatic muscles with vigour.",
+        "Do 10 cycles to complete 1 round."
+      ],
+      "breath": "Rapid, forceful, equal-force diaphragmatic inhalation and exhalation cycles through the nose.",
+      "recommendedPractice": "Practice 3 rounds/session, with a pause in between rounds.",
+      "limitations": [
+        "Heart ailments, hypertension, high BP, fever, vertigo, pregnancy, abdominal disorders, spinal abnormalities and eye ailments such as detached retina or glaucoma."
+      ],
+      "benefits": [
+        "Favourable effect on the respiratory and digestive systems.",
+        "Drains excess phlegm from the lungs.",
+        "Oxygenates the blood, increasing vitality of all organs and tissues.",
+        "Strengthens and tones the abdominal region.",
+        "Calms the mind.",
+        "Energizes the entire body and mind."
+      ],
+      "pageRef": "Handbook pg. 164-165",
+      "pdfHref": "resources/handbook.pdf#page=164"
+    },
+    {
+      "id": "yogendra-pranayama-bhramari",
+      "name": "Yogendra Pranayama Bhramari",
+      "sanskritMeaning": "Bee breath",
+      "category": "Pranayama",
+      "introduction": "Bhramari comes from 'Bramar', a black Indian bee. The practice replicates the resounding echo of a humming bee, resonating in the head region and bringing a sense of unity and concentration.",
+      "startingPosition": [
+        "Do preliminary conditioning in Sukhasana or any other meditative posture (or a firm chair with an erect backrest).",
+        "Keep the body above the waist straight and the spine erect; eyes may be kept closed."
+      ],
+      "steps": [
+        "Keep the mouth closed throughout the practice.",
+        "Inhale; while exhaling, make a humming-bee sound slowly, smoothly and continuously in a controlled manner.",
+        "The sound need not be loud but should create vibrations."
+      ],
+      "breath": "Normal inhalation; slow, controlled, humming exhalation with audible vibration.",
+      "recommendedPractice": "Practice 5-10 rounds/session, with a pause in between rounds. Not to be practised lying down.",
+      "limitations": [
+        "None - safe for all."
+      ],
+      "benefits": [
+        "Beneficial effect on the autonomic nervous system.",
+        "Restores elasticity of the lungs; beneficial in asthmatic conditions.",
+        "Induces meditative states and quietens the mind when practiced daily.",
+        "Beneficial in relieving hypertension and stress.",
+        "Relaxes the mind, lowers stress and reduces tension and anxiety.",
+        "Helps reduce anger and frustration."
+      ],
+      "pageRef": "Handbook pg. 165",
+      "pdfHref": "resources/handbook.pdf#page=165"
+    },
+    {
+      "id": "yogendra-pranayama-sheetali",
+      "name": "Yogendra Pranayama Sheetali",
+      "sanskritMeaning": "The cooling breath (from 'sheet' = cold)",
+      "category": "Pranayama",
+      "introduction": "Sheetali is derived from the root 'sheet' meaning cold; 'sheetal' means that which is calm, passionless and soothing.",
+      "startingPosition": [
+        "Do preliminary conditioning in Sukhasana or any other meditative posture (or a firm chair with an erect backrest).",
+        "Keep the body above the waist straight and the spine erect; eyes closed.",
+        "Extend the tongue outside the mouth as far as possible without strain, and curl its sides up so it forms a tube.",
+        "Keep the mind calm, relaxed and peaceful."
+      ],
+      "steps": [
+        "After a short exhalation, start inhaling from the mouth through the tongue - slowly and rhythmically, in one long unbroken inspiration, with a hissing sound.",
+        "Continue inhaling till a sense of fullness is felt in the chest.",
+        "Withdraw the tongue inside and close the mouth.",
+        "Exhale through the nose as naturally as possible, gradually and without jerky or hasty movements.",
+        "Take a few normal breaths and relax."
+      ],
+      "breath": "Inhale through a tube-shaped tongue with a hissing sound; exhale naturally through the nose.",
+      "recommendedPractice": "Practice 5 rounds/session with a pause in between rounds; practice without strain, to a count as per individual comfort.",
+      "limitations": [
+        "Low BP; respiratory disorders such as asthma, bronchitis, chest congestion.",
+        "Cools activity of the lower energy centres, so avoid in case of constipation."
+      ],
+      "benefits": [
+        "Controls hunger, thirst, sleep and lethargy.",
+        "Helps manage psychosomatic ailments.",
+        "Helps reduce ailments of the abdomen.",
+        "Cools and calms the body and mind."
+      ],
+      "pageRef": "Handbook pg. 166",
+      "pdfHref": "resources/handbook.pdf#page=166"
+    },
+    {
+      "id": "yogendra-pranayama-sitkari",
+      "name": "Yogendra Pranayama Sitkari",
+      "sanskritMeaning": "The hissing breath",
+      "category": "Pranayama",
+      "introduction": "An ancient practice named after the 'hissing' sound it produces.",
+      "startingPosition": [
+        "Do preliminary conditioning in Sukhasana or any other meditative posture (or a firm chair with an erect backrest).",
+        "Keep the body above the waist straight and the spine erect; eyes closed.",
+        "Touch the tongue to the palate, keeping the teeth clenched.",
+        "Keep the mind calm, relaxed and peaceful."
+      ],
+      "steps": [
+        "After a short exhalation, inhale deeply through the clenched teeth from the corners of the mouth, creating a hissing sound.",
+        "Keep the lips slightly parted.",
+        "Continue inhaling till a sense of fullness.",
+        "Exhale through the nose as naturally as possible, gradually and without jerky or hasty movements.",
+        "Take a few normal breaths and relax."
+      ],
+      "breath": "Inhale through clenched teeth with a hissing sound; exhale naturally through the nose.",
+      "recommendedPractice": "Practice 5 rounds/session with a pause in between rounds; practice without strain, to a count as per individual comfort.",
+      "limitations": [
+        "Serious cardiac and hypertension cases.",
+        "Low BP; respiratory disorders such as asthma, bronchitis, chest congestion.",
+        "Cools activity of the lower energy centres, so avoid in case of constipation.",
+        "Should not be done in very cold weather or when the body is cold."
+      ],
+      "benefits": [
+        "Helps keep the abdomen, spleen and liver free from disorder or disease.",
+        "Controls hunger, thirst, sleep and lethargy.",
+        "Controls body temperature and reduces fever.",
+        "Helps remove toxins from the body and purify the blood.",
+        "Relaxes body and mind and reduces emotional excitation and mental tension."
+      ],
+      "pageRef": "Handbook pg. 167",
+      "pdfHref": "resources/handbook.pdf#page=167"
+    },
+    {
+      "id": "yogendra-pranayama-suryabhedana-chandrabhedana",
+      "name": "Yogendra Pranayama Suryabhedana-Chandrabhedana",
+      "sanskritMeaning": "Surya = sun (pingala-nadi/right nostril), Chandra = moon (ida-nadi/left nostril); bheda = to pierce, pass through or awaken",
+      "category": "Pranayama",
+      "introduction": "Suryabhedana pierces or purifies the pingala-nadi (right/solar channel) by inhaling through the right nostril and exhaling through the left. Chandrabhedana is its complement, piercing or purifying the ida-nadi (left/lunar channel) by inhaling through the left nostril and exhaling through the right. Both are alternate-nostril practices taught as a pair.",
+      "startingPosition": [
+        "Do preliminary conditioning in Sukhasana or any other meditative posture (or a firm chair with an erect backrest).",
+        "Keep the body above the waist straight and the spine erect; eyes closed."
+      ],
+      "steps": [
+        "Hold the right fingers to the nostrils - little and ring finger resting on the left nostril, thumb on the right nostril, forefinger and middle finger bent (Pranav Mudra).",
+        "Suryabhedana: inhale from the right nostril, maintaining a steady, slow, rhythmic flow, to individual capacity.",
+        "Exhale gently from the left nostril, gradually and without jerky or hasty movement - this completes one round; begin the next round again inhaling from the right nostril.",
+        "Chandrabhedana: inhale from the left nostril, maintaining a steady, slow, rhythmic flow, to individual capacity.",
+        "Exhale gently from the right nostril, gradually and without jerky or hasty movement - this completes one round; begin the next round again inhaling from the left nostril."
+      ],
+      "breath": "Suryabhedana: inhale right nostril, exhale left nostril. Chandrabhedana: inhale left nostril, exhale right nostril. Both slow and rhythmic, to individual capacity.",
+      "recommendedPractice": "Practice 5 rounds/session, with a pause in between rounds (for each of Suryabhedana and Chandrabhedana).",
+      "limitations": [
+        "Suryabhedana: high BP, hypertension, heart disease and epilepsy.",
+        "Chandrabhedana: low BP, asthma, cough, cold and other respiratory disorders."
+      ],
+      "benefits": [
+        "Suryabhedana: cleanses the frontal sinuses; relieves sufferings due to worms and bacteria; relief in respiratory disorders; helps relieve diseases arising from excess vata-dosha.",
+        "Chandrabhedana: beneficial in mental tension, agitation, high BP and heart disease; helps reduce body heat; regulates flow of bile; relief from tension, stress and other mental problems."
+      ],
+      "pageRef": "Handbook pg. 168-169",
+      "pdfHref": "resources/handbook.pdf#page=168"
+    },
+    {
+      "id": "yogendra-pranayama-ujjayi",
+      "name": "Yogendra Pranayama Ujjayi",
+      "sanskritMeaning": "The victorious breath (from 'jaya' = victory)",
+      "category": "Pranayama",
+      "introduction": "Ujjayi, meaning victorious, is the Pranayama said to give freedom from bondage, practiced with a constricted throat producing an audible friction sound.",
+      "startingPosition": [
+        "Do preliminary conditioning in Sukhasana or any other meditative posture (or a firm chair with an erect backrest).",
+        "Keep the body above the waist straight and the spine erect; eyes closed."
+      ],
+      "steps": [
+        "Close the mouth and constrict the throat (the glottis, a part of the larynx).",
+        "Make a short exhalation, then start inhaling slowly and rhythmically in one long, unbroken inspiration.",
+        "Allow the air to pass through the constricted throat, creating a 'friction sound'.",
+        "Continue inhaling till a sense of fullness.",
+        "Exhale with the same throat constriction, as naturally as possible, gradually and without jerky or hasty movement.",
+        "Take a few normal breaths and relax."
+      ],
+      "breath": "Inhalation and exhalation both through a constricted throat/glottis, producing an audible friction sound, slow and unbroken.",
+      "recommendedPractice": "Practice daily, 5 rounds/session with a pause in between rounds; practice without strain, till a sense of fullness is experienced, to a count as per individual comfort.",
+      "limitations": [
+        "Not recommended in serious cardiac and hypertension cases."
+      ],
+      "benefits": [
+        "Helps rectify fluid retention in the body (edema/dropsy).",
+        "Clears phlegm and increases appetite.",
+        "Beneficial in chronic cold, cough, indigestion, liver problems, dysentery, fever and other diseases.",
+        "Supports Ghatashuddhi - purification of the seven dhatus (elements): skin, flesh, blood, bones, marrow, fat and semen.",
+        "Enriches the voice.",
+        "Stimulates and balances the thyroid."
+      ],
+      "pageRef": "Handbook pg. 169-170",
+      "pdfHref": "resources/handbook.pdf#page=169"
+    }
+  ]
+}

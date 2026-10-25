@@ -1,0 +1,1600 @@
+{
+  "categories": [
+    "Yoga Philosophy & History",
+    "Hatha Yoga",
+    "Patanjali's Yoga Sutras",
+    "Conceptual Techniques",
+    "Human Systems & Physiology",
+    "Yoga for Wellness",
+    "Yoga & Stress Management",
+    "Communication & Teaching",
+    "General Rules of Practice",
+    "Glossary"
+  ],
+  "cards": [
+    {
+      "id": "etymology-yoga",
+      "category": "Yoga Philosophy & History",
+      "topic": "Etymology of Yoga",
+      "front": "What is the Sanskrit root of the word 'Yoga' and what does it mean?",
+      "back": "'Yoga' comes from the root 'yuj', meaning 'to yoke' or 'to unite'. In the spiritual sense it signifies the union of the individual mind with the divine intelligence of the universe.",
+      "pageRef": "Handbook pg. 10"
+    },
+    {
+      "id": "patanjali-def-yoga",
+      "category": "Yoga Philosophy & History",
+      "topic": "Patanjali's Definition",
+      "front": "How does Patanjali define Yoga in the Yoga Sutra?",
+      "back": "'Yogah Chittavritti Nirodhah' - Yoga is the stoppage (cessation) of the fluctuations/modifications of the mind (Chitta).",
+      "pageRef": "Handbook pg. 10"
+    },
+    {
+      "id": "vyasa-def-yoga",
+      "category": "Yoga Philosophy & History",
+      "topic": "Vyasa's Definition",
+      "front": "What alternate definition of Yoga did Vyasa, the commentator, give?",
+      "back": "'Yuj Samadhau' - Yoga is Samadhi, the highest state of concentration where the mind completely disassociates from the external world and rests in the highest reality.",
+      "pageRef": "Handbook pg. 10"
+    },
+    {
+      "id": "gita-def-yoga",
+      "category": "Yoga Philosophy & History",
+      "topic": "Bhagavad Gita's Definitions",
+      "front": "What two definitions of Yoga appear in the Bhagavad Gita?",
+      "back": "• 'Yogah Karmasu Kaushalam' - excellence in action/work is Yoga\n• 'Samatvam Yogah Uchyate' - maintaining equanimity of mind is Yoga",
+      "pageRef": "Handbook pg. 10"
+    },
+    {
+      "id": "yoga-history-origin",
+      "category": "Yoga Philosophy & History",
+      "topic": "Origins of Yoga",
+      "front": "What is considered the oldest archaeological evidence of yogic practice, and who is regarded as the first yogi?",
+      "back": "The oldest evidence of yogic meditation and asana is found on the Mohenjo-Daro seal. Shiva is revered as the first yogi, or Adiyogi, who shared his knowledge with the Saptarishis (seven sages) near Kantisarovar lake.",
+      "pageRef": "Handbook pg. 10"
+    },
+    {
+      "id": "classical-period",
+      "category": "Yoga Philosophy & History",
+      "topic": "Classical Period",
+      "front": "What timeframe defines the Classical Period of Yoga and what major event occurred then?",
+      "back": "Roughly 500 BC-800 AD. Maharshi Patanjali (c. 250 BC) organized existing yoga techniques and compiled the Yoga Sutra, considered the foundational grammar of Yoga.",
+      "pageRef": "Handbook pg. 11"
+    },
+    {
+      "id": "aim-yoga-patanjali",
+      "category": "Yoga Philosophy & History",
+      "topic": "Aim of Yoga Philosophy",
+      "front": "According to Maharshi Patanjali, what is the main aim of Yoga Philosophy?",
+      "back": "To achieve self-realization through stopping the fluctuations of the mind by sturdy self-discipline, study of scriptures, repetition of mantras, and complete devotion to God.",
+      "pageRef": "Handbook pg. 11"
+    },
+    {
+      "id": "aim-hatha-svatmarama",
+      "category": "Yoga Philosophy & History",
+      "topic": "Aim of Hatha Yoga",
+      "front": "According to Svatmarama, what is the main aim of Hatha Yoga?",
+      "back": "The awakening of Kundalini, advancement to Raja Yoga, and the experience of deep meditative absorption known as Samadhi, achieved mainly through Asana, Pranayama, and Kriyas (along with Yama and Niyama).",
+      "pageRef": "Handbook pg. 12"
+    },
+    {
+      "id": "misconceptions-yoga",
+      "category": "Yoga Philosophy & History",
+      "topic": "Misconceptions about Yoga",
+      "front": "Name two common misconceptions about Yoga mentioned in the handbook.",
+      "back": "• That Yoga requires acrobatic flexibility (it only requires performing Asana to one's best ability with the right spirit)\n• That Yoga is a religion (it is a holistic science of body, mind, and spirit, not a religious ritual system)",
+      "pageRef": "Handbook pg. 12"
+    },
+    {
+      "id": "shad-darshana-classes",
+      "category": "Yoga Philosophy & History",
+      "topic": "Shad-Darshanas",
+      "front": "How are Indian philosophies classified, and what are the six orthodox (Astika) systems called?",
+      "back": "Indian philosophies are Nastika (non-believers in Vedic supremacy: Buddhist, Jain, Charvaka) or Astika (believers in the Vedas). The six Astika systems are called Shad-Darshana, paired as: Samkhya-Yoga, Nyaya-Vaisheshika, and Vedanta-Mimamsa.",
+      "pageRef": "Handbook pg. 13"
+    },
+    {
+      "id": "samkhya-system",
+      "category": "Yoga Philosophy & History",
+      "topic": "Samkhya System",
+      "front": "Who founded Samkhya and what are its two principal elements?",
+      "back": "Maharshi Kapila is said to have realised Samkhya. Its two principal elements (of 25 total) are Purusha (consciousness/spirit, unchanging) and Prakriti (everything non-conscious, made of the three Gunas, changeful).",
+      "pageRef": "Handbook pg. 13"
+    },
+    {
+      "id": "yoga-sutra-structure",
+      "category": "Yoga Philosophy & History",
+      "topic": "Structure of Yoga Darshana",
+      "front": "How many sutras make up Patanjali's Yoga Sutra, and how are they organized?",
+      "back": "195 sutras (aphorisms), organized into 4 Padas (chapters): Samadhi Pada, Sadhana Pada, Vibhuti Pada, and Kaivalya Pada.",
+      "pageRef": "Handbook pg. 14"
+    },
+    {
+      "id": "nyaya-threefold-sadhana",
+      "category": "Yoga Philosophy & History",
+      "topic": "Nyaya Darshana",
+      "front": "What three-fold Sadhana does Nyaya prescribe to destroy false knowledge (Mithyajnana)?",
+      "back": "• Shravana - listening to spiritual instruction about the Soul\n• Manana - reflecting on it and fixing it firmly in the mind\n• Nidhidyasana - meditating on that knowledge",
+      "pageRef": "Handbook pg. 15"
+    },
+    {
+      "id": "four-paths-yoga",
+      "category": "Yoga Philosophy & History",
+      "topic": "Four Paths of Yoga",
+      "front": "What are the Four Paths (Margas) of Yoga?",
+      "back": "• Karma Yoga - path of selfless action/service\n• Jnana Yoga - path of knowledge/intellect\n• Bhakti Yoga - path of devotion\n• Raja Yoga - scientific path of mind control (meditation, concentration, breath control)",
+      "pageRef": "Handbook pg. 16"
+    },
+    {
+      "id": "karma-yoga-def",
+      "category": "Yoga Philosophy & History",
+      "topic": "Karma Yoga",
+      "front": "What is the central emphasis of Karma Yoga?",
+      "back": "Selfless action/service that transcends concern for success, failure, egoism, or personal desire - serving all beings as part of the divine universal spirit.",
+      "pageRef": "Handbook pg. 16"
+    },
+    {
+      "id": "jnana-yoga-def",
+      "category": "Yoga Philosophy & History",
+      "topic": "Jnana Yoga",
+      "front": "What is the central method of Jnana Yoga?",
+      "back": "Deep self-inquiry through questioning, meditation, and contemplation to attain direct knowledge of the divine by eliminating illusion - the intellectual path of wisdom.",
+      "pageRef": "Handbook pg. 16"
+    },
+    {
+      "id": "bhakti-yoga-def",
+      "category": "Yoga Philosophy & History",
+      "topic": "Bhakti Yoga",
+      "front": "What is the central practice of Bhakti Yoga?",
+      "back": "The devotional path - sublimating desires through chanting, prayer, and repetition of mantras, directing emotional energy into heartfelt devotion to the divine.",
+      "pageRef": "Handbook pg. 16"
+    },
+    {
+      "id": "raja-yoga-def",
+      "category": "Yoga Philosophy & History",
+      "topic": "Raja Yoga",
+      "front": "Why is Raja Yoga called the 'Royal Path' and 'scientific path'?",
+      "back": "It emphasises systematic control of the intellect through meditation, concentration, and breath control to attain enlightenment. Hatha Yoga is often considered a stepping-stone to Raja Yoga.",
+      "pageRef": "Handbook pg. 16"
+    },
+    {
+      "id": "hatha-texts-main",
+      "category": "Hatha Yoga",
+      "topic": "Important Hatha Yoga Texts",
+      "front": "What are the two primary practical texts of Hatha Yoga, and one lesser-known text?",
+      "back": "Hatha Yoga Pradipika (by Yogi Swatmaram) and Gheranda Samhita (by Rishi Gheranda) are the main practical texts. Hatha Ratnavali, by Srinivasa Bhatta Mahayogendra, is a lesser-known work.",
+      "pageRef": "Handbook pg. 18"
+    },
+    {
+      "id": "hyp-structure",
+      "category": "Hatha Yoga",
+      "topic": "Hatha Yoga Pradipika Structure",
+      "front": "How many chapters and verses does the Hatha Yoga Pradipika have, and what does each chapter cover?",
+      "back": "4 chapters, 390 verses total. Ch.1: meaning of Hatha Yoga, Asana, Mitahara; Ch.2: Shad-karma & Pranayama; Ch.3: Mudra, Bandha, Kundalini; Ch.4: Samadhi.",
+      "pageRef": "Handbook pg. 18"
+    },
+    {
+      "id": "gheranda-samhita",
+      "category": "Hatha Yoga",
+      "topic": "Gheranda Samhita",
+      "front": "What is distinctive about Gheranda Samhita's structure and its name for its system of Yoga?",
+      "back": "It is a dialogue between Rishi Gheranda and disciple Chanda Kapali, comprising 7 chapters (Saptaanga Yoga / Ghatasya Yoga), each covering one set of techniques (sapta saadhanam) toward a specific goal.",
+      "pageRef": "Handbook pg. 19"
+    },
+    {
+      "id": "mitahara-concept",
+      "category": "Hatha Yoga",
+      "topic": "Mitahara",
+      "front": "What does Mitahara mean and why is it emphasized by Gorakshanatha?",
+      "back": "Mitahara means moderate/balanced diet. Gorakshanatha taught that success in yoga depends on right food: eating too little or too much (causing laziness/heaviness) both prevent successful practice.",
+      "pageRef": "Handbook pg. 19"
+    },
+    {
+      "id": "badhaka-atyahara",
+      "category": "Hatha Yoga",
+      "topic": "Badhaka Tattva: Atyahara",
+      "front": "What is Atyahara and why is it a Badhaka Tattva?",
+      "back": "Atyahara means overeating/excessive eating. It creates heaviness, lethargy, and increases Tamas guna, making regular practice difficult.",
+      "pageRef": "Handbook pg. 20"
+    },
+    {
+      "id": "badhaka-prayasa",
+      "category": "Hatha Yoga",
+      "topic": "Badhaka Tattva: Prayasa",
+      "front": "What is Prayasa (or Pravasa) as a Badhaka Tattva?",
+      "back": "Prayasa means excessive physical effort, which depletes energy needed for sustained practice. Some texts list Pravasa (excessive travelling) as this factor instead.",
+      "pageRef": "Handbook pg. 20"
+    },
+    {
+      "id": "badhaka-prajalpa",
+      "category": "Hatha Yoga",
+      "topic": "Badhaka Tattva: Prajalpa",
+      "front": "What is Prajalpa?",
+      "back": "Prajalpa means gossip and excessive talking, which wastes energy; a Sadhaka should practice moderation in speech.",
+      "pageRef": "Handbook pg. 21"
+    },
+    {
+      "id": "badhaka-niyamagraha",
+      "category": "Hatha Yoga",
+      "topic": "Badhaka Tattva: Niyamagraha",
+      "front": "What is Niyamagraha?",
+      "back": "Niyamagraha is fanaticism or excessive rigid insistence on following rituals/rules, which disturbs mental tranquillity.",
+      "pageRef": "Handbook pg. 21"
+    },
+    {
+      "id": "badhaka-janasanga",
+      "category": "Hatha Yoga",
+      "topic": "Badhaka Tattva: Janasanga",
+      "front": "What is Janasanga as a cause of failure?",
+      "back": "Janasanga is socializing or close association with the wrong (non-like-minded) people, which weakens one's resolve through doubt and criticism.",
+      "pageRef": "Handbook pg. 21"
+    },
+    {
+      "id": "badhaka-laulyam",
+      "category": "Hatha Yoga",
+      "topic": "Badhaka Tattva: Laulyam",
+      "front": "What is Laulyam?",
+      "back": "Laulyam is fickleness of mind - getting distracted by various attractions, which hinders consistent single-minded pursuit of yoga.",
+      "pageRef": "Handbook pg. 21"
+    },
+    {
+      "id": "sadhaka-utsaha",
+      "category": "Hatha Yoga",
+      "topic": "Sadhaka Tattva: Utsaha",
+      "front": "What is Utsaha?",
+      "back": "Utsaha means enthusiasm/cheerfulness. Effort lacking enthusiasm is superficial and mechanistic; enthusiasm is essential for good results.",
+      "pageRef": "Handbook pg. 21"
+    },
+    {
+      "id": "sadhaka-saahas",
+      "category": "Hatha Yoga",
+      "topic": "Sadhaka Tattva: Saahas",
+      "front": "What is Saahas?",
+      "back": "Saahas means courage - needed to venture into the unknown frontiers of mind-control, often traditionally tested by the Guru.",
+      "pageRef": "Handbook pg. 21"
+    },
+    {
+      "id": "sadhaka-dhairya",
+      "category": "Hatha Yoga",
+      "topic": "Sadhaka Tattva: Dhairya",
+      "front": "What is Dhairya?",
+      "back": "Dhairya means perseverance and steadfastness - only sustained, uninterrupted effort leads to success.",
+      "pageRef": "Handbook pg. 22"
+    },
+    {
+      "id": "sadhaka-tattvajnana",
+      "category": "Hatha Yoga",
+      "topic": "Sadhaka Tattva: Tattvajnana",
+      "front": "What is Tattvajnana?",
+      "back": "Tattvajnana is knowledge of the philosophy/purpose behind one's Sadhana - understanding 'why' one practices yoga.",
+      "pageRef": "Handbook pg. 22"
+    },
+    {
+      "id": "sadhaka-nischaya",
+      "category": "Hatha Yoga",
+      "topic": "Sadhaka Tattva: Nischaya",
+      "front": "What is Nischaya?",
+      "back": "Nischaya means firm determination, which sustains the disciplined, regulated life needed for yoga practice.",
+      "pageRef": "Handbook pg. 22"
+    },
+    {
+      "id": "sadhaka-janasanga-parityaga",
+      "category": "Hatha Yoga",
+      "topic": "Sadhaka Tattva: Janasanga Parityaga",
+      "front": "What is Janasanga Parityaga?",
+      "back": "Avoidance of the company of those who discourage or criticize one's practice; solitude during Sadhana is recommended.",
+      "pageRef": "Handbook pg. 22"
+    },
+    {
+      "id": "shadkriya-objectives",
+      "category": "Hatha Yoga",
+      "topic": "Purpose of Yoga Hygiene",
+      "front": "According to Shri Yogendraji, what are the six main objectives of Yoga hygiene?",
+      "back": "• Removal of disease\n• Purification of internal/external organs\n• Maintenance of highest physical efficiency\n• Auto-immunization\n• Longevity\n• Mental, moral and spiritual sublimation",
+      "pageRef": "Handbook pg. 20"
+    },
+    {
+      "id": "shad-kriya-list",
+      "category": "Hatha Yoga",
+      "topic": "The Six Shat-Kriyas",
+      "front": "What are the six purificatory actions (Shad-Kriya) of Hatha Yoga?",
+      "back": "• Dhauti (cleansing)\n• Basti (colon cleansing)\n• Neti (nasal cleansing)\n• Trataka (gazing)\n• Nauli (abdominal massaging)\n• Kapalabhati (frontal brain cleansing)",
+      "pageRef": "Handbook pg. 23"
+    },
+    {
+      "id": "patanjali-bio",
+      "category": "Patanjali's Yoga Sutras",
+      "topic": "Maharshi Patanjali",
+      "front": "Who was Maharshi Patanjali and approximately when did he live?",
+      "back": "A sage, grammarian, and philosopher who lived around 250 BCE. He systematized existing yoga techniques into the Yoga Sutra, a science of self-development aimed at Self-Realization.",
+      "pageRef": "Handbook pg. 24"
+    },
+    {
+      "id": "samadhi-pada",
+      "category": "Patanjali's Yoga Sutras",
+      "topic": "Samadhi Pada",
+      "front": "What does the Samadhi Pada (51 sutras) of the Yoga Sutra deal with?",
+      "back": "The fundamental nature of Chitta (mind), its Vrittis, and higher techniques to achieve Chittavritti Nirodha - meant for intense-level students.",
+      "pageRef": "Handbook pg. 24"
+    },
+    {
+      "id": "sadhana-pada",
+      "category": "Patanjali's Yoga Sutras",
+      "topic": "Sadhana Pada",
+      "front": "What does the Sadhana Pada (55 sutras) cover?",
+      "back": "The nature of Klesha (afflictions) and Kriya Yoga to overcome them; it details Ashtanga Yoga, suited for moderate and mild-level students.",
+      "pageRef": "Handbook pg. 24"
+    },
+    {
+      "id": "vibhuti-pada",
+      "category": "Patanjali's Yoga Sutras",
+      "topic": "Vibhuti Pada",
+      "front": "What does the Vibhuti Pada (55 sutras) describe?",
+      "back": "Samadhi as a technique for real knowledge, and the supernatural powers (Siddhis) attained along the way - described as milestones, not the final goal.",
+      "pageRef": "Handbook pg. 24"
+    },
+    {
+      "id": "kaivalya-pada",
+      "category": "Patanjali's Yoga Sutras",
+      "topic": "Kaivalya Pada",
+      "front": "What does the Kaivalya Pada (34 sutras) examine?",
+      "back": "Kaivalya (liberation/moksha) - how the state of Kaivalya may be realized and what arises from that state of Pure Consciousness, attainable by the grace of God.",
+      "pageRef": "Handbook pg. 25"
+    },
+    {
+      "id": "ashtanga-yoga-list",
+      "category": "Patanjali's Yoga Sutras",
+      "topic": "Ashtanga Yoga - 8 Limbs",
+      "front": "What are the eight limbs (Ashtanga) of Patanjali's Yoga, in order?",
+      "back": "1. Yama (restraints) • 2. Niyama (observances) • 3. Asana (posture) • 4. Pranayama (breath control) • 5. Pratyahara (sense withdrawal) • 6. Dharana (concentration) • 7. Dhyana (meditation) • 8. Samadhi (perfect concentration/absorption)",
+      "pageRef": "Handbook pg. 25"
+    },
+    {
+      "id": "yama-list",
+      "category": "Patanjali's Yoga Sutras",
+      "topic": "The Five Yamas",
+      "front": "What are the five Yamas (ethical restraints) of Ashtanga Yoga?",
+      "back": "• Ahimsa - non-violence\n• Satya - truthfulness\n• Asteya - non-stealing\n• Brahmacharya - continence/moderation of senses\n• Aparigraha - non-possessiveness/non-greed",
+      "pageRef": "Handbook pg. 26"
+    },
+    {
+      "id": "yama-ahimsa",
+      "category": "Patanjali's Yoga Sutras",
+      "topic": "Yama: Ahimsa",
+      "front": "What does Ahimsa mean in the context of Yama, beyond physical violence?",
+      "back": "Non-violence, extending beyond physical acts to violence of words or thoughts; harsh speech is also a form of violence that disturbs peace of mind.",
+      "pageRef": "Handbook pg. 26"
+    },
+    {
+      "id": "yama-satya",
+      "category": "Patanjali's Yoga Sutras",
+      "topic": "Yama: Satya",
+      "front": "What does Satya require besides not lying?",
+      "back": "Reporting things as perceived, without adding personal interpretation, with perfect coordination between thought, word and deed - while never being hurtful (Ahimsa remains the baseline).",
+      "pageRef": "Handbook pg. 27"
+    },
+    {
+      "id": "yama-asteya",
+      "category": "Patanjali's Yoga Sutras",
+      "topic": "Yama: Asteya",
+      "front": "What does Asteya mean?",
+      "back": "Refraining from taking anything unlawfully - whether objects, credit for others' work, or thoughts - i.e., not taking more than one's legitimate due.",
+      "pageRef": "Handbook pg. 27"
+    },
+    {
+      "id": "yama-brahmacharya",
+      "category": "Patanjali's Yoga Sutras",
+      "topic": "Yama: Brahmacharya",
+      "front": "What does Brahmacharya mean as a Yama?",
+      "back": "Refraining from indulgence in sensual/sexual pleasures, directing one's entire attention toward spiritual pursuit; it is primarily about the right attitude, not necessarily celibacy or avoiding marriage.",
+      "pageRef": "Handbook pg. 27"
+    },
+    {
+      "id": "yama-aparigraha",
+      "category": "Patanjali's Yoga Sutras",
+      "topic": "Yama: Aparigraha",
+      "front": "What does Aparigraha mean?",
+      "back": "Non-possessiveness/absence of greed - keeping control over one's needs, not accumulating things beyond necessity, and being willing to give away what is not required.",
+      "pageRef": "Handbook pg. 28"
+    },
+    {
+      "id": "niyama-list",
+      "category": "Patanjali's Yoga Sutras",
+      "topic": "The Five Niyamas",
+      "front": "What are the five Niyamas (observances) of Ashtanga Yoga?",
+      "back": "• Saucha - cleanliness/purity\n• Santosha - contentment\n• Tapa - austerity/fortitude\n• Swadhyaya - self-study\n• Ishwarapranidhana - surrender to God",
+      "pageRef": "Handbook pg. 27"
+    },
+    {
+      "id": "niyama-saucha",
+      "category": "Patanjali's Yoga Sutras",
+      "topic": "Niyama: Saucha",
+      "front": "What does Saucha involve?",
+      "back": "Cleanliness - both external (body, surroundings) and internal (mind), including the absence of anger, avoidance of ignorance, and control of the senses.",
+      "pageRef": "Handbook pg. 27"
+    },
+    {
+      "id": "niyama-santosha",
+      "category": "Patanjali's Yoga Sutras",
+      "topic": "Niyama: Santosha",
+      "front": "What does Santosha mean?",
+      "back": "Contentment - lack of desire for anything beyond what is required for life; the contented person does not depend on others or develop mental conflicts.",
+      "pageRef": "Handbook pg. 27"
+    },
+    {
+      "id": "niyama-tapa",
+      "category": "Patanjali's Yoga Sutras",
+      "topic": "Niyama: Tapa",
+      "front": "What is the literal meaning of Tapa and its yogic significance?",
+      "back": "Tapa literally means 'to heat'. In yoga it means maintaining equanimity amid pairs of opposites (pleasure/pain), strengthening the will and purifying impurities - like gold purified by heating.",
+      "pageRef": "Handbook pg. 28"
+    },
+    {
+      "id": "niyama-swadhyaya",
+      "category": "Patanjali's Yoga Sutras",
+      "topic": "Niyama: Swadhyaya",
+      "front": "What does Swadhyaya mean?",
+      "back": "'Swa' (self) + 'adhyaya' (study) = study of the self or study of scriptures, through reflection, contemplation, recitation, and japa (mental repetition of mantras).",
+      "pageRef": "Handbook pg. 28"
+    },
+    {
+      "id": "niyama-ishwarapranidhana",
+      "category": "Patanjali's Yoga Sutras",
+      "topic": "Niyama: Ishwarapranidhana",
+      "front": "What does Ishwarapranidhana mean?",
+      "back": "Surrendering all of one's actions, thoughts and speech to Ishwara (God) without attachment to results; it helps cure afflictions of the mind that cause pain and suffering.",
+      "pageRef": "Handbook pg. 28"
+    },
+    {
+      "id": "asana-def-patanjali",
+      "category": "Patanjali's Yoga Sutras",
+      "topic": "Asana (Patanjali's Definition)",
+      "front": "How does Patanjali define Asana in Yoga Sutra 2.46?",
+      "back": "'Sthira Sukham Asanam' - a posture that is steady (Sthira) and comfortable (Sukham). Practicing Asana develops the discipline and ability to concentrate needed for meditation.",
+      "pageRef": "Handbook pg. 28"
+    },
+    {
+      "id": "pranayama-def-patanjali",
+      "category": "Patanjali's Yoga Sutras",
+      "topic": "Pranayama (Patanjali's Definition)",
+      "front": "What does Pranayama mean and what did Patanjali consider it a means to?",
+      "back": "'Prana' (vital energy/breath) + 'ayama' (control) = control of Prana through control of breath. Patanjali considered it a means of attaining higher states of awareness and reaching Samadhi.",
+      "pageRef": "Handbook pg. 28"
+    },
+    {
+      "id": "pratyahara-def",
+      "category": "Patanjali's Yoga Sutras",
+      "topic": "Pratyahara",
+      "front": "What is Pratyahara and how many senses are involved?",
+      "back": "Withdrawal of the senses, where the senses abide within themselves instead of moving toward objects. There are eleven senses total: 5 Jnanendriyas (knowledge), 5 Karmendriyas (action), and Manas (mind) as their leader.",
+      "pageRef": "Handbook pg. 29"
+    },
+    {
+      "id": "dharana-def",
+      "category": "Patanjali's Yoga Sutras",
+      "topic": "Dharana",
+      "front": "How is Dharana defined and how does it differ from Dhyana?",
+      "back": "Dharana is concentration - the mind fixed on one object, but still interrupted occasionally by other thoughts, making it shorter in duration than Dhyana.",
+      "pageRef": "Handbook pg. 29"
+    },
+    {
+      "id": "dhyana-def",
+      "category": "Patanjali's Yoga Sutras",
+      "topic": "Dhyana",
+      "front": "What is Dhyana and what classic image describes it?",
+      "back": "Dhyana (meditation) is the uninterrupted flow of concentration - compared to the steady, unbroken flow of oil poured from a pot, lasting much longer than Dharana.",
+      "pageRef": "Handbook pg. 29"
+    },
+    {
+      "id": "samadhi-def",
+      "category": "Patanjali's Yoga Sutras",
+      "topic": "Samadhi",
+      "front": "What is Samadhi in the context of Ashtanga Yoga?",
+      "back": "Deep absorption where only the essence of the meditated object shines in the mind; the mind identifies completely with the object, and the distinction between meditator and meditated dissolves.",
+      "pageRef": "Handbook pg. 29"
+    },
+    {
+      "id": "chitta-def",
+      "category": "Patanjali's Yoga Sutras",
+      "topic": "Concept of Chitta",
+      "front": "What is Chitta and how many components does it comprise?",
+      "back": "Chitta (mind) is the internal organ that cognizes, wills, and retains experience. It comprises 17 components: 5 Jnanendriyas, 5 Karmendriyas, 5 Pranas, Ego, and Manas.",
+      "pageRef": "Handbook pg. 29"
+    },
+    {
+      "id": "chitta-bhumi-list",
+      "category": "Patanjali's Yoga Sutras",
+      "topic": "The Five Chitta Bhumis",
+      "front": "What are the five Chitta Bhumis (habitual states of mind)?",
+      "back": "• Kshipta - restless\n• Mudha - infatuated/dull\n• Vikshipta - distracted\n• Ekagra - one-pointed\n• Nirudha - arrested (liberated)",
+      "pageRef": "Handbook pg. 29"
+    },
+    {
+      "id": "chitta-bhumi-kshipta",
+      "category": "Patanjali's Yoga Sutras",
+      "topic": "Chitta Bhumi: Kshipta",
+      "front": "What characterizes the Kshipta (restless) state of mind?",
+      "back": "It lacks the patience and intelligence to grasp subtle principles; any concentration arising from envy or malice is not true yogic concentration.",
+      "pageRef": "Handbook pg. 30"
+    },
+    {
+      "id": "chitta-bhumi-mudha",
+      "category": "Patanjali's Yoga Sutras",
+      "topic": "Chitta Bhumi: Mudha",
+      "front": "What characterizes the Mudha (infatuated) state of mind?",
+      "back": "A mind drawn to gross objects like money and possessions; it may concentrate well on earthly gains, but this is not yogic concentration and does not elevate consciousness.",
+      "pageRef": "Handbook pg. 30"
+    },
+    {
+      "id": "chitta-bhumi-vikshipta",
+      "category": "Patanjali's Yoga Sutras",
+      "topic": "Chitta Bhumi: Vikshipta",
+      "front": "What characterizes the Vikshipta (distracted) state, considered the ideal mind for beginning yoga study?",
+      "back": "It can grasp spiritual dimensions and make efforts, but concentration does not last long due to distraction; with continued effort, Sattva prevails leading to Ekagrata.",
+      "pageRef": "Handbook pg. 30"
+    },
+    {
+      "id": "chitta-bhumi-ekagra",
+      "category": "Patanjali's Yoga Sutras",
+      "topic": "Chitta Bhumi: Ekagra",
+      "front": "What characterizes the Ekagra (one-pointed) state of mind?",
+      "back": "The mind holds on to a single object for extended periods, even in sleep/dream states, and comprehends the true nature of things (Jnana).",
+      "pageRef": "Handbook pg. 30"
+    },
+    {
+      "id": "chitta-bhumi-nirudha",
+      "category": "Patanjali's Yoga Sutras",
+      "topic": "Chitta Bhumi: Nirudha",
+      "front": "What is the Nirudha (arrested) state?",
+      "back": "The final Chitta Bhumi, in which the mind eventually achieves liberation.",
+      "pageRef": "Handbook pg. 30"
+    },
+    {
+      "id": "chitta-vritti-list",
+      "category": "Patanjali's Yoga Sutras",
+      "topic": "The Five Chitta Vrittis",
+      "front": "What are the five Chitta Vrittis (mental modifications)?",
+      "back": "• Pramana - correct knowledge\n• Viparyaya - wrong knowledge/illusion\n• Vikalpa - imagination\n• Nidra - sleep\n• Smriti - memory",
+      "pageRef": "Handbook pg. 30"
+    },
+    {
+      "id": "abhyasa-vairagya",
+      "category": "Patanjali's Yoga Sutras",
+      "topic": "Abhyasa and Vairagya",
+      "front": "What are Abhyasa and Vairagya, the two means of Chittavritti Nirodha?",
+      "back": "Abhyasa is sustained, determined effort toward tranquillity of mind through concentration and discipline. Vairagya is detachment - the state of utter desirelessness toward seen or described objects.",
+      "pageRef": "Handbook pg. 31"
+    },
+    {
+      "id": "antaraya-list",
+      "category": "Patanjali's Yoga Sutras",
+      "topic": "The Nine Antarayas (Chitta Vikshepas)",
+      "front": "What are the nine obstacles (Antarayas) to yoga practice listed by Patanjali?",
+      "back": "• Vyadhi (disease)\n• Styana (incompetence)\n• Samshaya (doubt)\n• Pramada (delusion/carelessness)\n• Alasya (sloth)\n• Avirati (non-abstention/craving)\n• Bhranti Darshana (false perception)\n• Alabdhabhumikatva (failure to attain a yogic stage)\n• Anavasthitatva (inability to retain a yogic stage)",
+      "pageRef": "Handbook pg. 33"
+    },
+    {
+      "id": "sahabhuva-list",
+      "category": "Patanjali's Yoga Sutras",
+      "topic": "Sahabhuva (Associated Distractions)",
+      "front": "What are the five Sahabhuva that accompany the Antarayas?",
+      "back": "Dukha (pain - Adhidaivik, Adhibhautik, Adhyatmik types), Daurmanasya (dejection), Angamejayatva (bodily tremors/restlessness), Svasa (irregular inhalation), and Prasvasah (irregular exhalation).",
+      "pageRef": "Handbook pg. 34"
+    },
+    {
+      "id": "chitta-prasadana-parikarma",
+      "category": "Patanjali's Yoga Sutras",
+      "topic": "Chitta Prasadana - Parikarmas",
+      "front": "What are the four Parikarmas (purifying feelings) that bring about Chitta Prasadana (mental clarity)?",
+      "back": "• Maitri - friendliness toward the happy\n• Karuna - compassion toward the distressed\n• Mudita - goodwill toward the virtuous\n• Upeksha - indifference toward the impious",
+      "pageRef": "Handbook pg. 35"
+    },
+    {
+      "id": "klesha-list",
+      "category": "Patanjali's Yoga Sutras",
+      "topic": "The Five Kleshas",
+      "front": "What are the five Kleshas (afflictions) described by Patanjali?",
+      "back": "• Avidya - ignorance/misapprehension\n• Asmita - egoism\n• Raga - attachment\n• Dvesha - aversion\n• Abhinivesha - fear of death/clinging to life",
+      "pageRef": "Handbook pg. 36"
+    },
+    {
+      "id": "klesha-avidya",
+      "category": "Patanjali's Yoga Sutras",
+      "topic": "Klesha: Avidya",
+      "front": "What is Avidya and why is it called the breeding ground for other Kleshas?",
+      "back": "Avidya is misapprehension of the real nature of things - mistaking the transient for the everlasting, the impure for pure, misery for happiness, and non-Self for Self. It underlies and feeds the other four Kleshas.",
+      "pageRef": "Handbook pg. 36"
+    },
+    {
+      "id": "klesha-asmita",
+      "category": "Patanjali's Yoga Sutras",
+      "topic": "Klesha: Asmita",
+      "front": "What is Asmita?",
+      "back": "Egoism - the false identification of Purusha (pure consciousness) with Buddhi (intellect); it is considered the root 'I-sense' behind physical and mental activity.",
+      "pageRef": "Handbook pg. 36"
+    },
+    {
+      "id": "klesha-raga-dvesha",
+      "category": "Patanjali's Yoga Sutras",
+      "topic": "Klesha: Raga & Dvesha",
+      "front": "How do Raga and Dvesha differ as Kleshas?",
+      "back": "Raga is attachment - a modification following the remembrance of pleasure, drawing desire toward objects. Dvesha is aversion - a modification arising from the memory of misery, producing a desire to retaliate.",
+      "pageRef": "Handbook pg. 36"
+    },
+    {
+      "id": "klesha-abhinivesha",
+      "category": "Patanjali's Yoga Sutras",
+      "topic": "Klesha: Abhinivesha",
+      "front": "What is Abhinivesha?",
+      "back": "Fear of death - the instinctive fear arising from identifying the body with the Self; it is also the source of related fears like fear of loss or failure.",
+      "pageRef": "Handbook pg. 36"
+    },
+    {
+      "id": "bhavas-traits-buddhi",
+      "category": "Patanjali's Yoga Sutras",
+      "topic": "Bhavas - Traits of Buddhi",
+      "front": "What are the eight Bhavas (traits of the intellect), split by positive and negative polarity?",
+      "back": "Positive (Sattvic): Dharma (virtue), Jnana (wisdom), Vairagya (detachment), Aishwarya (strength/power).\nNegative (Tamasic): Adharma (vice), Ajnana (ignorance), Raga (attachment), Anaishwarya (weakness).",
+      "pageRef": "Handbook pg. 37"
+    },
+    {
+      "id": "pratipakshabhavana-def",
+      "category": "Conceptual Techniques",
+      "topic": "Pratipakshabhavana",
+      "front": "What is Pratipakshabhavana and how is it practiced?",
+      "back": "A technique for controlling the mind by actively cultivating an opposite, positive thought whenever a destructive or negative thought arises, moving one from reacting to consciously choosing.",
+      "pageRef": "Handbook pg. 38"
+    },
+    {
+      "id": "pratipaksha-sutra-ref",
+      "category": "Conceptual Techniques",
+      "topic": "Pratipakshabhavana - Sutra Basis",
+      "front": "Which Yoga Sutras discuss Pratipakshabhavana and what do they warn?",
+      "back": "Yoga Sutra 2.33-2.34 state that any thought contrary to Yama/Niyama (e.g., violence) results in one's own ignorance and suffering, regardless of whether it was done directly, caused, or merely sanctioned.",
+      "pageRef": "Handbook pg. 38"
+    },
+    {
+      "id": "purushartha-def",
+      "category": "Conceptual Techniques",
+      "topic": "Purushartha",
+      "front": "What does the term Purushartha mean, and how many Purusharthas are there?",
+      "back": "Purushartha combines 'Purusha' (human being) and 'artha' (purpose/goal); it refers to the four motivations/goals of human life.",
+      "pageRef": "Handbook pg. 39"
+    },
+    {
+      "id": "purushartha-list",
+      "category": "Conceptual Techniques",
+      "topic": "The Four Purusharthas",
+      "front": "What are the four Purusharthas?",
+      "back": "• Dharma - duty/righteous action\n• Artha - material means/livelihood\n• Kama - pleasure/desire\n• Moksha - liberation",
+      "pageRef": "Handbook pg. 39"
+    },
+    {
+      "id": "purushartha-dharma-role",
+      "category": "Conceptual Techniques",
+      "topic": "Purushartha - Role of Dharma",
+      "front": "What regulatory role does Dharma play among the four Purusharthas?",
+      "back": "Dharma is the moral value that lends authenticity to Artha and Kama, helping discriminate between right and wrong and guiding how much one should earn (Artha) and how one should seek pleasure (Kama).",
+      "pageRef": "Handbook pg. 39"
+    },
+    {
+      "id": "purushartha-moksha",
+      "category": "Conceptual Techniques",
+      "topic": "Purushartha - Moksha",
+      "front": "What is required to achieve Moksha, the final Purushartha?",
+      "back": "Selfless action - all actions must eventually be performed with a 'selfless' intent to achieve this supreme goal of liberation.",
+      "pageRef": "Handbook pg. 39"
+    },
+    {
+      "id": "homeostasis-def",
+      "category": "Human Systems & Physiology",
+      "topic": "Homeostasis",
+      "front": "What is homeostasis, and what are two examples of it in the body?",
+      "back": "Homeostasis is a self-regulating process maintaining stability (dynamic equilibrium) as conditions change. Examples: regulation of body temperature and regulation of blood pressure.",
+      "pageRef": "Handbook pg. 40"
+    },
+    {
+      "id": "homeostasis-yoga-role",
+      "category": "Human Systems & Physiology",
+      "topic": "Yoga's Role in Homeostasis",
+      "front": "How does Asana and Pranayama support homeostasis, with an example?",
+      "back": "They stimulate regulatory activation of the Autonomic Nervous System and Endocrine System. E.g., Sarvangasana increases blood flow to the pituitary gland, which regulates other glands' activity; deep Pranayama breathing stimulates the Parasympathetic Nervous System for calm and recovery.",
+      "pageRef": "Handbook pg. 40"
+    },
+    {
+      "id": "exercise-physiology-def",
+      "category": "Human Systems & Physiology",
+      "topic": "Exercise Physiology",
+      "front": "What does Exercise Physiology study?",
+      "back": "The study of the body's response and adaptation to a wide range of exercise conditions - both short-term and long-term reactions to physical exercise.",
+      "pageRef": "Handbook pg. 41"
+    },
+    {
+      "id": "aerobic-vs-anaerobic",
+      "category": "Human Systems & Physiology",
+      "topic": "Aerobic vs Anaerobic Exercise",
+      "front": "What is the key energy-source difference between aerobic and anaerobic exercise?",
+      "back": "Aerobic exercise (e.g., jogging, swimming) uses nutrients burned in the presence of oxygen over longer, lower-intensity periods. Anaerobic exercise (e.g., sprinting, weightlifting) burns glycogen without oxygen, producing lactic acid that causes fatigue.",
+      "pageRef": "Handbook pg. 42"
+    },
+    {
+      "id": "muscle-contraction-isotonic",
+      "category": "Human Systems & Physiology",
+      "topic": "Isotonic Contraction Types",
+      "front": "What are the two types of Isotonic contraction?",
+      "back": "• Concentric - the muscle shortens as it contracts (e.g., bending the elbow)\n• Eccentric - the muscle lengthens while still contracting (e.g., lowering a dumbbell slowly)",
+      "pageRef": "Handbook pg. 43"
+    },
+    {
+      "id": "exercise-effects-cardio",
+      "category": "Human Systems & Physiology",
+      "topic": "Exercise Effects - Cardiovascular",
+      "front": "What are the main cardiovascular effects of regular exercise?",
+      "back": "Increased heart rate during exercise, increased stroke volume, increased cardiac output, and decreased resting heart rate and blood pressure over time.",
+      "pageRef": "Handbook pg. 43"
+    },
+    {
+      "id": "asana-vs-exercise",
+      "category": "Human Systems & Physiology",
+      "topic": "Asana vs General Exercise",
+      "front": "How does the physiological effect of Asana practice differ from general exercise?",
+      "back": "Asana places no extra load on the respiratory/cardiac system, uses less oxygen than regular exercise, reduces the basal metabolic rate, and balances the Autonomic Nervous System rather than building muscle.",
+      "pageRef": "Handbook pg. 44"
+    },
+    {
+      "id": "circulatory-components",
+      "category": "Human Systems & Physiology",
+      "topic": "Circulatory System Components",
+      "front": "What are the three major components of the circulatory system?",
+      "back": "Blood, Blood Vessels (Arteries, Veins, Capillaries), and the Heart.",
+      "pageRef": "Handbook pg. 44"
+    },
+    {
+      "id": "blood-components",
+      "category": "Human Systems & Physiology",
+      "topic": "Blood Components",
+      "front": "What are the cellular and non-cellular (plasma) components of blood?",
+      "back": "Cellular: Red Blood Cells, White Blood Cells, Platelets. Non-cellular (plasma): water, minerals, vitamins, amino acids, lipids, cholesterol, glucose, hormones, and dissolved waste gases.",
+      "pageRef": "Handbook pg. 44"
+    },
+    {
+      "id": "blood-cell-functions",
+      "category": "Human Systems & Physiology",
+      "topic": "Blood Cell Functions",
+      "front": "What are the respective functions of RBCs, WBCs, and Platelets?",
+      "back": "RBCs (via haemoglobin) transport oxygen. WBCs are protective, clearing waste, debris, and infection. Platelets form clots at injury sites by becoming sticky and adhering to the wound.",
+      "pageRef": "Handbook pg. 45"
+    },
+    {
+      "id": "blood-vessel-types",
+      "category": "Human Systems & Physiology",
+      "topic": "Blood Vessel Types",
+      "front": "What distinguishes Arteries, Veins, and Capillaries?",
+      "back": "Arteries carry pure (oxygenated) blood from the heart (except the pulmonary artery). Veins carry impure (deoxygenated) blood back to the heart (except the pulmonary vein). Capillaries have microscopic pores enabling nutrient/gas exchange.",
+      "pageRef": "Handbook pg. 45"
+    },
+    {
+      "id": "heart-chambers",
+      "category": "Human Systems & Physiology",
+      "topic": "Heart Chambers",
+      "front": "What are the four chambers of the heart and their basic blood flow role?",
+      "back": "Right Atrium (receives impure blood from body) → Right Ventricle (sends it to lungs) → Left Atrium (receives pure blood from lungs) → Left Ventricle (pumps pure blood to the body via the Aorta).",
+      "pageRef": "Handbook pg. 46"
+    },
+    {
+      "id": "blood-pressure-values",
+      "category": "Human Systems & Physiology",
+      "topic": "Blood Pressure Values",
+      "front": "What are normal Systolic and Diastolic blood pressure values?",
+      "back": "Normal blood pressure is 120/80 mm Hg - Systolic (during heart contraction) is ~120 mm Hg; Diastolic (between beats) is usually below 80 mm Hg.",
+      "pageRef": "Handbook pg. 46"
+    },
+    {
+      "id": "pulse-rate-normal",
+      "category": "Human Systems & Physiology",
+      "topic": "Normal Pulse Rate",
+      "front": "What is the normal resting heart/pulse rate range?",
+      "back": "70 to 80 beats per minute.",
+      "pageRef": "Handbook pg. 46"
+    },
+    {
+      "id": "respiration-two-types",
+      "category": "Human Systems & Physiology",
+      "topic": "External vs Internal Respiration",
+      "front": "What is the difference between External and Internal Respiration?",
+      "back": "External Respiration (breathing) - taking in air and exchanging gases between lungs and blood. Internal Respiration (oxidation) - cells using that oxygen to burn food for energy.",
+      "pageRef": "Handbook pg. 47"
+    },
+    {
+      "id": "respiratory-tract-path",
+      "category": "Human Systems & Physiology",
+      "topic": "Path of Air",
+      "front": "What is the sequential path air travels during inhalation?",
+      "back": "Nose → Naso-pharynx → Oro-pharynx → Larynx → Trachea → Bronchi → Bronchioles → Alveoli (where gas exchange occurs).",
+      "pageRef": "Handbook pg. 48"
+    },
+    {
+      "id": "alveoli-function",
+      "category": "Human Systems & Physiology",
+      "topic": "Alveoli",
+      "front": "What are alveoli and what happens there?",
+      "back": "Thin-walled air sacs surrounded by capillaries where gas exchange occurs: oxygen from inhaled air enters the blood, and carbon dioxide from the blood enters the alveoli to be exhaled.",
+      "pageRef": "Handbook pg. 48"
+    },
+    {
+      "id": "lung-lobes",
+      "category": "Human Systems & Physiology",
+      "topic": "Lung Lobes",
+      "front": "How many lobes do the right and left lungs have?",
+      "back": "The right lung has three lobes; the left lung has two lobes (to accommodate the heart between them).",
+      "pageRef": "Handbook pg. 49"
+    },
+    {
+      "id": "lung-volumes-tv-irv-erv",
+      "category": "Human Systems & Physiology",
+      "topic": "Lung Volumes: TV, IRV, ERV",
+      "front": "What are Tidal Volume, Inspiratory Reserve Volume, and Expiratory Reserve Volume (normal values)?",
+      "back": "Tidal Volume (TV) - air in one normal breath, ~500ml. Inspiratory Reserve Volume (IRV) - extra air beyond normal inhalation, ~3000ml. Expiratory Reserve Volume (ERV) - extra air beyond normal exhalation, ~1100ml.",
+      "pageRef": "Handbook pg. 49"
+    },
+    {
+      "id": "lung-volumes-rv-tlc-vc",
+      "category": "Human Systems & Physiology",
+      "topic": "Lung Capacities: RV, TLC, VC",
+      "front": "What are Residual Volume, Total Lung Capacity, and Vital Capacity (normal values)?",
+      "back": "Residual Volume (RV) - air remaining after maximal exhalation, ~1500ml. Total Lung Capacity (TLC) - ~6000ml. Vital Capacity (VC) - max air inspired/expired in one breath, ~4500ml.",
+      "pageRef": "Handbook pg. 50"
+    },
+    {
+      "id": "digestive-tract-path",
+      "category": "Human Systems & Physiology",
+      "topic": "Path of the Digestive Tract",
+      "front": "What is the sequential path food travels through the digestive tract?",
+      "back": "Mouth → Oesophagus → Stomach → Duodenum (small intestine: duodenum, jejunum, ileum) → Large Intestine → Rectum → Anus, driven by Peristalsis.",
+      "pageRef": "Handbook pg. 51"
+    },
+    {
+      "id": "stomach-function",
+      "category": "Human Systems & Physiology",
+      "topic": "Stomach Function",
+      "front": "What does the stomach do, and what is its liquid food output called?",
+      "back": "It stores food, mixing it with hydrochloric acid, mucous, and digestive enzymes. The resulting liquid food is called chyme, released to the small intestine via the pylorus.",
+      "pageRef": "Handbook pg. 52"
+    },
+    {
+      "id": "endocrine-vs-exocrine",
+      "category": "Human Systems & Physiology",
+      "topic": "Endocrine vs Exocrine Glands",
+      "front": "What is the difference between endocrine and exocrine glands?",
+      "back": "Exocrine glands are ducted, transporting secretions via ducts (e.g., salivary glands). Endocrine glands are ductless, releasing hormones directly into the bloodstream.",
+      "pageRef": "Handbook pg. 53"
+    },
+    {
+      "id": "hypothalamus-function",
+      "category": "Human Systems & Physiology",
+      "topic": "Hypothalamus",
+      "front": "What does the hypothalamus regulate and what gland does it link to the endocrine system?",
+      "back": "It governs temperature regulation, thirst, hunger, sleep, mood, and sex drive, and links the nervous system to the endocrine system via the pituitary gland.",
+      "pageRef": "Handbook pg. 53"
+    },
+    {
+      "id": "pituitary-gland",
+      "category": "Human Systems & Physiology",
+      "topic": "Pituitary Gland",
+      "front": "Where is the pituitary gland located and what is its general function?",
+      "back": "A pea-sized structure at the base of the brain, just below the hypothalamus; it produces hormones that stimulate other glands to produce their own hormones.",
+      "pageRef": "Handbook pg. 53"
+    },
+    {
+      "id": "thyroid-parathyroid",
+      "category": "Human Systems & Physiology",
+      "topic": "Thyroid and Parathyroid Glands",
+      "front": "What do the Thyroid and Parathyroid glands regulate respectively?",
+      "back": "The Thyroid regulates metabolism and growth. The four tiny Parathyroid glands (in the neck) control the body's calcium levels via parathyroid hormone (PTH).",
+      "pageRef": "Handbook pg. 54"
+    },
+    {
+      "id": "adrenal-pineal-glands",
+      "category": "Human Systems & Physiology",
+      "topic": "Adrenal and Pineal Glands",
+      "front": "What do the Adrenal glands and Pineal gland produce?",
+      "back": "Adrenal glands (atop each kidney) produce cortisol and aldosterone, controlling blood sugar and fat/protein metabolism. The Pineal gland produces melatonin, regulating the sleep-wake body clock.",
+      "pageRef": "Handbook pg. 54"
+    },
+    {
+      "id": "asanas-endocrine-glands",
+      "category": "Human Systems & Physiology",
+      "topic": "Asanas for Endocrine Glands",
+      "front": "Which Asanas are linked to specific endocrine glands in the handbook?",
+      "back": "• Sarvangasana - stimulates pituitary and pineal gland (via increased blood flow)\n• Halasana - improves thyroid and parathyroid function\n• Ardhamatsyendrasana - massages/stimulates the pancreas for insulin/glucagon release",
+      "pageRef": "Handbook pg. 55"
+    },
+    {
+      "id": "first-aid-aims",
+      "category": "Human Systems & Physiology",
+      "topic": "Aims of First Aid",
+      "front": "What are the three aims of First Aid?",
+      "back": "• To preserve life\n• To prevent further harm\n• To promote recovery",
+      "pageRef": "Handbook pg. 55"
+    },
+    {
+      "id": "first-aid-abc",
+      "category": "Human Systems & Physiology",
+      "topic": "First Aid: ABC",
+      "front": "What does the 'ABC' of First Aid stand for?",
+      "back": "A - Airway (ensure it is clear), B - Breathing (check and assist if needed), C - Circulation (check pulse; if absent, begin chest compressions).",
+      "pageRef": "Handbook pg. 55"
+    },
+    {
+      "id": "first-aid-rice",
+      "category": "Human Systems & Physiology",
+      "topic": "First Aid: RICE Protocol",
+      "front": "What does the RICE protocol for bleeding/wound management stand for?",
+      "back": "R - Rest, I - Ice (constrict vessels, reduce bleeding), C - Compression (stop bleeding until clotting), E - Elevation (reduce bleeding/swelling, aid venous return).",
+      "pageRef": "Handbook pg. 59"
+    },
+    {
+      "id": "heimlich-maneuver",
+      "category": "Human Systems & Physiology",
+      "topic": "Heimlich Manoeuvre",
+      "front": "What is the Heimlich Manoeuvre used for and what is the basic technique?",
+      "back": "Used to clear an obstructed airway in a choking adult/child over 1 year: stand behind the person, make a fist above the navel/below the breastbone, and give quick upward thrusts until the object pops out.",
+      "pageRef": "Handbook pg. 56"
+    },
+    {
+      "id": "who-health-def",
+      "category": "Yoga for Wellness",
+      "topic": "WHO Definition of Health",
+      "front": "How does the WHO (1948 constitution) define health?",
+      "back": "A state of complete physical, intellectual, emotional, social and spiritual well-being, and not merely the absence of disease or infirmity.",
+      "pageRef": "Handbook pg. 64"
+    },
+    {
+      "id": "wellness-8-dimensions",
+      "category": "Yoga for Wellness",
+      "topic": "8 Dimensions of Wellness",
+      "front": "According to the National Wellness Institute, what are the 8 Dimensions of Wellness?",
+      "back": "Emotional, Physical, Spiritual, Intellectual, Social, Professional, Financial, and Environmental.",
+      "pageRef": "Handbook pg. 65"
+    },
+    {
+      "id": "dukha-three-types",
+      "category": "Yoga for Wellness",
+      "topic": "Three Types of Dukha (Samkhya)",
+      "front": "What are the three causes of Dukha (pain) according to Samkhya?",
+      "back": "• Adhyatmik - pain from imbalance within one's own body/mind\n• Adhibhautik - pain caused by other living beings\n• Adhidaivik - pain from unknown/natural elements (e.g., natural calamities)",
+      "pageRef": "Handbook pg. 65"
+    },
+    {
+      "id": "adhi-vyadhi-concept",
+      "category": "Yoga for Wellness",
+      "topic": "Adhi and Vyadhi",
+      "front": "What do Adhi and Vyadhi mean according to Hatha Yoga Pradipika?",
+      "back": "Adhi is the origin of affliction in the mind (mental stress); Vyadhi is its manifestation as physical disease in the body - mental stress blocks nadis with impurities, hampering Prana flow and causing illness.",
+      "pageRef": "Handbook pg. 66"
+    },
+    {
+      "id": "hatha-yoga-health-def",
+      "category": "Yoga for Wellness",
+      "topic": "Hatha Yoga's Definition of Health",
+      "front": "What characteristics define health according to Hatha Yoga Pradipika?",
+      "back": "Slimness of body, shine on the face, clarity of voice, brightness of eyes, freedom from disease, control over sex, stimulation of gastric fire, and purification of the nadis.",
+      "pageRef": "Handbook pg. 66"
+    },
+    {
+      "id": "hanopaya-treatment",
+      "category": "Yoga for Wellness",
+      "topic": "Hanopaya - Yogic Treatment Approach",
+      "front": "What is Hanopaya and how does it differ from modern symptomatic treatment?",
+      "back": "Hanopaya is the yogic methodology of removing the root cause of a problem permanently, rather than only removing symptoms temporarily (as much of modern medicine does).",
+      "pageRef": "Handbook pg. 66"
+    },
+    {
+      "id": "triguna-def",
+      "category": "Yoga for Wellness",
+      "topic": "Concept of Triguna",
+      "front": "What are the three Gunas and what does each represent?",
+      "back": "Rajas - activity, restlessness, stress, anger. Tamas - lethargy, dullness, laziness. Sattva - balance, harmony, purity, health, and wellbeing. All three are present in every person in varying proportion.",
+      "pageRef": "Handbook pg. 67"
+    },
+    {
+      "id": "rajasic-diet",
+      "category": "Yoga for Wellness",
+      "topic": "Rajasic Diet",
+      "front": "What characterizes a Rajasic diet and its effect?",
+      "back": "Overly spicy/hot foods, onion, garlic, coffee, fizzy drinks, sugar, excess chocolate - gives a temporary energy lift but ultimately causes stress and destroys mind-body equilibrium.",
+      "pageRef": "Handbook pg. 68"
+    },
+    {
+      "id": "tamasic-diet",
+      "category": "Yoga for Wellness",
+      "topic": "Tamasic Diet",
+      "front": "What characterizes a Tamasic diet and its effect?",
+      "back": "'Dead' food - meat, fish, poultry, eggs, stale/processed/reheated food, alcohol, drugs - pulls consciousness downward into laziness, inertia, and diseases like obesity, diabetes, and liver disease.",
+      "pageRef": "Handbook pg. 68"
+    },
+    {
+      "id": "sattvic-diet",
+      "category": "Yoga for Wellness",
+      "topic": "Sattvic Diet",
+      "front": "What characterizes a Sattvic diet?",
+      "back": "Pure vegetarian food - fresh fruits/vegetables, wholemeal bread, pulses, grains, sprouts, nuts, seeds, honey, milk - raises consciousness, inspires positive action, and supports meditation.",
+      "pageRef": "Handbook pg. 68"
+    },
+    {
+      "id": "calorie-values-macros",
+      "category": "Yoga for Wellness",
+      "topic": "Calorie Values of Macronutrients",
+      "front": "How many calories does one gram each of protein, carbohydrate, and fat provide?",
+      "back": "Protein - 4 calories per gram. Carbohydrate - 4 calories per gram. Fat - 9 calories per gram.",
+      "pageRef": "Handbook pg. 70"
+    },
+    {
+      "id": "avg-calorie-need",
+      "category": "Yoga for Wellness",
+      "topic": "Average Daily Calorie Need",
+      "front": "What is the approximate daily calorie requirement for a healthy individual?",
+      "back": "Approximately 2000 calories per day, though this varies with age, occupation, and environment.",
+      "pageRef": "Handbook pg. 70"
+    },
+    {
+      "id": "purusharthas-as-motives",
+      "category": "Yoga & Stress Management",
+      "topic": "Purusharthas as Motives (Yoga Psychology)",
+      "front": "How does Yoga Psychology explain the origin of human behaviour, compared to Western psychology?",
+      "back": "Yoga holds that our motives (Purusharthas) shape value systems, which shape attitudes, which shape behaviour. Western psychology focuses on directly changing behaviour/attitudes rather than correcting underlying motives.",
+      "pageRef": "Handbook pg. 72"
+    },
+    {
+      "id": "stress-def-general",
+      "category": "Yoga & Stress Management",
+      "topic": "Definition of Stress",
+      "front": "How is stress generally defined in the handbook?",
+      "back": "Stress is a reaction to a stimulus that disturbs physical or mental equilibrium - any event that strains or exceeds an individual's ability to cope.",
+      "pageRef": "Handbook pg. 72"
+    },
+    {
+      "id": "stress-psychosomatic-link",
+      "category": "Yoga & Stress Management",
+      "topic": "Stress and Psychosomatic Disease",
+      "front": "How does unmanaged stress lead to psychosomatic illness according to the handbook?",
+      "back": "Vrittis cause stress, increasing stress hormones (like adrenaline), leading to tighter muscles, narrowed arteries, higher blood pressure, and shallow breathing - producing toxins and conditions like hypertension, diabetes, and asthma.",
+      "pageRef": "Handbook pg. 73"
+    },
+    {
+      "id": "mind-body-yoga-view",
+      "category": "Yoga & Stress Management",
+      "topic": "Mind-Body Relationship (Yogic View)",
+      "front": "How does Yoga's view of the mind-body relationship differ from the Western medical/psychological approach?",
+      "back": "Western science studies body and mind as separate domains, while Yoga treats the human being as one integrated unit where body (muscles, organs, nervous system) and mind (feelings, emotions, thoughts) continuously and deeply influence each other.",
+      "pageRef": "Handbook pg. 73"
+    },
+    {
+      "id": "mental-hygiene-def",
+      "category": "Yoga & Stress Management",
+      "topic": "Mental Hygiene",
+      "front": "What is meant by 'mental hygiene' in Yoga?",
+      "back": "Overcoming negative thoughts by cultivating positive ones; achieved through Saucha (cleanliness, external and internal) and practices like Kriyas, Asana, and Pranayama, along with reducing attachments and negative traits.",
+      "pageRef": "Handbook pg. 74"
+    },
+    {
+      "id": "klishta-aklishta-vrittis",
+      "category": "Yoga & Stress Management",
+      "topic": "Klishta vs Aklishta Vrittis",
+      "front": "What is the difference between Klishta and Aklishta Vrittis?",
+      "back": "Klishta Vrittis are based on the Kleshas and cause pain/suffering. Aklishta Vrittis are opposed to the Kleshas and do not cause pain/suffering. Yoga's objective is to control the Kleshas.",
+      "pageRef": "Handbook pg. 74"
+    },
+    {
+      "id": "mental-health-yogic-view",
+      "category": "Yoga & Stress Management",
+      "topic": "Mental Health - Yogic Perspective",
+      "front": "How does Yoga define a mentally healthy mind, beyond the absence of disorder?",
+      "back": "A calm, clear, detached mind capable of one-pointedness (Ekagrata) - able to understand and control emotions without easy disturbance, progressing on the spiritual path via the eight-fold path.",
+      "pageRef": "Handbook pg. 75"
+    },
+    {
+      "id": "samvega-concept",
+      "category": "Yoga & Stress Management",
+      "topic": "Samvega (Spiritual Urge)",
+      "front": "What is Samvega, and why is it important for faith and meditation?",
+      "back": "Samvega is the spiritual urge matched with faith and higher understanding; when the urge is clear and faith is strong, the individual can rise to great spiritual heights, aided by practices like prayer.",
+      "pageRef": "Handbook pg. 75"
+    },
+    {
+      "id": "eustress-def",
+      "category": "Yoga & Stress Management",
+      "topic": "Eustress",
+      "front": "What is Eustress, and how is it different from harmful stress?",
+      "back": "Eustress is 'good stress' that provides challenge and motivation leading to greater performance, heightened awareness, and sense of purpose (e.g., excitement from winning a competition).",
+      "pageRef": "Handbook pg. 77"
+    },
+    {
+      "id": "kriya-yoga-three-virtues",
+      "category": "Yoga & Stress Management",
+      "topic": "Kriya Yoga - 3 Virtues for Stress Reduction",
+      "front": "What three virtues constitute Kriya Yoga, used to reduce the Kleshas and manage stress?",
+      "back": "Tapa (austerity/discipline), Swadhyaya (self-study), and Ishwarapranidhana (surrender to God) - together correcting wrong tendencies and reducing stress.",
+      "pageRef": "Handbook pg. 77"
+    },
+    {
+      "id": "role-yoga-life-management",
+      "category": "Yoga & Stress Management",
+      "topic": "Role of Yoga in Life Management",
+      "front": "What key solution does Yoga offer for emotional identification causing stress?",
+      "back": "Detachment - learning to distance oneself from over-involvement in situations to gain clarity and perspective, rather than reacting impulsively; and having faith in a larger benevolent process.",
+      "pageRef": "Handbook pg. 78"
+    },
+    {
+      "id": "pratyahara-bridge",
+      "category": "Yoga & Stress Management",
+      "topic": "Pratyahara as a Bridge",
+      "front": "Why is Pratyahara called the 'bridge' between Bahiranga and Antaranga Yoga?",
+      "back": "Pratyahara is the final step of Bahiranga (external) Yoga, preparing the senses and mind for the higher concentration levels of Antaranga (internal) Yoga - Dharana, Dhyana, and Samadhi.",
+      "pageRef": "Handbook pg. 78"
+    },
+    {
+      "id": "communication-two-types",
+      "category": "Communication & Teaching",
+      "topic": "Types of Communication",
+      "front": "What are the two broad categories of communication a Yoga teacher should master?",
+      "back": "Verbal communication (spoken/written words) and Non-verbal communication (behaviour, gestures, appearance, physical environment, facial expressions, eye contact).",
+      "pageRef": "Handbook pg. 80"
+    },
+    {
+      "id": "verbal-comm-guidelines",
+      "category": "Communication & Teaching",
+      "topic": "Verbal Communication Guidelines",
+      "front": "Name three guidelines for effective verbal communication by a Yoga teacher.",
+      "back": "• Depth of subject knowledge gives clarity\n• Maintain fluency and pleasant tone, with correct pronunciation of yogic terms\n• Plan the topic beforehand and gauge the audience for right word choice",
+      "pageRef": "Handbook pg. 80"
+    },
+    {
+      "id": "feedback-handling",
+      "category": "Communication & Teaching",
+      "topic": "Handling Feedback",
+      "front": "How should a Yoga teacher respond to negative feedback?",
+      "back": "Maintain poise, check the facts neutrally; if in your favour, gently clarify misunderstanding; if not, immediately correct the mistake, ensure it is not repeated, and thank the person for pointing it out.",
+      "pageRef": "Handbook pg. 81"
+    },
+    {
+      "id": "behavioural-communication",
+      "category": "Communication & Teaching",
+      "topic": "Behavioural Communication",
+      "front": "What behavioural qualities should a Yoga teacher cultivate?",
+      "back": "A calm, composed personality; decent/cultural clothing; a friendly, patient, honest attitude; firmness with encouragement; and treating every individual with respect.",
+      "pageRef": "Handbook pg. 81"
+    },
+    {
+      "id": "teaching-sequence",
+      "category": "Communication & Teaching",
+      "topic": "Sequence of Teaching Yoga Techniques",
+      "front": "What is the recommended present-day sequence for teaching yoga techniques in class?",
+      "back": "Kriyas → Sahaj Bhava Asanas (Sukshma Vyayama) → Surya Namaskar → Asana → Breathing Exercises → Pranayama → Dharana, Dhyana.",
+      "pageRef": "Handbook pg. 84"
+    },
+    {
+      "id": "asana-teaching-principles",
+      "category": "Communication & Teaching",
+      "topic": "Teaching Asana - Key Principles",
+      "front": "What are two important principles for teaching Asana correctly?",
+      "back": "• Emphasise experiencing the psychological/spiritual benefits of the Asana, rather than just reaching the final posture\n• Use no physical or other force in attempting to perfect a pose",
+      "pageRef": "Handbook pg. 84"
+    },
+    {
+      "id": "teacher-must-not-do",
+      "category": "Communication & Teaching",
+      "topic": "What a Yoga Teacher Must NOT Do",
+      "front": "List some key things a Yoga teacher must NOT do, per the handbook's guidelines.",
+      "back": "• Don't act as a medical/psychological practitioner\n• Don't use specific practices to treat specific conditions\n• Don't make rash promises about outcomes\n• Don't take on acute medical/psychological cases\n• Don't rush students' progress",
+      "pageRef": "Handbook pg. 86"
+    },
+    {
+      "id": "teacher-should-do",
+      "category": "Communication & Teaching",
+      "topic": "What a Yoga Teacher SHOULD Do",
+      "front": "List some key things a Yoga teacher SHOULD do.",
+      "back": "• See students as individuals\n• Base instruction on careful observation of students\n• Begin with simple practices, progressing with improvement\n• Exercise patience\n• Remember Yoga is a way of life, not a particular therapy",
+      "pageRef": "Handbook pg. 86"
+    },
+    {
+      "id": "asana-attention-focus",
+      "category": "General Rules of Practice",
+      "topic": "Asana - Where Should Attention Be?",
+      "front": "Where should a beginner's attention be focused during Asana practice, and how does this evolve?",
+      "back": "Initially, practicing before a mirror helps concentrate the mind on specific body parts and correct faults. Later this visual aid is dropped, so the mind stays free of external objects and syncs naturally with each movement.",
+      "pageRef": "Handbook pg. 88"
+    },
+    {
+      "id": "asana-dose-duration",
+      "category": "General Rules of Practice",
+      "topic": "Asana - Recommended Daily Dose",
+      "front": "What is the recommended standard daily dose of Yoga exercise (Asana)?",
+      "back": "Around 25-30 minutes daily. If a day's practice is missed, it should be made good as soon as possible to maintain the daily health rhythm - regularity (Abhyasa) is one of the two fundamental keys to success.",
+      "pageRef": "Handbook pg. 89"
+    },
+    {
+      "id": "asana-selection-criteria",
+      "category": "General Rules of Practice",
+      "topic": "Selecting Which Asanas to Practice",
+      "front": "What criteria should guide the selection of a good daily Asana course?",
+      "back": "A good course exercises the joints and major muscle groups (spinal, abdominal), improves blood circulation, contributes to steadiness, and enriches positive experience - not merely demonstrating acrobatic ability.",
+      "pageRef": "Handbook pg. 89"
+    },
+    {
+      "id": "asana-static-dynamic",
+      "category": "General Rules of Practice",
+      "topic": "Static vs Dynamic Asana Practice",
+      "front": "What is the difference between static and dynamic Asana practice, and which is recommended for beginners?",
+      "back": "Dynamic practice holds the Asana briefly with several repeated rounds (recommended for beginners, using the 2:4:2 or 3:6:3 breathing rhythm); static practice holds the posture longer with normal breathing (for advanced practitioners).",
+      "pageRef": "Handbook pg. 89"
+    },
+    {
+      "id": "pranayama-prerequisite",
+      "category": "General Rules of Practice",
+      "topic": "Pranayama - Prerequisite",
+      "front": "What must an aspirant master before taking up Pranayama practice?",
+      "back": "The aspirant must first perfect Asanas before practicing Pranayama, and should first complete the six purificatory Kriyas (Dhauti, Basti, Neti, Trataka, Nauli, Kapalabhati) if not already physiologically healthy.",
+      "pageRef": "Handbook pg. 157"
+    },
+    {
+      "id": "pranayama-general-rules",
+      "category": "General Rules of Practice",
+      "topic": "General Rules for Pranayama",
+      "front": "List three general rules for safe Pranayama practice from the handbook.",
+      "back": "• Practice regularly with a clean, focused mind free of distraction and laziness\n• Expel and fill the breath slowly and cautiously - avoid jerky movements\n• Keep the spine erect, avoid straining any part of the body, including facial muscles",
+      "pageRef": "Handbook pg. 157"
+    },
+    {
+      "id": "pranayama-dangers",
+      "category": "General Rules of Practice",
+      "topic": "Dangers of Improper Pranayama",
+      "front": "What dangers can arise if Pranayama is practiced without proper gradation?",
+      "back": "Prana can behave like 'a wild tiger or elephant' that can harm the practitioner - causing disturbed homeostasis, schizophrenic tendencies, hiccoughs, respiratory disorders, and pain in the head, eyes, or ears.",
+      "pageRef": "Handbook pg. 157"
+    },
+    {
+      "id": "pranayama-rounds-limit",
+      "category": "General Rules of Practice",
+      "topic": "Pranayama - Session Limits",
+      "front": "What are the recommended limits on Pranayama rounds and age restriction?",
+      "back": "No more than thirty rounds of Pranayama altogether in one sitting; strictly not recommended for children below 12 years of age.",
+      "pageRef": "Handbook pg. 158"
+    },
+    {
+      "id": "yogendra-pranayama-purpose",
+      "category": "General Rules of Practice",
+      "topic": "Purpose of Yogendra Pranayama I-VIII",
+      "front": "Why did Shri Yogendraji design the Yogendra Pranayama I-VIII series?",
+      "back": "To exercise the three sets of breathing muscles (diaphragm, intercostal, clavicular), gradually improving breathing capacity and strength/stamina, preparing a householder for traditional Pranayama in a safe, simplified way.",
+      "pageRef": "Handbook pg. 158"
+    },
+    {
+      "id": "gloss-panchkosha",
+      "category": "Glossary",
+      "topic": "Panchkosha (5 Sheaths)",
+      "front": "What are the five Panchkosha (sheaths of human existence) per the Taittiriya Upanishad?",
+      "back": "• Annamaya Kosha – gross physical body, sustained by food\n• Pranamaya Kosha – vital energy (Prana) sheath that sustains life\n• Manomaya Kosha – mind sheath that carries emotions and feelings\n• Vigyanamaya Kosha – intellect/wisdom sheath\n• Anandamaya Kosha – bliss/spiritual sheath",
+      "pageRef": "Handbook pg. 175"
+    },
+    {
+      "id": "gloss-panch-mahabhutas",
+      "category": "Glossary",
+      "topic": "Panch Mahabhutas (5 Gross Elements)",
+      "front": "What are the five Panch Mahabhutas (gross elements of material existence)?",
+      "back": "• Aakaasha – Space\n• Vaayu – Air\n• Agni (Tejas) – Fire\n• Aap (Jala) – Water\n• Prithvi – Earth",
+      "pageRef": "Handbook pg. 175"
+    },
+    {
+      "id": "gloss-tanmatra",
+      "category": "Glossary",
+      "topic": "Tanmatra (5 Subtle Elements)",
+      "front": "What are the five Tanmatras (subtle matter) that correspond to the Panch Mahabhutas?",
+      "back": "• Shabda – Sound\n• Sparsha – Touch\n• Rupa – Form\n• Rasa – Taste\n• Gandha – Smell",
+      "pageRef": "Handbook pg. 175"
+    },
+    {
+      "id": "gloss-jnanendriyas",
+      "category": "Glossary",
+      "topic": "Jnanendriyas (5 Sense Capacities)",
+      "front": "What are the five Jnanendriyas (sense capacities)?",
+      "back": "• Chaksu – capacity to see\n• Srotram – capacity to hear\n• Ghraana – capacity to smell\n• Rasanaa – capacity to taste\n• Tvak – capacity to touch/feel",
+      "pageRef": "Handbook pg. 175"
+    },
+    {
+      "id": "gloss-karmendriyas",
+      "category": "Glossary",
+      "topic": "Karmendriyas (5 Action Capacities)",
+      "front": "What are the five Karmendriyas (action capacities)?",
+      "back": "• Vaak – capacity to speak\n• Paani – capacity to hold/grasp/manipulate\n• Paada – capacity to move (locomotion)\n• Paayu – capacity to excrete\n• Upastha – capacity to procreate",
+      "pageRef": "Handbook pg. 175"
+    },
+    {
+      "id": "gloss-pancha-prana",
+      "category": "Glossary",
+      "topic": "Pancha Prana (5 Types of Prana)",
+      "front": "What are the five types of Prana (by function area) and what does each control?",
+      "back": "• Prana – heart to nose tip: controls respiration\n• Apana – alimentary canal to anus: elimination, downward movement\n• Samana – heart to navel: generates heat & digestion\n• Udana – thoracic cavity, nose, throat, ear, eyes, forehead: controls intake of air/food, upward movement\n• Vyana – entire body: distributes energy from food and breath",
+      "pageRef": "Handbook pg. 174"
+    },
+    {
+      "id": "gloss-tritapa",
+      "category": "Glossary",
+      "topic": "Tritapa (3 Types of Pain)",
+      "front": "What are the three types of pain (Tritapa) recognized in yogic thought?",
+      "back": "• Adhyatmik – self-inflicted pain\n• Adhibhautik – pain caused by other living beings\n• Adhidaivik – pain caused by natural forces/calamities",
+      "pageRef": "Handbook pg. 174"
+    },
+    {
+      "id": "gloss-nastik-darshan",
+      "category": "Glossary",
+      "topic": "Nastik Darshan",
+      "front": "What is Nastik Darshan, and which three philosophies fall under it?",
+      "back": "Nastik Darshan refers to Indian philosophies that do NOT accept the supremacy/authority of the Vedas (unlike the six Astika Shad-darshans). The three Nastik Darshans are: Buddhism, Jainism, and Charvaka.",
+      "pageRef": "Handbook pg. 176"
+    },
+    {
+      "id": "gloss-mitahara-stomach-rule",
+      "category": "Glossary",
+      "topic": "Mitahara – Stomach-Filling Rule",
+      "front": "According to Mitahara, in what proportions should the stomach be filled at a meal?",
+      "back": "½ filled with food, ¼ filled with water/liquid, and ¼ left empty for the formation of gases.",
+      "pageRef": "Handbook pg. 174"
+    },
+    {
+      "id": "gloss-mitahara-food-qualities",
+      "category": "Glossary",
+      "topic": "Mitahara – Food Qualities",
+      "front": "Per Mitahara, what three qualities should food have, and what do Pathya/Apathya mean?",
+      "back": "Pathya = diet that keeps the body's systems healthy; Apathya = diet that causes disturbance/sickness. Good (Pathya) food should be:\n• Susnigdham – soft, with a little ghee for lubrication\n• Madhuram – naturally sweet\n• Shiva Samprityai – fit to be offered to God (Shiva)",
+      "pageRef": "Handbook pg. 174"
+    },
+    {
+      "id": "gloss-med-abdominal-adhesions",
+      "category": "Glossary",
+      "topic": "Abdominal Adhesions",
+      "front": "Define: Abdominal Adhesions",
+      "back": "Bands of fibrous scar tissue that abnormally bind abdominal tissues/organs together (e.g. bowel loops to the peritoneal lining or to each other), instead of their normally slippery, non-sticking surfaces.",
+      "pageRef": "Handbook pg. 176"
+    },
+    {
+      "id": "gloss-med-ankylosing-spondylitis",
+      "category": "Glossary",
+      "topic": "Ankylosing Spondylitis",
+      "front": "Define: Ankylosing Spondylitis (AS)",
+      "back": "Chronic inflammation of the spinal joints (also called rheumatoid spondylitis) causing pain and stiffness of the back that can progress to the chest and neck; in advanced cases the vertebrae fuse into a rigid 'bamboo spine.'",
+      "pageRef": "Handbook pg. 176"
+    },
+    {
+      "id": "gloss-med-bradycardia",
+      "category": "Glossary",
+      "topic": "Bradycardia",
+      "front": "Define: Bradycardia",
+      "back": "An abnormally slow heartbeat, with a rate less than 60 beats per minute; can occur normally during sleep, and trained athletes often have a slow resting pulse.",
+      "pageRef": "Handbook pg. 176"
+    },
+    {
+      "id": "gloss-med-contraindication",
+      "category": "Glossary",
+      "topic": "Contraindication",
+      "front": "Define: Contraindication",
+      "back": "A specific circumstance, disease, or physical condition that makes it inadvisable to apply a particular protocol, technique, or treatment to a client in the usual manner.",
+      "pageRef": "Handbook pg. 176"
+    },
+    {
+      "id": "gloss-med-dyspepsia",
+      "category": "Glossary",
+      "topic": "Dyspepsia",
+      "front": "Define: Dyspepsia",
+      "back": "Painful, difficult, or disturbed digestion, which may come with nausea, vomiting, heartburn, bloating, and stomach discomfort.",
+      "pageRef": "Handbook pg. 177"
+    },
+    {
+      "id": "gloss-med-enteroptosis",
+      "category": "Glossary",
+      "topic": "Enteroptosis",
+      "front": "Define: Enteroptosis",
+      "back": "Sinking of the abdominal viscera (internal organs) below their natural position.",
+      "pageRef": "Handbook pg. 177"
+    },
+    {
+      "id": "gloss-med-flatus",
+      "category": "Glossary",
+      "topic": "Flatus / Flatulence",
+      "front": "Define: Flatus / Flatulence",
+      "back": "Intestinal gas produced by bacterial action on waste matter in the intestines.",
+      "pageRef": "Handbook pg. 177"
+    },
+    {
+      "id": "gloss-med-gluteus-maximus",
+      "category": "Glossary",
+      "topic": "Gluteus Maximus",
+      "front": "Define: Gluteus Maximus",
+      "back": "The large muscle located in the buttocks; regarded as one of the strongest muscles in the human body.",
+      "pageRef": "Handbook pg. 177"
+    },
+    {
+      "id": "gloss-med-haemorrhoids",
+      "category": "Glossary",
+      "topic": "Haemorrhoids (Piles)",
+      "front": "Define: Haemorrhoids (Piles)",
+      "back": "Swollen veins in the anal/rectal area. Internal haemorrhoids lie inside the anus/lower rectum beneath the lining; external haemorrhoids lie outside the anal opening. Both kinds can occur at the same time.",
+      "pageRef": "Handbook pg. 177"
+    },
+    {
+      "id": "gloss-med-hepatosis",
+      "category": "Glossary",
+      "topic": "Hepatosis",
+      "front": "Define: Hepatosis",
+      "back": "Any functional disorder of the liver.",
+      "pageRef": "Handbook pg. 177"
+    },
+    {
+      "id": "gloss-med-hernia",
+      "category": "Glossary",
+      "topic": "Hernia",
+      "front": "Define: Hernia",
+      "back": "Occurs when an organ pushes through an opening in the muscle or tissue that normally holds it in place.",
+      "pageRef": "Handbook pg. 177"
+    },
+    {
+      "id": "gloss-med-hysteria",
+      "category": "Glossary",
+      "topic": "Hysteria",
+      "front": "Define: Hysteria",
+      "back": "A psychological disorder characterized by the conversion of psychological stress into physical symptoms (somatisation).",
+      "pageRef": "Handbook pg. 177"
+    },
+    {
+      "id": "gloss-med-incontinence",
+      "category": "Glossary",
+      "topic": "Incontinence",
+      "front": "Define: Incontinence",
+      "back": "Lack of voluntary control over excretory functions (bladder and/or bowel).",
+      "pageRef": "Handbook pg. 177"
+    },
+    {
+      "id": "gloss-med-kyphosis",
+      "category": "Glossary",
+      "topic": "Kyphosis",
+      "front": "Define: Kyphosis",
+      "back": "Extreme forward curvature of the upper (thoracic) back, i.e. a 'hunchback'; considered abnormal once the curve exceeds about 50°. Can be acquired at birth, in old age, or in between.",
+      "pageRef": "Handbook pg. 177"
+    },
+    {
+      "id": "gloss-med-limitation",
+      "category": "Glossary",
+      "topic": "Limitation",
+      "front": "Define: Limitation (as a medical/technique term)",
+      "back": "A condition or restriction placed on the activity or range of motion of something (e.g. a joint, or a yoga practice).",
+      "pageRef": "Handbook pg. 177"
+    },
+    {
+      "id": "gloss-med-lumbago",
+      "category": "Glossary",
+      "topic": "Lumbago",
+      "front": "Define: Lumbago",
+      "back": "Pain in the lumbar (lower back) region — an old popular term for lower back pain, caused by factors such as injury, strain, arthritis, or abuse of the back muscles (poor posture, sagging mattress, ill-fitting shoes).",
+      "pageRef": "Handbook pg. 177"
+    },
+    {
+      "id": "gloss-med-neurasthenia",
+      "category": "Glossary",
+      "topic": "Neurasthenia",
+      "front": "Define: Neurasthenia",
+      "back": "An ill-defined condition often accompanying or following depression, marked by lassitude, fatigue, headache, and irritability, linked chiefly to emotional/psychological disturbance.",
+      "pageRef": "Handbook pg. 177"
+    },
+    {
+      "id": "gloss-med-osteoarthritis",
+      "category": "Glossary",
+      "topic": "Osteoarthritis",
+      "front": "Define: Osteoarthritis",
+      "back": "Degeneration of joint cartilage and the underlying bone, most common from middle age onward; causes pain and stiffness especially in the hip, knee, and thumb joints.",
+      "pageRef": "Handbook pg. 177"
+    },
+    {
+      "id": "gloss-med-perineum",
+      "category": "Glossary",
+      "topic": "Perineum",
+      "front": "Define: Perineum",
+      "back": "The region between the thighs, bounded in males by the scrotum and anus, and in females by the vulva and anus.",
+      "pageRef": "Handbook pg. 177"
+    },
+    {
+      "id": "gloss-med-pliancy",
+      "category": "Glossary",
+      "topic": "Pliancy",
+      "front": "Define: Pliancy",
+      "back": "Flexible, supple, adaptable.",
+      "pageRef": "Handbook pg. 177"
+    },
+    {
+      "id": "gloss-med-prone",
+      "category": "Glossary",
+      "topic": "Prone (vs. Supine)",
+      "front": "Define: Prone position",
+      "back": "Lying flat with the chest down and the back up (dorsal side up, ventral side down) — the opposite of supine.",
+      "pageRef": "Handbook pg. 177"
+    },
+    {
+      "id": "gloss-med-sciatica",
+      "category": "Glossary",
+      "topic": "Sciatica",
+      "front": "Define: Sciatica",
+      "back": "Pain, numbness, or weakness radiating along the sciatic nerve (the largest nerve in the body) from the lower back, behind the thigh, and down below the knee — caused by compression of a spinal nerve root in the lower back.",
+      "pageRef": "Handbook pg. 178"
+    },
+    {
+      "id": "gloss-med-scoliosis",
+      "category": "Glossary",
+      "topic": "Scoliosis",
+      "front": "Define: Scoliosis",
+      "back": "A side-to-side curvature of the spine (normally the spine appears straight when viewed from the rear).",
+      "pageRef": "Handbook pg. 178"
+    },
+    {
+      "id": "gloss-med-splanchnic",
+      "category": "Glossary",
+      "topic": "Splanchnic",
+      "front": "Define: Splanchnic",
+      "back": "Pertaining to the internal organs (viscera).",
+      "pageRef": "Handbook pg. 178"
+    },
+    {
+      "id": "gloss-med-sternum",
+      "category": "Glossary",
+      "topic": "Sternum",
+      "front": "Define: Sternum",
+      "back": "The breastbone — a long, narrow, flat bone forming the keystone of the rib cage; anchors muscles that move the arms, head, and neck, and protects vital chest organs such as the heart.",
+      "pageRef": "Handbook pg. 178"
+    },
+    {
+      "id": "gloss-med-supine",
+      "category": "Glossary",
+      "topic": "Supine (vs. Prone)",
+      "front": "Define: Supine position",
+      "back": "Lying flat on the back, face/front forward (ventral side up, dorsal side down) — the opposite of prone.",
+      "pageRef": "Handbook pg. 178"
+    },
+    {
+      "id": "gloss-med-tachycardia",
+      "category": "Glossary",
+      "topic": "Tachycardia",
+      "front": "Define: Tachycardia",
+      "back": "An abnormally rapid heart rate, usually taken to be over 100 beats per minute.",
+      "pageRef": "Handbook pg. 178"
+    },
+    {
+      "id": "gloss-med-thrombosis",
+      "category": "Glossary",
+      "topic": "Thrombosis",
+      "front": "Define: Thrombosis",
+      "back": "The process of a blood clot forming in a blood vessel, which can block/obstruct blood flow in the affected area or cause serious complications if the clot travels to a critical part of the circulatory system.",
+      "pageRef": "Handbook pg. 178"
+    },
+    {
+      "id": "gloss-med-toxaemia",
+      "category": "Glossary",
+      "topic": "Toxaemia",
+      "front": "Define: Toxaemia",
+      "back": "Toxins/noxious substances in the blood, typically from an infectious disease process; as a lay term it can also refer to the hypertensive disorders of pregnancy.",
+      "pageRef": "Handbook pg. 178"
+    },
+    {
+      "id": "gloss-med-vertebral-foramen",
+      "category": "Glossary",
+      "topic": "Vertebral Foramen",
+      "front": "Define: Vertebral Foramen",
+      "back": "The large opening in the centre of a vertebra that provides space for the spinal cord and its meninges to pass through.",
+      "pageRef": "Handbook pg. 178"
+    },
+    {
+      "id": "gloss-med-viscera",
+      "category": "Glossary",
+      "topic": "Viscera",
+      "front": "Define: Viscera",
+      "back": "The internal organs enclosed within a body cavity, including the abdominal, thoracic, pelvic, and endocrine organs.",
+      "pageRef": "Handbook pg. 178"
+    }
+  ]
+}

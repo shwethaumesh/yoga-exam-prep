@@ -1,0 +1,787 @@
+{
+  "items": [
+    {
+      "id": "yogendra-padmasana",
+      "name": "Yogendra Padmasana",
+      "englishName": "Lotus Pose",
+      "category": "Meditative Asanas",
+      "poseCue": "Seated cross-legged; right foot on left thigh, left foot on right thigh with upturned soles; hands resting below navel in Bhairava Mudra.",
+      "pdfRef": "📖 Handbook pg. 89",
+      "pdfHref": "resources/handbook.pdf#page=89",
+      "startingPosition": "Seated on floor/mat, legs extended straight, no back support; mind relaxed & passively aware.",
+      "steps": [
+        "1. Place right heel at root of left thigh, sole turned upward.",
+        "2. Cross left heel over right thigh, sole upturned.",
+        "3. Press knees to ground; heels against pubic bone.",
+        "4. Spine straight, chin parallel to floor.",
+        "5. Left hand below navel, right hand over left (Bhairava mudra).",
+        "6. Close eyes; passively observe breath."
+      ],
+      "breath": "Normal rhythmic breathing (passively observe the breath flow).",
+      "recommendedPractice": "Start with 30s–1 min; progress gradually to 10 mins. Alternate crossing of legs.",
+      "limitations": [
+        "Acute arthritis",
+        "Psychological depression"
+      ],
+      "benefits": [
+        "Physical: Stretches thighs, calves, knees, ankles.",
+        "Therapeutic: Corrects spinal irregularities; relieves sciatica and menstrual issues; boosts abdominal circulation.",
+        "Psychological: Focus and mental equanimity."
+      ]
+    },
+    {
+      "id": "yogendra-sthitaprarthanasana",
+      "name": "Yogendra Sthitaprarthanasana",
+      "englishName": "Standing Prayer Pose",
+      "category": "Meditative Asanas",
+      "poseCue": "Standing tall with feet together, hands folded in front of sternum in classic Namaskar Mudra.",
+      "pdfRef": "📖 Handbook pg. 91",
+      "pdfHref": "resources/handbook.pdf#page=91",
+      "startingPosition": "Stand erect, feet together/touching, hands at sides; weight balanced heel-to-ball; chin drawn in, slight pelvic tilt.",
+      "steps": [
+        "1. Fold hands into Namaskar Mudra at center of chest.",
+        "2. Keep elbows and shoulders relaxed.",
+        "3. Close eyes (or fix gaze straight ahead) and passively observe breath."
+      ],
+      "breath": "Normal rhythmic breathing (induces quiet meditative state).",
+      "recommendedPractice": "Initially hold for a few minutes; build up to 10 minutes.",
+      "limitations": [
+        "Acute arthritis of lower limbs",
+        "Hypotension, varicose veins (avoid long standing)",
+        "In vertigo, keep eyes open and feet slightly apart."
+      ],
+      "benefits": [
+        "Physical: Body steadiness and neuromuscular coordination.",
+        "Therapeutic: Corrects standing posture defects.",
+        "Psychological: Calms nervous agitation and promotes poise."
+      ]
+    },
+    {
+      "id": "yogendra-sukhasana",
+      "name": "Yogendra Sukhasana",
+      "englishName": "Easy / Pleasant Pose",
+      "category": "Meditative Asanas",
+      "poseCue": "Simple cross-legged sitting; each foot placed comfortably under opposite thigh; palms resting on thighs just before knees.",
+      "pdfRef": "📖 Handbook pg. 92",
+      "pdfHref": "resources/handbook.pdf#page=92",
+      "startingPosition": "Seated flat on mat, legs stretched forward, spine upright.",
+      "steps": [
+        "1. Bend one leg, placing heel under opposite thigh.",
+        "2. Fold other leg similarly under opposite thigh, ankles crossed.",
+        "3. Place hands palms down on thighs just before knees.",
+        "4. Spine straight, abdomen in normal contour, head poised.",
+        "5. Close eyes, observe breath."
+      ],
+      "breath": "Normal, gentle rhythmic breathing.",
+      "recommendedPractice": "Practice 10 minutes daily. Alternate crossing of legs regularly.",
+      "limitations": [
+        "Acute arthritis",
+        "Depression"
+      ],
+      "benefits": [
+        "Physical: Postural correction; stretches calves, thighs, ankles, hips.",
+        "Therapeutic: Improves lower extremity flexibility.",
+        "Psychological: Grounds thoughts; mindfulness and inner harmony."
+      ]
+    },
+    {
+      "id": "yogendra-vajrasana",
+      "name": "Yogendra Vajrasana",
+      "englishName": "Adamant Pose",
+      "category": "Meditative Asanas",
+      "poseCue": "Kneeling with knees together, sitting in the depression of separated heels; hands resting on knees.",
+      "pdfRef": "📖 Handbook pg. 93",
+      "pdfHref": "resources/handbook.pdf#page=93",
+      "startingPosition": "Kneeling on mat, knees and toes touching, heels apart.",
+      "steps": [
+        "1. Lower body to sit in hollow formed between heels and toes.",
+        "2. Keep spine, head, and neck in one straight line.",
+        "3. Hands placed on respective knees just before patella.",
+        "4. Close eyes and observe breath passively."
+      ],
+      "breath": "Normal, slow and rhythmic breathing.",
+      "recommendedPractice": "Daily practice: 5 minutes, building to 10 minutes. Ideal after meals to boost digestion.",
+      "limitations": [
+        "Acute arthritis",
+        "Severe knee inflammation or injury"
+      ],
+      "benefits": [
+        "Physical: Corrects posture automatically; stretches thighs, calves, hips.",
+        "Therapeutic: Increases abdominal blood circulation; relieves indigestion, gas, hyperacidity, sciatica, and constipation.",
+        "Psychological: Induces mental fixity and calmness."
+      ]
+    },
+    {
+      "id": "yogendra-parvatasana",
+      "name": "Yogendra Parvatasana",
+      "englishName": "Mountain Pose (4 Variations",
+      "category": "Lateral (Upward) Stretch",
+      "poseCue": "Seated in Padmasana; arms raised straight overhead with palms pressed together, leaning side-to-side, twisting, and folding forward.",
+      "pdfRef": "📖 Handbook pg. 95",
+      "pdfHref": "resources/handbook.pdf#page=95",
+      "startingPosition": "Seated in Padmasana or Sukhasana, arms at sides, spine erect, gaze forward.",
+      "steps": [
+        "Var 1: Inhale, raise arms overhead, join palms, stretch up. Hold (retention). Exhale, turn palms out, lower arms.",
+        "Var 2 (Sideways): Inhale bend right; exhale center; repeat left.",
+        "Var 3 (Twist): Exhale twist right; inhale center; repeat left.",
+        "Var 4 (Back/Forward): Inhale arch back; exhale bend forward parallel to ground; suspend breath; inhale rise."
+      ],
+      "breath": "Yes: Yogendra Rhythm (3:6:3 or 1:2:1 ratio).",
+      "recommendedPractice": "Var 1: 4 rounds without pause. Var 2–4: 2–3 rounds.",
+      "limitations": [
+        "Spinal injuries / abnormalities",
+        "Frozen shoulder, arthritis",
+        "Hypertension & cardiac issues (especially Var 3 twist)"
+      ],
+      "benefits": [
+        "Physical: Stretches abdominal and pelvic muscles; reduces waist flab.",
+        "Therapeutic: Corrects vertebral displacements; massages viscera; relieves uterine prolapse.",
+        "Psychological: Develops firm focus, longevity, and stability."
+      ]
+    },
+    {
+      "id": "yogendra-talasana",
+      "name": "Yogendra Talasana",
+      "englishName": "Palm Tree Pose (4 Variations",
+      "category": "Lateral (Upward) Stretch",
+      "poseCue": "Standing tall on balls of feet with single arm, both parallel arms, or crossed wrists raised vertically overhead.",
+      "pdfRef": "📖 Handbook pg. 98",
+      "pdfHref": "resources/handbook.pdf#page=98",
+      "startingPosition": "Standing erect, feet parallel 1 foot apart, arms at sides, gaze focused forward.",
+      "steps": [
+        "Talasana 1 (Single Arm): Inhale (3s), raise right arm forward-upward while lifting heels high; hold (6s); exhale (3s), lower arm and heels via backward-downward circuit; repeat left.",
+        "Talasana 2: Same, raising both arms parallel palms facing.",
+        "Talasana 3: Raise arms sideways, join palms overhead.",
+        "Talasana 4: Cross arms at wrists, raise overhead."
+      ],
+      "breath": "Yes: Yogendra Rhythm (3:6:3 or 1:2:1). Static hold: normal slow breathing.",
+      "recommendedPractice": "Dynamic: 1 round of each variation. Static: 30 secs up to 2 mins.",
+      "limitations": [
+        "Spinal injuries / abnormalities",
+        "Frozen shoulder, arthritis",
+        "Hypertension, cardiac complaints",
+        "Severe nervous agitation"
+      ],
+      "benefits": [
+        "Physical: Maximum lengthwise body stretch; tones abdominal wall.",
+        "Therapeutic: Expands ribcage & lung capacity; eases joint stiffness; relieves flat feet and sciatica.",
+        "Psychological: Promotes poise and emotional balance."
+      ]
+    },
+    {
+      "id": "yogendra-yastikasana",
+      "name": "Yogendra Yastikasana",
+      "englishName": "Stick Pose",
+      "category": "Lateral (Upward) Stretch",
+      "poseCue": "Full-body horizontal stretch lying flat on back; arms extended above head on floor, toes pointed downwards.",
+      "pdfRef": "📖 Handbook pg. 101",
+      "pdfHref": "resources/handbook.pdf#page=101",
+      "startingPosition": "Supine (on back), feet together, heels touching, toes pointing up, arms at sides.",
+      "steps": [
+        "1. Inhale (3s), swing arms in semi-circular arc overhead until touching floor behind.",
+        "2. Simultaneously stretch toes pointing outwards.",
+        "3. Hold full-body stretch (6s) with breath retained.",
+        "4. Exhale (3s), relax toes, bring arms back to sides."
+      ],
+      "breath": "Yes: Yogendra Rhythm (3:6:3 or 1:2:1); Static hold: normal rhythmic breathing.",
+      "recommendedPractice": "Dynamic: 4 rounds per session. Static: Hold 30s to 2 mins.",
+      "limitations": [
+        "Kyphosis or acute spinal injury",
+        "Frozen shoulder, arthritis",
+        "Recent abdominal surgery"
+      ],
+      "benefits": [
+        "Physical: Maximum body stretch (aids height growth in youth); tones abdominal wall.",
+        "Therapeutic: Corrects rounded shoulders; improves thoracic breathing; relieves tennis elbow and joint pain.",
+        "Psychological: Relieves fatigue and tension."
+      ]
+    },
+    {
+      "id": "yogendra-hastapadasana",
+      "name": "Yogendra Hastapadasana",
+      "englishName": "Hand-Foot Pose",
+      "category": "Forward Bending",
+      "poseCue": "Standing forward bend; forehead touching knees while hands grasp the ankles.",
+      "pdfRef": "📖 Handbook pg. 103",
+      "pdfHref": "resources/handbook.pdf#page=103",
+      "startingPosition": "Stand erect, feet together, hands at sides, spine straight, gaze forward.",
+      "steps": [
+        "1. Inhale (3s), raise arms overhead from front, arch upper torso slightly back.",
+        "2. Exhale (3s), bend forward from waist, legs straight.",
+        "3. Bend elbows, grasp ankles, pull forehead to rest against knees.",
+        "4. Hold with breath suspended (6s).",
+        "5. Inhale (3s), release ankles, rise upright with arms overhead, then lower hands to sides."
+      ],
+      "breath": "Yes: Yogendra Rhythm (3:6:3 or 1:2:1). Static: normal slow breathing.",
+      "recommendedPractice": "Dynamic: 3 rounds with pauses. Static: 30 secs to 2 mins.",
+      "limitations": [
+        "Hypertension, cardiac conditions",
+        "Slipped disc, cervical spondylitis",
+        "Peptic ulcers, hernia, pregnancy",
+        "Glaucoma, retinal disorders"
+      ],
+      "benefits": [
+        "Physical: Extreme stretch to hamstrings, hips, and posterior spine; trims belly fat.",
+        "Therapeutic: Massages viscera; relieves constipation and flatulence; stimulates endocrines.",
+        "Psychological: Cultivates deep humility, acceptance, and balance."
+      ]
+    },
+    {
+      "id": "yogendra-paschimottanasana",
+      "name": "Yogendra Paschimottanasana",
+      "englishName": "Posterior Stretch",
+      "category": "Forward Bending",
+      "poseCue": "Dynamic rowing movement; Static: seated folding forward, hands clasping big toes, forehead resting on knees.",
+      "pdfRef": "📖 Handbook pg. 104",
+      "pdfHref": "resources/handbook.pdf#page=104",
+      "startingPosition": "Seated, legs straight forward, toes upward, spine erect, hands by sides.",
+      "steps": [
+        "Dynamic (Rowing): Arms folded at chest level; inhale lean back with spine straight; exhale bend forward smoothly, hands passing toes like rowing boat.",
+        "Static: Inhale arms up; exhale bend forward, draw abdomen in, clasp big toes, lower elbows, rest forehead between knees. Hold breathing normally."
+      ],
+      "breath": "Dynamic: Yogendra smooth rhythm. Static: Normal, slow rhythmic breathing.",
+      "recommendedPractice": "Dynamic: 4 continuous cycles = 1 round; do 3–4 rounds. Static: 1 round, holding 30s to 2 mins.",
+      "limitations": [
+        "Hypertension, heart ailments",
+        "Hernia, peptic ulcers, pregnancy",
+        "Slipped disc, acute spinal disorder",
+        "High myopia, glaucoma"
+      ],
+      "benefits": [
+        "Physical: Complete stretch of posterior kinetic chain from heels to neck; compresses viscera.",
+        "Therapeutic: Relieves constipation, sluggish liver, weak digestion; eases lumbago and sciatica.",
+        "Psychological: Reduces stress; calms mental agitation."
+      ]
+    },
+    {
+      "id": "yogendra-yogamudra",
+      "name": "Yogendra Yogamudra",
+      "englishName": "Symbol of Yoga",
+      "category": "Forward Bending",
+      "poseCue": "Seated in Padmasana with hands held behind back (right hand grasping left wrist), bending forward and sideways to knees.",
+      "pdfRef": "📖 Handbook pg. 106",
+      "pdfHref": "resources/handbook.pdf#page=106",
+      "startingPosition": "Seated in Padmasana or Sukhasana, hands clasped behind back (right hand holding left wrist).",
+      "steps": [
+        "1. Exhale (3s), bend forward arching spine until forehead/crown touches mat.",
+        "2. Hold with breath suspended (6s).",
+        "3. Inhale (3s), gently raise head and straighten spine.",
+        "4. Exhale (3s), twist upper torso right and touch forehead to right knee; hold (6s); inhale return.",
+        "5. Repeat to left knee to complete 1 round."
+      ],
+      "breath": "Yes: Yogendra Rhythm (3:6:3 or 1:2:1). Static: normal slow breathing.",
+      "recommendedPractice": "Dynamic: 3 rounds with pauses. Static: Hold forward bend 30s to 2 mins.",
+      "limitations": [
+        "Severe back problems, slip disc, cervical/lumbar spondylosis",
+        "Hypertension, cardiac conditions",
+        "Hernia, midriff obesity, glaucoma"
+      ],
+      "benefits": [
+        "Physical: Stretches posterior trunk muscles; tones viscera.",
+        "Therapeutic: Compresses colon, curing constipation; relieves gas, lumbar pain; counters uterine laxity.",
+        "Psychological: Cultivates surrender, modesty, and serenity."
+      ]
+    },
+    {
+      "id": "yogendra-bhujangasana",
+      "name": "Yogendra Bhujangasana",
+      "englishName": "Cobra Pose",
+      "category": "Backward Bending",
+      "poseCue": "Prone; palms under shoulders, peeling upper spine off the ground vertebra by vertebra like a cobra raising its hood. Navel remains on mat.",
+      "pdfRef": "📖 Handbook pg. 108",
+      "pdfHref": "resources/handbook.pdf#page=108",
+      "startingPosition": "Prone (on stomach), legs straight, feet together, toes out; palms flat beside chest, elbows close, forehead on mat.",
+      "steps": [
+        "1. Lift head and neck; inhaling (3s), use back muscles to lift shoulders, thorax, and upper abdomen vertebra by vertebra.",
+        "2. Arch spine back, feeling progressive contraction from cervical down to sacrum.",
+        "3. Hold posture with breath retained (6s).",
+        "4. Exhaling (3s), carefully lower spine in reverse order (lumbar, thoracic, cervical) until forehead touches mat."
+      ],
+      "breath": "Yes: Yogendra Rhythm (3:6:3 or 1:2:1). Static hold: normal slow rhythmic breathing.",
+      "recommendedPractice": "Dynamic: 3 rounds with pauses. Static: 30 secs up to 2 mins.",
+      "limitations": [
+        "Hernia, peptic ulcers, hyperthyroid",
+        "Hypertension, heart ailments, pregnancy",
+        "Protruding belly (limits prone position)"
+      ],
+      "benefits": [
+        "Physical: Deep tone to spinal extensors; massages adrenal glands; posterior abdominal stretch.",
+        "Therapeutic: Deepens breathing; resolves minor vertebral misalignments; eases kyphosis and menstrual pain.",
+        "Psychological: Develops willpower, boldness, and alertness."
+      ]
+    },
+    {
+      "id": "yogendra-dhanurvakrasana",
+      "name": "Yogendra Dhanurvakrasana",
+      "englishName": "Bow Pose",
+      "category": "Backward Bending",
+      "poseCue": "Prone; knees bent and hands grasping ankles; pulling upward so torso and thighs form the taut curve of an archer's bow.",
+      "pdfRef": "📖 Handbook pg. 110",
+      "pdfHref": "resources/handbook.pdf#page=110",
+      "startingPosition": "Prone (on belly), forehead on mat, legs straight, toes pointed; bend knees, grasp respective ankles firmly.",
+      "steps": [
+        "1. Inhaling (3s), raise head and chest upwards, arching spine.",
+        "2. Simultaneously pull ankles upward and backward to lift thighs off the mat.",
+        "3. Balance entire body weight centrally on navel region.",
+        "4. Hold pose with breath retained (6s).",
+        "5. Exhaling (3s), lower chest and thighs, release ankles."
+      ],
+      "breath": "Yes: Yogendra Rhythm (3:6:3 or 1:2:1). Static: normal slow breathing.",
+      "recommendedPractice": "Dynamic: 3 rounds with rest between. Static: 30 secs to 2 mins.",
+      "limitations": [
+        "Hernia, peptic ulcer, appendicitis",
+        "Hypertension, heart disease, pregnancy",
+        "Severe osteoarthritis, severe lumbar conditions"
+      ],
+      "benefits": [
+        "Physical: Arches full spine; opens chest and shoulders; strengthens thighs and arms.",
+        "Therapeutic: Strong intra-abdominal massage; relieves stubborn constipation and flatulence; helps manage diabetes.",
+        "Psychological: Dispels lethargy; boosts stamina and determination."
+      ]
+    },
+    {
+      "id": "yogendra-shalabhasana",
+      "name": "Yogendra Shalabhasana",
+      "englishName": "Locust Pose",
+      "category": "Backward Bending",
+      "poseCue": "Prone; chin resting on floor, palms under thighs, elevating straight legs backward-upward like a locust.",
+      "pdfRef": "📖 Handbook pg. 111",
+      "pdfHref": "resources/handbook.pdf#page=111",
+      "startingPosition": "Prone (on stomach), chin on mat, legs stretched straight, toes pointed; arms alongside thighs, palms facing down.",
+      "steps": [
+        "1. Exhaling (3s), contract lower back to raise right leg high without tilting hips.",
+        "2. Hold with breath suspended (6s).",
+        "3. Inhaling (3s), lower right leg smoothly.",
+        "4. Repeat with left leg.",
+        "5. Now exhale (3s) and raise both straight legs simultaneously; hold (6s); inhale (3s) lower to floor (1 round)."
+      ],
+      "breath": "Yes: Yogendra Rhythm (3:6:3 or 1:2:1).",
+      "recommendedPractice": "3 rounds with pauses between.",
+      "limitations": [
+        "Hernia, hypertension, heart ailments",
+        "Peptic ulcers, pregnancy, severe obesity"
+      ],
+      "benefits": [
+        "Physical: Strengthens wrists, lower back, gluteals, hamstrings, and diaphragm.",
+        "Therapeutic: Relieves mild sciatica, backache, cervical spondylitis; tones liver and intestines.",
+        "Psychological: Builds self-confidence and fortitude."
+      ]
+    },
+    {
+      "id": "yogendra-konasana-i-ii",
+      "name": "Yogendra Konasana – I & II",
+      "englishName": "Angle Pose I & II",
+      "category": "Sideward Stretch & Bending",
+      "poseCue": "Standing with wide stance; lateral side bending of spine without twisting or moving below waist.",
+      "pdfRef": "📖 Handbook pg. 113",
+      "pdfHref": "resources/handbook.pdf#page=113",
+      "startingPosition": "Stand erect, feet 2 to 2.5 feet apart and parallel; spine upright, gaze forward.",
+      "steps": [
+        "Konasana 1: Left hand on waist; inhale, look down at right hand and bend torso right, sliding right hand to knee and left hand up to armpit; hold (retention); exhale return; repeat left.",
+        "Konasana 2: Raise left arm straight close to ear; inhale bend torso right, curving spine laterally; hold (retention); exhale return; repeat left."
+      ],
+      "breath": "Yes: Yogendra Rhythm (3:6:3 or 1:2:1). Inhale (3s) – Hold (6s) – Exhale (3s).",
+      "recommendedPractice": "2 rounds of each technique with pauses.",
+      "limitations": [
+        "Severe spinal abnormalities / back pain",
+        "Frozen shoulder, severe arthritis",
+        "Hypertension, pregnancy (2nd/3rd trimester)"
+      ],
+      "benefits": [
+        "Physical: Tones lateral waist obliques; trims waistline.",
+        "Therapeutic: Compresses abdominal viscera alternately; relieves shoulder/lumbar stiffness; aids digestion.",
+        "Psychological: Synchronizes mind-body awareness; alleviates nervous depression."
+      ]
+    },
+    {
+      "id": "yogendra-trikonasana-ii",
+      "name": "Yogendra Trikonasana – II",
+      "englishName": "Triangle Pose – II",
+      "category": "Sideward Stretch & Bending",
+      "poseCue": "Feet wide apart (3+ ft); right foot turned 90°; bending laterally to touch right toe, left arm reaching straight up to ceiling, gaze fixed on raised left thumb.",
+      "pdfRef": "📖 Handbook pg. 115",
+      "pdfHref": "resources/handbook.pdf#page=115",
+      "startingPosition": "Stand straight, feet 3 to 3.5 feet apart; arms raised sideways at shoulder level, palms forward.",
+      "steps": [
+        "1. Inhale, turn right foot 90° out and gaze at right thumb.",
+        "2. Exhale (3s), bend laterally right, touch right toe with right fingers; raise left arm vertically to ceiling; turn neck to gaze at left thumb.",
+        "3. Hold with breath suspended (6s).",
+        "4. Inhale (3s), look down at right thumb and rise upright.",
+        "5. Repeat on left side to complete 1 round."
+      ],
+      "breath": "Yes: Yogendra Rhythm (3:6:3 or 1:2:1). Static: normal slow breathing.",
+      "recommendedPractice": "Dynamic: 3 rounds. Static: Hold 1 minute each side alternately.",
+      "limitations": [
+        "Spinal injury, severe back problems",
+        "Frozen shoulder, severe arthritis",
+        "Hypertension, cardiac conditions"
+      ],
+      "benefits": [
+        "Physical: Stretches lateral trunk; trims waistline.",
+        "Therapeutic: Alternating visceral compression aids digestion; promotes blood circulation.",
+        "Psychological: Stimulates nervous system; alleviates depression."
+      ]
+    },
+    {
+      "id": "yogendra-konasana-iii",
+      "name": "Yogendra Konasana – III",
+      "englishName": "Windmill Pose",
+      "category": "Torsion / Spinal Twist",
+      "poseCue": "Standing wide stance; twisting torso forward diagonally so right hand touches left toe while left arm points straight up.",
+      "pdfRef": "📖 Handbook pg. 116",
+      "pdfHref": "resources/handbook.pdf#page=116",
+      "startingPosition": "Stand straight, feet 2.5 feet apart; arms extended in front at shoulder height, palms up.",
+      "steps": [
+        "1. Inhale, spread arms out to sides in line with shoulders; gaze at right palm.",
+        "2. Exhale (3s), swing arms, bend forward and twist spine so right fingers touch left toes, left arm pointing straight up to ceiling; look up at left palm.",
+        "3. Hold with breath suspended (6s).",
+        "4. Inhale (3s), rise, untwist back to center.",
+        "5. Repeat swinging to opposite side."
+      ],
+      "breath": "Yes: Yogendra Rhythm (3:6:3 or 1:2:1).",
+      "recommendedPractice": "3 rounds with pauses.",
+      "limitations": [
+        "Vertigo, cardiac issues, hypertension",
+        "Slipped disc, facet joint problems, scoliosis",
+        "Hernia, abdominal surgeries"
+      ],
+      "benefits": [
+        "Physical: Stretches waist, hamstrings, and shoulders; improves spinal rotation.",
+        "Therapeutic: Corrects scoliosis and ankylosing spondylitis; gives visceral organ massage.",
+        "Psychological: Brings inward poise and body-mind harmony."
+      ]
+    },
+    {
+      "id": "yogendra-vakrasana-i",
+      "name": "Yogendra Vakrasana – I",
+      "englishName": "Seated Spinal Twist",
+      "category": "Torsion / Spinal Twist",
+      "poseCue": "Seated; legs straight; arms at shoulder level swinging and twisting torso horizontally to the side.",
+      "pdfRef": "📖 Handbook pg. 118",
+      "pdfHref": "resources/handbook.pdf#page=118",
+      "startingPosition": "Seated, legs straight forward, feet together, spine straight, arms raised forward to shoulder level, palms down.",
+      "steps": [
+        "1. Exhale, smoothly swing arms and twist spine to the right as far as possible.",
+        "2. Inhale, immediately return to center.",
+        "3. Exhale, twist smoothly to the left.",
+        "4. Inhale, return to center (completing 1 round)."
+      ],
+      "breath": "Synchronized breathing with movement (dynamic smooth swing).",
+      "recommendedPractice": "3 rounds with pauses.",
+      "limitations": [
+        "Acute or resolving disc prolapse (slipped disc)"
+      ],
+      "benefits": [
+        "Physical: Loosens spinal vertebrae; tones waist muscles.",
+        "Therapeutic: Alleviates stiffness; stimulates digestive peristalsis.",
+        "Psychological: Increases alertness and coordination."
+      ]
+    },
+    {
+      "id": "yogendra-vakrasana-ii",
+      "name": "Yogendra Vakrasana – II",
+      "englishName": "Standing Spinal Twist",
+      "category": "Torsion / Spinal Twist",
+      "poseCue": "Standing with feet shoulder-width apart; swinging arms and trunk dynamically into a full horizontal torso twist.",
+      "pdfRef": "📖 Handbook pg. 118",
+      "pdfHref": "resources/handbook.pdf#page=118",
+      "startingPosition": "Stand erect, feet 2 to 2.5 feet apart, arms extended forward at shoulder height, palms down.",
+      "steps": [
+        "1. Exhale, swing arms to right, twisting spine; bend left elbow while extending right arm straight back, gazing at right thumb.",
+        "2. Inhale, return to center.",
+        "3. Exhale, repeat twist to left side, gazing at left thumb.",
+        "4. Inhale, return to center (1 round)."
+      ],
+      "breath": "Synchronized rhythmic breathing (dynamic continuous movement).",
+      "recommendedPractice": "3 rounds with pauses.",
+      "limitations": [
+        "Severe backache, ulcers, hernia",
+        "Abdominal inflammation"
+      ],
+      "benefits": [
+        "Physical: Strengthens lower back muscles; tones lateral abdominal wall.",
+        "Therapeutic: Alleviates lumbar stiffness; reduces flank fat.",
+        "Psychological: Sharpens mental concentration and agility."
+      ]
+    },
+    {
+      "id": "yogendra-vakrasana-iii",
+      "name": "Yogendra Vakrasana – III",
+      "englishName": "Supine Twist – Both Knees Bent Together",
+      "category": "Torsion / Spinal Twist",
+      "poseCue": "Supine; arms spread wide, knees bent and stacked together; dropping knees to the right floor while head turns left.",
+      "pdfRef": "📖 Handbook pg. 119",
+      "pdfHref": "resources/handbook.pdf#page=119",
+      "startingPosition": "Supine (on back), arms outstretched perpendicular to torso (T-shape); knees bent, feet & knees together flat on floor.",
+      "steps": [
+        "1. Exhale (3s), drop both knees together to the right until right knee touches mat.",
+        "2. Simultaneously turn head left to gaze at left thumb.",
+        "3. Hold with breath suspended (6s).",
+        "4. Inhale (3s), bring knees and head back to center.",
+        "5. Exhale (3s), drop knees left, turn head right; hold (6s); inhale return."
+      ],
+      "breath": "Yes: Yogendra Rhythm (3:6:3 or 1:2:1).",
+      "recommendedPractice": "3 rounds with pauses.",
+      "limitations": [
+        "Acute spinal arthritis",
+        "Acute disc prolapse"
+      ],
+      "benefits": [
+        "Physical: Relaxes spinal musculature; stretches hips.",
+        "Therapeutic: Excellent for low back pain and sacroiliac relief; mobilizes vertebrae.",
+        "Psychological: Calming and deeply grounding."
+      ]
+    },
+    {
+      "id": "yogendra-vakrasana-iv",
+      "name": "Yogendra Vakrasana – IV",
+      "englishName": "Supine Twist – Feet Apart",
+      "category": "Torsion / Spinal Twist",
+      "poseCue": "Supine; knees bent but feet kept apart; dropping legs so left knee rests on floor near right ankle.",
+      "pdfRef": "📖 Handbook pg. 120",
+      "pdfHref": "resources/handbook.pdf#page=120",
+      "startingPosition": "Supine, arms outstretched perpendicular to body; knees bent with feet and knees kept hip-width apart.",
+      "steps": [
+        "1. Exhale (3s), drop knees together to right so left knee rests near right ankle.",
+        "2. Simultaneously turn neck left to gaze at left thumb.",
+        "3. Hold with breath suspended (6s).",
+        "4. Inhale (3s), return to center; repeat to opposite side."
+      ],
+      "breath": "Yes: Yogendra Rhythm (3:6:3 or 1:2:1).",
+      "recommendedPractice": "3 rounds with pauses.",
+      "limitations": [
+        "Acute spinal arthritis",
+        "Acute disc prolapse"
+      ],
+      "benefits": [
+        "Physical: Deep stretch to piriformis, outer hip, and lumbar region.",
+        "Therapeutic: Alleviates sciatic nerve compression and pelvic stiffness.",
+        "Psychological: Relieves fatigue; calms central nervous system."
+      ]
+    },
+    {
+      "id": "yogendra-ekpadasana",
+      "name": "Yogendra Ekpadasana",
+      "englishName": "One-Legged Balance Pose",
+      "category": "Extremities",
+      "poseCue": "Standing balance on right leg; left foot pressed against right inner groin, palms joined in Namaskar at chest.",
+      "pdfRef": "📖 Handbook pg. 121",
+      "pdfHref": "resources/handbook.pdf#page=121",
+      "startingPosition": "Stand erect, feet together, arms at sides, gaze focused at one point straight ahead.",
+      "steps": [
+        "1. Lift left leg with hands, placing left heel tightly against right groin, sole flat against inner thigh, toes pointing down.",
+        "2. Once balance is secured, join palms in Namaskar Mudra at chest center.",
+        "3. Hold posture gazing fixedly at a point, breathing normally.",
+        "4. Slowly release leg and repeat balance on opposite leg."
+      ],
+      "breath": "Normal continuous breathing (focus on steady, slow breath).",
+      "recommendedPractice": "Practice morning and evening; hold from a few seconds building to 2–3 mins per leg.",
+      "limitations": [
+        "Severe arthritis, vertigo",
+        "Sciatica, slipped disc, acute lower back pain",
+        "Weak neuromuscular coordination"
+      ],
+      "benefits": [
+        "Physical: Strengthens legs and spine; improves balance and corrects flat feet.",
+        "Therapeutic: Isometric hold strengthens bones (benefits osteoporosis); improves extremity circulation in diabetes.",
+        "Psychological: Sharpens concentration, equanimity, and presence."
+      ]
+    },
+    {
+      "id": "yogendra-utkatasana",
+      "name": "Yogendra Utkatasana",
+      "englishName": "Semi-Standing / Chair Pose",
+      "category": "Extremities",
+      "poseCue": "Squatting low on tiptoes with arms extended parallel to the floor in front. Derived from wrestler's Danda Baithak.",
+      "pdfRef": "📖 Handbook pg. 122",
+      "pdfHref": "resources/handbook.pdf#page=122",
+      "startingPosition": "Stand erect, feet parallel 1 foot apart, arms at sides, gaze fixed forward.",
+      "steps": [
+        "1. Inhale (3s), stretch arms forward parallel to ground, simultaneously raise heels balancing on balls of feet.",
+        "2. Exhale (3s), lower body into full squat, thighs pressed against calves, balancing on tiptoes with arms forward.",
+        "3. Hold squat with breath suspended (6s).",
+        "4. Inhale (3s), rise up smoothly on tiptoes; retain breath (6s); exhale lower arms and heels."
+      ],
+      "breath": "Yes: Yogendra Rhythm (3:6:3 or 1:2:1). (Avoid breath holding if cardiac condition is present).",
+      "recommendedPractice": "4 rounds with pauses.",
+      "limitations": [
+        "Moderate to severe osteoarthritis of knees",
+        "Deep vein thrombosis, sprained ankle",
+        "Vertigo, acute sciatica"
+      ],
+      "benefits": [
+        "Physical: Strengthens quadriceps, calves, ankles, and pelvic floor; engages core.",
+        "Therapeutic: Aids weight loss around hips; relieves joint and back dull aches.",
+        "Psychological: Cultivates fierce determination and physical stability."
+      ]
+    },
+    {
+      "id": "yogendra-bhadrasana",
+      "name": "Yogendra Bhadrasana",
+      "englishName": "Throne Pose / Auspicious Pose",
+      "category": "Extremities",
+      "poseCue": "Seated with knees bent outward, soles of feet pressed together close to perineum, hands pressing knees gently towards floor.",
+      "pdfRef": "📖 Handbook pg. 124",
+      "pdfHref": "resources/handbook.pdf#page=124",
+      "startingPosition": "Seated, legs straight forward, feet together, hands by sides, spine tall.",
+      "steps": [
+        "1. Inhale, bend knees outward, draw feet in with soles pressed together.",
+        "2. Bring heels close to perineum/generative organ (clasp feet if needed).",
+        "3. Place hands on respective knees, gently pressing them toward floor.",
+        "4. Maintain posture with an erect spine and normal breathing.",
+        "5. Straighten legs to release. (Optional: gentle butterfly flapping of knees as a warm-up)."
+      ],
+      "breath": "Normal, slow and rhythmic breathing.",
+      "recommendedPractice": "Practice daily for 1–2 minutes comfortably.",
+      "limitations": [
+        "Severe arthritis",
+        "Acute pain in knee or hip joints"
+      ],
+      "benefits": [
+        "Physical: Deep stretch to inner thighs, groins, and hips; releases pelvic stiffness.",
+        "Therapeutic: Aids blood flow to pelvis; relieves lower backache and piles; aids labor when practiced during pregnancy.",
+        "Psychological: Clears fatigue; calms and centers the mind."
+      ]
+    },
+    {
+      "id": "yogendra-matsyasana",
+      "name": "Yogendra Matsyasana",
+      "englishName": "Fish Pose",
+      "category": "Extremities",
+      "poseCue": "Supine; legs folded in Padmasana or Sukhasana; elbows bent under head, hands clasping opposite elbows resting on floor above head.",
+      "pdfRef": "📖 Handbook pg. 125",
+      "pdfHref": "resources/handbook.pdf#page=125",
+      "startingPosition": "Supine (on back), feet together, hands by sides, body relaxed.",
+      "steps": [
+        "1. Fold legs into Sukhasana or Padmasana while lying supine.",
+        "2. Draw arms from sides behind head, bending elbows.",
+        "3. Clasp opposite elbows with hands and let forearms rest on floor above crown.",
+        "4. Maintain position breathing rhythmically.",
+        "5. Unclasp elbows, return arms to sides, unfold legs."
+      ],
+      "breath": "Normal rhythmic breathing.",
+      "recommendedPractice": "Practice for 1–2 minutes per session.",
+      "limitations": [
+        "Severe arthritis, heart disease",
+        "Peptic ulcers, hernia",
+        "Spinal injuries, severe back pathology"
+      ],
+      "benefits": [
+        "Physical: Massages thoracic and abdominal organs; strengthens pelvic floor.",
+        "Therapeutic: Stretches neck to regulate thyroid & thymus; relieves bleeding piles, constipation, uterine prolapse, and incontinence.",
+        "Psychological: Induces peace; dispels stress and irritability."
+      ]
+    },
+    {
+      "id": "yogendra-pavanmuktasana",
+      "name": "Yogendra Pavanmuktasana",
+      "englishName": "Anti-Flatus / Wind-Releasing Pose",
+      "category": "Abdominal Compression",
+      "poseCue": "Supine; knees pulled tightly against chest, arms wrapped around shins clasping opposite elbows.",
+      "pdfRef": "📖 Handbook pg. 127",
+      "pdfHref": "resources/handbook.pdf#page=127",
+      "startingPosition": "Supine (on back), feet together, arms by sides, mind calm.",
+      "steps": [
+        "Var 1 (Single Leg): Inhale, then exhale (3s) bending right knee to chest, interlacing fingers over shin to press knee firmly to chest; hold suspended (6s); inhale (3s) release; repeat left.",
+        "Var 2 (Both Legs): Exhale (3s), bend both knees to chest, wrap forearms around shins clasping opposite elbows; hold suspended (6s); inhale (3s) release."
+      ],
+      "breath": "Yes: Yogendra Rhythm (3:6:3 or 1:2:1). Static: normal slow breathing.",
+      "recommendedPractice": "Dynamic: 4 rounds with pauses. Static: 30 secs to 2 mins.",
+      "limitations": [
+        "Abdominal surgery, inflammation, pain",
+        "Cardiac conditions, hernia, piles",
+        "Menstruation and pregnancy"
+      ],
+      "benefits": [
+        "Physical: Massages visceral organs; stretches lower back and hips.",
+        "Therapeutic: Directly releases gas and relieves flatulence; cures chronic constipation and sluggish liver; remedies flabby abdomen.",
+        "Psychological: Clears mental sluggishness via toxin elimination."
+      ]
+    },
+    {
+      "id": "yogendra-ardha-sarvangasana",
+      "name": "Yogendra Ardha-Sarvangasana",
+      "englishName": "Half Shoulder Stand",
+      "category": "Inversion",
+      "poseCue": "Inverted; trunk angled at ~45° supported by palms on hips, elbows on mat, legs held straight; chin tucked in jugular notch.",
+      "pdfRef": "📖 Handbook pg. 129",
+      "pdfHref": "resources/handbook.pdf#page=129",
+      "startingPosition": "Supine on mat, feet together, arms by sides, body relaxed, full breath taken.",
+      "steps": [
+        "1. Exhaling, bend knees to thighs and using abdominal muscles, raise lower body vertically.",
+        "2. Place hands under hips (fingers supporting hips, thumbs above) to support weight.",
+        "3. Balance weight upon palms, elbows, and shoulders. Chin set in jugular notch.",
+        "4. Hold pose breathing normally (max 2 mins).",
+        "5. Inhaling, lower hips gently down using hands as brakes."
+      ],
+      "breath": "Normal, slow and rhythmic breathing (Never retain breath in inversions).",
+      "recommendedPractice": "Practice once per session, from 20 seconds up to 2 minutes. Can use wall/pillows initially.",
+      "limitations": [
+        "Hypertension, cardiac ailments",
+        "Pregnancy, respiratory disorders",
+        "Cervical spondylosis, neck injury",
+        "Glaucoma, retinal disorders"
+      ],
+      "benefits": [
+        "Physical: Strengthens shoulders and arms; nourishes brain with venous blood flow.",
+        "Therapeutic: Stimulates thyroid, parathyroid, and pituitary glands; drains venous stasis from lower limbs (prevents varicose veins and hemorrhoids); tones sagging abdomen.",
+        "Psychological: Calms nervous system; relieves mood swings."
+      ]
+    },
+    {
+      "id": "yogendra-sarvangasana",
+      "name": "Yogendra Sarvangasana",
+      "englishName": "Shoulder Stand Pose",
+      "category": "Inversion",
+      "poseCue": "Full vertical candle pose; chest pressed into chin, trunk perpendicular to mat, palms supporting upper-mid back.",
+      "pdfRef": "📖 Handbook pg. 131",
+      "pdfHref": "resources/handbook.pdf#page=131",
+      "startingPosition": "Supine on mat, legs together, hands beside body, breath settled.",
+      "steps": [
+        "1. Exhaling, raise straight legs to 90°.",
+        "2. Raise arms to hold waist, pushing body up into vertical alignment with elbows resting on floor.",
+        "3. Shift hands lower down back toward scapulae, extending fingers along ribs.",
+        "4. Chin firmly locked into jugular notch (chin lock), full body weight on shoulders.",
+        "5. Hold breathing normally (up to 2 mins).",
+        "6. Inhaling, bend knees slightly and roll down slowly vertebra by vertebra."
+      ],
+      "breath": "Normal, slow and rhythmic breathing (No breath retention).",
+      "recommendedPractice": "Practice once, 20 seconds up to 2 minutes.",
+      "limitations": [
+        "Hypertension, cardiac conditions",
+        "Cervical spondylosis, neck injury",
+        "Pregnancy, menstruation",
+        "Glaucoma, severe eye/ear issues"
+      ],
+      "benefits": [
+        "Physical: Total-body venous drainage; strengthens shoulder girdle.",
+        "Therapeutic: Powerful regulator of endocrine glands (thyroid/pituitary); relieves dyspepsia, hemorrhoids, and headache; boosts immunity.",
+        "Psychological: Relieves mental stress; increases confidence and self-reliance."
+      ]
+    },
+    {
+      "id": "yogendra-shavasana",
+      "name": "Yogendra Shavasana",
+      "englishName": "Corpse Pose (Partial & Full",
+      "category": "Relaxation",
+      "poseCue": "Supine, legs 1.5–2 ft apart relaxed outward, arms 1 ft from sides, palms up, body motionless like a corpse.",
+      "pdfRef": "📖 Handbook pg. 134",
+      "pdfHref": "resources/handbook.pdf#page=134",
+      "startingPosition": "Lie supine, face towards sky, shoulders rested, arms 1 foot from body, legs 1.5–2 feet apart, facial muscles loose.",
+      "steps": [
+        "Partial Shavasana: Close eyes; sequentially relax the 16 vital points (Marmasthanani: toes, ankles, knees, thighs/arms, anus, genitals, navel, abdomen, chest, neck, lips, nose tip, eyes, eyebrow center, forehead, crown).",
+        "Full Shavasana: Consciously shut down all nervous stimuli simultaneously; forget body consciousness; allow slow diaphragmatic breathing."
+      ],
+      "breath": "Continuous, deep and rhythmic diaphragmatic breathing.",
+      "recommendedPractice": "Practice for at least 5 minutes daily. Roll onto right side before sitting up.",
+      "limitations": [
+        "Severe psychological depression (practice under guidance)"
+      ],
+      "benefits": [
+        "Physical: Relieves voluntary muscular and nervous tension; normalizes pulse and respiration.",
+        "Therapeutic: Alleviates insomnia, headaches, and high blood pressure; restorative to organs.",
+        "Psychological: Induces profound mental tranquility, meditation, and resets stress responses."
+      ]
+    }
+  ]
+}

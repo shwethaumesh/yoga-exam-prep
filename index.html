@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>YIC Exam Prep — Dashboard</title>
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+<div id="topnav-container"></div>
+
+<div class="page">
+  <div class="page-header">
+    <h1>Yoga Teacher Exam Preparation</h1>
+    <p>Mock exams, flashcards, and daily practical practice tracking — built from The Yoga Institute BTTC handbook.</p>
+  </div>
+
+  <div class="grid" id="statsGrid"></div>
+
+  <div class="grid">
+    <a class="card dash-link-card" href="practical.html">
+      <span class="icon">🧘</span>
+      <h3>Practical Prep</h3>
+      <p>Asanas, Pranayama & Kriya — full theory (what, how, limitations, benefits) plus a daily practice checklist so you walk into the practical exam having rehearsed every pose and technique.</p>
+      <span class="btn ghost">Open →</span>
+    </a>
+    <a class="card dash-link-card" href="flashcards.html">
+      <span class="icon">🗂️</span>
+      <h3>Flashcards &amp; Topic Cards</h3>
+      <p>Topic-wise cue cards covering philosophy, Patanjali's Yoga Sutras, physiology, and more — flip, self-rate, and repeat the ones you keep missing.</p>
+      <span class="btn ghost">Open →</span>
+    </a>
+    <a class="card dash-link-card" href="mock-exam.html">
+      <span class="icon">📝</span>
+      <h3>Mock Exam Generator</h3>
+      <p>Generate a timed 55-question MCQ mock exam (or a custom-length quiz) from the full question bank, with instant scoring and topic-wise breakdown.</p>
+      <span class="btn ghost">Open →</span>
+    </a>
+  </div>
+
+  <div class="card" id="recentExamsCard" style="margin-bottom:24px;">
+    <h3>Recent Mock Exam Scores</h3>
+    <div id="recentExamsBody"></div>
+  </div>
+
+  <div class="card">
+    <h3>About this site</h3>
+    <p style="margin-bottom:0;">Content is sourced and condensed from The Yoga Institute's Students' Handbook (Basic TTC) so everything you study here matches your course material. All data runs locally in your browser via <code>localStorage</code> — nothing is uploaded anywhere, so you and your study peer can each use this on your own device/copy.</p>
+  </div>
+</div>
+
+<footer class="site-footer">Built for personal exam prep · The Yoga Institute Basic TTC</footer>
+
+<script src="js/app.js"></script>
+<script>
+  renderNav("home");
+
+  async function init() {
+    const streak = computeStreak();
+    const practicedToday = countPracticedToday();
+    let examHistory = loadJSON(STORAGE_KEYS.EXAM_HISTORY, []);
+    const lastScore = examHistory.length ? examHistory[examHistory.length - 1] : null;
+
+    let totalPracticeItems = 0;
+    try {
+      const [asanas, pranayama, kriya] = await Promise.all([
+        loadData("js/data/asanas.json").catch(() => ({ items: [] })),
+        loadData("js/data/pranayama.json").catch(() => ({ items: [] })),
+        loadData("js/data/kriya.json").catch(() => ({ items: [] })),
+      ]);
+      totalPracticeItems = (asanas.items || []).length + (pranayama.items || []).length + (kriya.items || []).length;
+    } catch (e) {
+      console.warn(e);
+    }
+
+    document.getElementById("statsGrid").innerHTML = `
+      <div class="card">
+        <div class="stat">🔥 ${streak}</div>
+        <div class="stat-label">Day practice streak</div>
+      </div>
+      <div class="card">
+        <div class="stat">${practicedToday} / ${totalPracticeItems || "–"}</div>
+        <div class="stat-label">Practiced today</div>
+      </div>
+      <div class="card">
+        <div class="stat">${lastScore ? lastScore.score + "/" + lastScore.total : "–"}</div>
+        <div class="stat-label">Last mock exam score</div>
+      </div>
+      <div class="card">
+        <div class="stat">${examHistory.length}</div>
+        <div class="stat-label">Mock exams taken</div>
+      </div>
+    `;
+
+    const body = document.getElementById("recentExamsBody");
+    if (!examHistory.length) {
+      body.innerHTML = `<div class="empty-state">No mock exams taken yet. <a href="mock-exam.html">Start your first mock exam →</a></div>`;
+    } else {
+      const rows = examHistory.slice(-5).reverse().map((e) => `
+        <tr>
+          <td>${formatDate(e.date.slice(0,10))}</td>
+          <td>${e.score} / ${e.total} (${Math.round((e.score/e.total)*100)}%)</td>
+          <td>${e.durationSec ? Math.round(e.durationSec/60) + " min" : "–"}</td>
+        </tr>`).join("");
+      body.innerHTML = `
+        <table class="history-table">
+          <thead><tr><th>Date</th><th>Score</th><th>Time</th></tr></thead>
+          <tbody>${rows}</tbody>
+        </table>
+        <div style="margin-top:10px;"><a href="mock-exam.html#history">View full history →</a></div>
+      `;
+    }
+  }
+  init();
+</script>
+</body>
+</html>

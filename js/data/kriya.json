@@ -1,0 +1,291 @@
+{
+  "generalNotes": "Shad-Kriya (the six purificatory acts of Hatha Yoga - Dhauti, Basti, Neti, Trataka, Nauli and Kapalabhati) exist to achieve Nadi-shuddhi, the purification of the subtle energy channels, so that Prana can flow unhindered and be regulated. Yoga holds that good health is maintained through non-toxic, purificatory habits rather than medication, and the Yoga Sutra links this purification (Saucha) to removal of disease, auto-immunization, longevity and eventual mental, moral and spiritual sublimation. At The Yoga Institute these traditional kriyas have been simplified into safe, daily hygiene practices suitable for householders.",
+  "items": [
+    {
+      "id": "yogendra-jivha-mula-shodhana",
+      "name": "Yogendra-Jivha Mula Shodhana",
+      "sanskritMeaning": "Cleansing the tongue (root of the tongue)",
+      "category": "Yoga Kriyas (Hygiene Practice)",
+      "introduction": "The tongue harbours bacteria responsible for bad breath, growth of disease-causing organisms, and mental and physical sluggishness. This practice cleans the root of the tongue, which in turn affects the entire digestive and eliminative processes.",
+      "startingPosition": [
+        "Stand in front of the basin or bathroom sink."
+      ],
+      "steps": [
+        "Open the mouth wide and insert the index and middle finger into the mouth; rub the tips of the fingers at the root of the tongue.",
+        "Continue this rubbing for two to three times till a sensation of throwing up is felt.",
+        "Gargle with water."
+      ],
+      "recommendedPractice": "Practice daily.",
+      "limitations": [
+        "No limitations. People with hypertension, cardiac ailments, stomach surgeries or pregnancy may perform this gently using only one finger, without strain."
+      ],
+      "benefits": [
+        "Eliminates disease-causing pathogens, contributing to well-being.",
+        "The sensation of throwing up causes stomach contraction, aiding good elimination and relieving constipation (given adequate dietary fibre and water).",
+        "Beneficial in stimulating sluggish digestion."
+      ],
+      "pageRef": "Handbook pg. 149",
+      "pdfHref": "resources/handbook.pdf#page=149"
+    },
+    {
+      "id": "yogendra-jalaneti",
+      "name": "Yogendra Jalaneti",
+      "sanskritMeaning": "Nasal purification using water",
+      "category": "Yoga Kriyas (Hygiene Practice)",
+      "introduction": "A kriya for cleansing the nasal passages using lightly salted lukewarm water. Frequency depends on individual need and environment - hot, dry, humid or polluted conditions may call for practicing it twice a day, morning and evening.",
+      "preparation": [
+        "Boil drinking water and let it cool till lukewarm (test on the back of the palm/wrist).",
+        "Add a pinch of salt to the water (salinity comparable to tears).",
+        "Wash the hands clean with soap solution and rinse them."
+      ],
+      "startingPosition": [
+        "Stand comfortably with cupped palms ready to hold water."
+      ],
+      "steps": [
+        "Pour water to fill the cupped right palm.",
+        "Close the left nostril with the left index finger; bend forward to bring the right nostril to the cupped palm.",
+        "Dip the right nostril into the water and inhale deeply so the water is snuffed up the nostril; simultaneously straighten the head and release the left nostril.",
+        "As you inhale, the water is drawn up the right nostril and flows out through the mouth, the opposite nostril, or the same nostril.",
+        "Repeat with the left hand and left nostril, keeping the right nostril closed.",
+        "Blow out gently any watery discharge in the nostrils, one nostril at a time.",
+        "Follow with Yogendra Kapalabhati."
+      ],
+      "recommendedPractice": "Practice once or twice a day as necessary. Practice Kapalabhati after Jalaneti - this is very essential. Do not lie down for at least 30 minutes after practising Jalaneti. (Sutra-neti - using a sterilised catheter - may also be used for nasal cleaning, but only under supervision of an experienced teacher.)",
+      "limitations": [
+        "Severe nasal congestion or infection."
+      ],
+      "benefits": [
+        "Clears the nasal passages, sinuses and throat of mucus and dirt.",
+        "Improves breathing.",
+        "Prevents respiratory problems and airborne infections."
+      ],
+      "pageRef": "Handbook pg. 150",
+      "pdfHref": "resources/handbook.pdf#page=150"
+    },
+    {
+      "id": "yogendra-kapalabhati",
+      "name": "Yogendra Kapalabhati",
+      "sanskritMeaning": "The cleansing breath (Kapala = forehead/face, Bhati = shining)",
+      "category": "Yoga Kriyas (Hygiene Practice)",
+      "introduction": "Purifies and energizes the entire facial region, bringing glow and radiance to the face. At The Yoga Institute this technique is uniquely modified so that vigorous abdominal pumping is not practiced, making it safe and beneficial for all.",
+      "startingPosition": [
+        "Sit or stand firmly with the spine, neck and head held erect.",
+        "Take a few normal breaths and relax."
+      ],
+      "steps": [
+        "Inhale and exhale sharply, forcefully and quickly using the throat muscles, without contorting the facial muscles.",
+        "Avoid flaring the nostrils and keep body movement to a minimum.",
+        "The friction of the sharp breaths will create moderate sounds.",
+        "Keep the breaths short, sharp and forceful.",
+        "Inhalation and exhalation should be equal and follow each other without a break.",
+        "Do 10-15 cycles to complete 1 round."
+      ],
+      "recommendedPractice": "Practice daily, 3-5 rounds/session, with a pause in between rounds.",
+      "limitations": [
+        "None - can be safely practised by all."
+      ],
+      "benefits": [
+        "Purifies the frontal air sinuses.",
+        "Flushes out stale residual air in the lungs.",
+        "Cleanses the nasal passages and upper respiratory tract.",
+        "Creates lightness in the forehead and facial region.",
+        "Removes excess phlegm from the sinus and nasal passages.",
+        "Improves concentration - useful before meditation and for students."
+      ],
+      "pageRef": "Handbook pg. 151",
+      "pdfHref": "resources/handbook.pdf#page=151"
+    },
+    {
+      "id": "yogendra-kapalarandhradhouti",
+      "name": "Yogendra Kapalarandhradhouti",
+      "sanskritMeaning": "Cleansing the frontal sinuses (Kapala = face, randhra = holes/passages, dhouti = cleansing)",
+      "category": "Yoga Kriyas (Hygiene Practice)",
+      "introduction": "Kapala refers to the facial region as a whole. This kriya cleanses the face and sinuses internally through an external massage practice.",
+      "startingPosition": [
+        "Stand or sit comfortably with the spine, neck and head held erect.",
+        "Take a few normal breaths and relax."
+      ],
+      "steps": [
+        "Place the thumbs above the eyebrows, at the end of the forehead (not at the temples).",
+        "Using all the fingers, massage the forehead by rubbing horizontally from one side to the other, maintaining deep but moderate pressure; use either both hands or one, as per comfort.",
+        "Place the index or middle finger at the bridge of the nose near the inner eyes as a starting point, and move the fingers down under the eyes and outwards towards the temples."
+      ],
+      "recommendedPractice": "Practice daily, 3-5 rounds/session. In case of acne, pimples, dry skin or other skin problems, avoid rubbing and instead use a press-and-release motion over the facial area.",
+      "limitations": [
+        "None - can be safely practised by all."
+      ],
+      "benefits": [
+        "Helps drain and decongest the sinuses.",
+        "Relieves mild headache.",
+        "Quickly invigorates and energises, relieving fatigue."
+      ],
+      "pageRef": "Handbook pg. 152",
+      "pdfHref": "resources/handbook.pdf#page=152"
+    },
+    {
+      "id": "yogendra-karnarandhradhouti",
+      "name": "Yogendra Karnarandhradhouti",
+      "sanskritMeaning": "Cleansing the ear canal (Karna = ears)",
+      "category": "Yoga Kriyas (Hygiene Practice)",
+      "introduction": "This practice cleanses the ear canal and maintains its elasticity and suppleness. It can be easily practiced while bathing.",
+      "startingPosition": [
+        "Stand or sit comfortably."
+      ],
+      "steps": [
+        "Wet the index fingers of both hands and gently insert them into the ear canals.",
+        "Very gently rotate the fingers clockwise and anti-clockwise in the ear canal, without inserting them too deeply.",
+        "Do two or three such rotations and gently remove the fingers."
+      ],
+      "recommendedPractice": "Practice daily. Clip the nails short to avoid injury.",
+      "limitations": [
+        "Avoid in case of ear infection or any other ear problems."
+      ],
+      "benefits": [
+        "Cleanses the auditory canal and removes excess wax.",
+        "Prevents local earache, itching and inflammation of the ear canal.",
+        "Offers relief in case of vertigo.",
+        "Provides suppleness to the ear canal.",
+        "Prevents age-related hearing loss."
+      ],
+      "pageRef": "Handbook pg. 153",
+      "pdfHref": "resources/handbook.pdf#page=153"
+    },
+    {
+      "id": "yogendra-trataka",
+      "name": "Yogendra Trataka",
+      "sanskritMeaning": "To gaze",
+      "category": "Yoga Kriyas (Hygiene Practice)",
+      "introduction": "Trataka is a kriya practiced by Yogis in several ways for its beneficial effects on the eyes and for improving concentration. Before beginning, note that spectacles may be removed; all eye movements must be slow and non-jerky, and one should blink whenever discomfort is felt rather than gazing unblinkingly for long. This entry (Bahiranga Trataka) covers Variation 1, eyeball movements in six phases.",
+      "startingPosition": [
+        "Sit in Sukhasana, Vajrasana or any other meditative posture (or on a firm chair with an erect backrest if sitting on the floor is not possible).",
+        "Keep the body erect, head straight, palms facing down and resting on the knees or thighs."
+      ],
+      "recommendedPractice": "Practice 1 or 2 rounds of all phases together, pausing between rounds by cupping or palming the eyes.",
+      "limitations": [
+        "Not recommended for serious eye disorders, glaucoma and high myopia.",
+        "Not suitable for people with psychic problems such as schizophrenia or hallucinations."
+      ],
+      "benefits": [
+        "Purifies the eyes and strengthens the eye muscles by exercising them to focus on a point.",
+        "Corrects short-sightedness.",
+        "Improves vision, concentration and memory - recommended for school children too.",
+        "Helps with sleep-related disorders such as headache, insomnia and nightmares.",
+        "Fixing the gaze calms the restless mind, bringing inner peace and silence.",
+        "Helps overcome mental, behavioural and emotional ailments.",
+        "Enhances self-confidence, patience and willpower."
+      ],
+      "variations": [
+        {
+          "name": "Variation 1 - Movement of eyeballs",
+          "startingPosition": [
+            "Sit in Sukhasana, Vajrasana or any other meditative posture (or on a firm chair with an erect backrest).",
+            "Keep the body erect, head straight and palms facing down, resting on the knees or thighs."
+          ],
+          "steps": [
+            "Phase 1 - Shoulder gaze: gaze to right shoulder, then centre, then left shoulder, then back to centre, pausing without blinking at each shoulder.",
+            "Phase 2 - Upward and downward gaze: from centre, gaze up and hold, return to centre, gaze down and hold, return to centre.",
+            "Phase 3 - Nasal gaze: fix both eyes on the tip of the nose, hold, then close the eyes.",
+            "Phase 4 - Eyebrow gaze: focus both eyes on the space between the eyebrows, hold, then close the eyes.",
+            "Phase 5 - Eyeball rotation: rotate both eyeballs clockwise and anti-clockwise.",
+            "Phase 6 - Peripheral sight: look ahead while sensing the left and right periphery, then look into the distance and close the eyes.",
+            "Posture release: blink, open eyes wide and squeeze shut gently, then palm or cup the eyes."
+          ],
+          "recommendedPractice": "Practice 1 or 2 rounds of all phases together, with a pause between rounds (cupping/palming the eyes)."
+        },
+        {
+          "name": "Variation 2 - Near and distant gazing",
+          "startingPosition": [
+            "Sit or stand facing a window, comfortably erect, without leaning on a wall or fixture."
+          ],
+          "steps": [
+            "Raise the palms upward, maintaining them at 'reading distance' (about 1 foot).",
+            "Gaze at the tip of the fingers for 5 seconds.",
+            "Gaze into something very distant (an object, tree, leaves, etc.) for 5 seconds.",
+            "Return the gaze to the fingertips.",
+            "Posture release: same as Variation 1 (blink, squeeze shut gently, palm/cup the eyes)."
+          ],
+          "recommendedPractice": "Repeat the sequence for at least 1-2 minutes."
+        },
+        {
+          "name": "Variation 3 - Surya/Chandra/Tara/Graha Dhyana (gazing at sun, moon, star or planet)",
+          "startingPosition": [
+            "Stand or sit comfortably erect without support, where the rising or setting sun (or moon/star/planet) can be seen."
+          ],
+          "steps": [
+            "If the sun is chosen, there is only a small time window (when it is red and not too bright) - gaze at one point within it until comfortable, stopping if the eyes grow weary, teary or want to blink.",
+            "If a night-sky object is chosen, gaze at it as long as comfortable.",
+            "Close the eyes and gently cup or palm them.",
+            "Posture release: same as Variation 1."
+          ],
+          "recommendedPractice": "Practice daily for 2-5 minutes, as per individual comfort."
+        },
+        {
+          "name": "Variation 4 - Candle or object gazing",
+          "startingPosition": [
+            "Sit in any comfortable meditative posture (or on a chair), keeping the head and body erect."
+          ],
+          "steps": [
+            "Light a candle and place it 16-20 inches away, with the tip of the flame just below eye level (if using a flower, symbol or other object, place it at a similar distance and keep the point of attention as small as possible).",
+            "Ensure there is no draft of air and the flame is steady.",
+            "Steadily gaze at the tip of the flame or wick until tears flow or the eyes grow weary, without over-straining or avoiding necessary blinking.",
+            "Close the eyes and visualize the object or its afterimage.",
+            "When the image begins to fade, cup or palm the eyes and then slowly open them.",
+            "Note: the room should be neither brightly lit nor very dark.",
+            "Posture release: same as Variation 1."
+          ],
+          "recommendedPractice": "Practice daily for 2-5 minutes, as per individual comfort."
+        }
+      ],
+      "pageRef": "Handbook pg. 153-157",
+      "pdfHref": "resources/handbook.pdf#page=153"
+    },
+    {
+      "id": "trataka-cupping-palming-eyes",
+      "name": "Cupping or Palming the Eyes",
+      "sanskritMeaning": "",
+      "category": "Eye Care",
+      "introduction": "An eye-care practice done after completing Trataka (and after meditation, before opening the eyes), to relax the eyes following eye movements.",
+      "startingPosition": [
+        "Sit comfortably with the eyes closed."
+      ],
+      "steps": [
+        "Gently rub the palms together to create some heat.",
+        "Place the palms on the eyes so that the palms do not touch the eyes but form a 'cup', shielding them.",
+        "Hold this position for 5 to 10 seconds."
+      ],
+      "recommendedPractice": "Repeat according to need; once or twice is generally enough.",
+      "limitations": [
+        "None"
+      ],
+      "benefits": [
+        "Relaxes the eyes after eye movements or meditation."
+      ],
+      "pageRef": "Handbook pg. 153",
+      "pdfHref": "resources/handbook.pdf#page=153"
+    },
+    {
+      "id": "trataka-eye-wash",
+      "name": "Eye Wash",
+      "sanskritMeaning": "",
+      "category": "Eye Care",
+      "introduction": "A refreshing eye-care practice using plain drinking water, recommended as part of Trataka eye care.",
+      "startingPosition": [
+        "Sit comfortably with drinking water at room temperature in a clean palm."
+      ],
+      "steps": [
+        "Take drinking water (room temperature) in one palm.",
+        "Dip one eye into the water for a few seconds, blinking the eyes a couple of times while in the water.",
+        "Repeat with the other eye."
+      ],
+      "recommendedPractice": "Practice as needed for refreshment of the eyes.",
+      "limitations": [
+        "None"
+      ],
+      "benefits": [
+        "Refreshes and cleanses the eyes."
+      ],
+      "pageRef": "Handbook pg. 154",
+      "pdfHref": "resources/handbook.pdf#page=154"
+    }
+  ]
+}

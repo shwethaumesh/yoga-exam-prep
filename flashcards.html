@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Flashcards — Topic Prep Cards</title>
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+<div id="topnav-container"></div>
+
+<div class="page">
+  <div class="page-header">
+    <h1>Flashcards &amp; Topic Cue Cards</h1>
+    <p>Click a card to flip it. Rate yourself honestly — "Review again" cards come back sooner, "Got it" cards come back less often (simple spaced repetition).</p>
+  </div>
+
+  <div class="controls">
+    <input type="text" class="search-box" id="searchBox" placeholder="Search topic or keyword...">
+    <div class="filter-btns" id="categoryFilters"></div>
+  </div>
+
+  <div class="btn-row" style="margin-bottom:16px;">
+    <button class="btn" id="modeAll">All cards</button>
+    <button class="btn" id="modeDue">Due for review</button>
+    <button class="btn" id="shuffleBtn">🔀 Shuffle</button>
+    <button class="btn" id="resetProgressBtn">↺ Reset progress</button>
+  </div>
+
+  <div class="deck-counter" id="deckCounter"></div>
+
+  <div class="flashcard-stage">
+    <div class="flashcard" id="flashcard">
+      <span class="cat-badge fc-category" id="fcCategory"></span>
+      <div class="fc-topic" id="fcTopic"></div>
+      <div class="fc-content" id="fcContent"></div>
+      <div class="fc-hint">Click to flip</div>
+    </div>
+  </div>
+
+  <div class="flashcard-nav">
+    <button class="btn" id="prevBtn">← Prev</button>
+    <button class="btn ghost" id="dontKnowBtn">😕 Review again</button>
+    <button class="btn accent" id="knowBtn">✅ Got it</button>
+    <button class="btn" id="nextBtn">Next →</button>
+  </div>
+
+  <div class="grid" style="margin-top:24px;">
+    <div class="card">
+      <h3>Deck mastery</h3>
+      <div class="progress-bar-track"><div class="progress-bar-fill" id="masteryBar" style="width:0%"></div></div>
+      <p id="masteryLabel" style="margin-top:8px;">0 of 0 cards mastered</p>
+    </div>
+  </div>
+</div>
+
+<footer class="site-footer">All progress is saved in this browser only.</footer>
+
+<script src="js/app.js"></script>
+<script src="js/flashcards.js"></script>
+</body>
+</html>

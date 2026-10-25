@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Practical Prep — Asana · Pranayama · Kriya</title>
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+<div id="topnav-container"></div>
+
+<div class="page">
+  <div class="page-header">
+    <h1>Practical Exam Prep</h1>
+    <p>Full theory for every Asana, Pranayama, and Kriya — what it is, how to perform it, limitations, and benefits. Check items off as you rehearse them each day; a silent demonstration exam rewards muscle memory, so aim to touch every item before exam day.</p>
+  </div>
+
+  <div class="card" style="margin-bottom:20px;">
+    <div style="display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; gap:12px;">
+      <div>
+        <strong id="streakLabel">🔥 0 day streak</strong>
+        <div class="stat-label">Practiced <span id="todayCount">0</span> of <span id="totalCount">0</span> items today</div>
+      </div>
+      <div style="flex:1; min-width:200px; max-width:320px;">
+        <div class="progress-bar-track"><div class="progress-bar-fill" id="todayProgressBar" style="width:0%"></div></div>
+      </div>
+      <button class="btn ghost" id="printBtn">🖨️ Print this section</button>
+    </div>
+  </div>
+
+  <div class="tabs">
+    <button class="tab-btn active" data-tab="asana">Asanas (<span id="countAsana">0</span>)</button>
+    <button class="tab-btn" data-tab="pranayama">Pranayama (<span id="countPranayama">0</span>)</button>
+    <button class="tab-btn" data-tab="kriya">Kriya (<span id="countKriya">0</span>)</button>
+  </div>
+
+  <div class="controls">
+    <input type="text" class="search-box" id="searchBox" placeholder="Search by name, cue, or keyword...">
+    <div class="filter-btns" id="categoryFilters"></div>
+  </div>
+
+  <div class="tab-panel active" id="panel-asana"></div>
+  <div class="tab-panel" id="panel-pranayama"></div>
+  <div class="tab-panel" id="panel-kriya"></div>
+</div>
+
+<footer class="site-footer">Tip: alternate between "theory read-through" and "eyes-closed silent practice" — the practical exam is a silent demonstration.</footer>
+
+<script src="js/app.js"></script>
+<script src="js/practical.js"></script>
+</body>
+</html>
