@@ -1,0 +1,814 @@
+{
+ "questions": [
+  {
+   "id": "a001",
+   "topic": "Conceptual Techniques",
+   "question": "Why is Nispandabhava practised by focusing on a continuous, feeble sound?",
+   "options": [
+    "To take the mind out of the body and develop a bystander/witness attitude, since the subtle is understood when the gross ceases",
+    "To strengthen the lungs through sound vibration",
+    "To prepare the body for Kumbhaka",
+    "To invoke Kundalini through mantra"
+   ],
+   "correctIndex": 0,
+   "explanation": "Nispandabhava (absence of movement) was developed by Shri Yogendraji for objectivity. A still body leads to a still mind; attending passively to a subtle sound detaches awareness from the body and builds a witness-like attitude.",
+   "pageRef": "Handbook pg. 138-139",
+   "type": "conceptual"
+  },
+  {
+   "id": "a002",
+   "topic": "Conceptual Techniques",
+   "question": "A student says Nispandabhava means one should withdraw completely from life. What is the correct clarification?",
+   "options": [
+    "Detachment does not mean inaction; it means keeping balance amid chaos and performing duties with ease",
+    "Yes, complete withdrawal is the aim",
+    "Withdrawal is only for householders",
+    "It applies only during the 15 minutes of practice and has no bearing on life"
+   ],
+   "correctIndex": 0,
+   "explanation": "The handbook stresses that detachment doesn't mean inaction or total withdrawal; it is maintaining balance in the midst of chaos while performing one's duties.",
+   "pageRef": "Handbook pg. 138",
+   "type": "conceptual"
+  },
+  {
+   "id": "a003",
+   "topic": "Conceptual Techniques",
+   "question": "Why is Reflection practised before the more advanced Anitya Bhavana?",
+   "options": [
+    "It trains the mind to become an observer of its own thinking; it is a simplified form of the deeper self-study",
+    "It replaces the need for Asanas",
+    "It is only meant for bedtime",
+    "It builds physical stamina"
+   ],
+   "correctIndex": 0,
+   "explanation": "Reflection is the simplified starting form that trains the mind to observe itself, leading towards Anitya Bhavana, a Jain technique to discriminate between the permanent and the impermanent.",
+   "pageRef": "Handbook pg. 137",
+   "type": "conceptual"
+  },
+  {
+   "id": "a004",
+   "topic": "Conceptual Techniques",
+   "question": "In Reflection, why is the previous day's events reviewed without judging or analysing them at first?",
+   "options": [
+    "To train passive, non-judgemental observation without emotional interference, which builds mindfulness",
+    "To make the person forget the events",
+    "To decide which events to repeat",
+    "To develop competitiveness"
+   ],
+   "correctIndex": 0,
+   "explanation": "We grow only when we learn to observe without the interference of emotions and perceptions; the end result is mindfulness and better memory.",
+   "pageRef": "Handbook pg. 138",
+   "type": "conceptual"
+  },
+  {
+   "id": "a005",
+   "topic": "Conceptual Techniques",
+   "question": "Yogendra Yonimudra draws inspiration from the tortoise because:",
+   "options": [
+    "A tortoise withdraws its limbs into its shell on sensing danger, just as senses are withdrawn to conserve mental energy (Pratyahara)",
+    "A tortoise lives long",
+    "A tortoise moves slowly",
+    "A tortoise breathes slowly"
+   ],
+   "correctIndex": 0,
+   "explanation": "The technique trains Pratyahara: like the tortoise withdrawing its limbs, the mind withholds itself from soliciting sensory perceptions that dissipate mental energy.",
+   "pageRef": "Handbook pg. 139",
+   "type": "conceptual"
+  },
+  {
+   "id": "a006",
+   "topic": "Conceptual Techniques",
+   "question": "Which techniques are classed as 'Unique techniques pioneered by The Yoga Institute'?",
+   "options": [
+    "Nispandabhava and Yogendra Yonimudra",
+    "Kapalabhati and Jala Neti",
+    "Surya Namaskara and Tadasana",
+    "Nadi Shodhana and Bhramari"
+   ],
+   "correctIndex": 0,
+   "explanation": "The handbook lists Nispandabhava and Yogendra Yonimudra under this category, both developed by Shri Yogendraji.",
+   "pageRef": "Handbook pg. 138-139",
+   "type": "conceptual"
+  },
+  {
+   "id": "a007",
+   "topic": "Yoga Philosophy & History",
+   "question": "Which of these two sources speaks of Yoga earlier in the historical timeline of Indian thought: the Upanishads or Samkhya as a systematised philosophy?",
+   "options": [
+    "The Upanishads; the Vedic/Upanishadic period precedes the systematised darshanas and the Classical period of Patanjali (c. 250 BC)",
+    "Samkhya, since Kapila lived before the Vedas",
+    "Both are the same age",
+    "Neither; both are post-classical"
+   ],
+   "correctIndex": 0,
+   "explanation": "The handbook places Yoga in folk traditions, Indus valley, Vedic and Upanishadic periods before the darshanas. Patanjali's Yoga Sutra (c. 250 BC) came in the Classical period, and the Samkhya texts available now (Karika) are later compilations.",
+   "pageRef": "Handbook pg. 10-14",
+   "type": "conceptual"
+  },
+  {
+   "id": "a008",
+   "topic": "Yoga Philosophy & History",
+   "question": "Why is Samkhya described as the philosophy and Yoga as its 'technology'?",
+   "options": [
+    "Samkhya describes the problem and the liberation (Purusha vs Prakriti), while Yoga gives practical means to attain it",
+    "Yoga is older than Samkhya",
+    "Samkhya rejects practice",
+    "Yoga rejects Samkhya cosmology"
+   ],
+   "correctIndex": 0,
+   "explanation": "Yoga is said to be the technology for achieving the liberation spoken of by Samkhya; both share a common cosmology, nature and final goal.",
+   "pageRef": "Handbook pg. 14",
+   "type": "conceptual"
+  },
+  {
+   "id": "a009",
+   "topic": "Yoga Philosophy & History",
+   "question": "Why are the Shad Darshanas always spoken of in pairs?",
+   "options": [
+    "Each pair combines complementary theory and practice/method (e.g., Samkhya-Yoga, Nyaya-Vaisheshika, Vedanta-Mimamsa)",
+    "They were written by twin sages",
+    "Each pair has the same founder",
+    "They share the same text"
+   ],
+   "correctIndex": 0,
+   "explanation": "The six Astika darshanas are paired: Samkhya-Yoga, Nyaya-Vaisheshika and Vedanta-Mimamsa.",
+   "pageRef": "Handbook pg. 13",
+   "type": "conceptual"
+  },
+  {
+   "id": "a010",
+   "topic": "Yoga Philosophy & History",
+   "question": "What is the fundamental criterion that separates Astika from Nastika philosophies?",
+   "options": [
+    "Whether the Vedas are accepted as supreme",
+    "Belief in God alone",
+    "Belief in rebirth",
+    "Use of Sanskrit"
+   ],
+   "correctIndex": 0,
+   "explanation": "Astika schools accept the Vedas as supreme (the six Shad Darshana). Nastika schools (Buddhism, Jainism, Charvaka) do not.",
+   "pageRef": "Handbook pg. 13, 178",
+   "type": "conceptual"
+  },
+  {
+   "id": "a011",
+   "topic": "Yoga Philosophy & History",
+   "question": "Match the darshana with its propounder correctly:",
+   "options": [
+    "Nyaya - Gautama; Vaisheshika - Kanada; Purva Mimamsa - Jaimini",
+    "Nyaya - Kanada; Vaisheshika - Gautama; Purva Mimamsa - Kapila",
+    "Nyaya - Jaimini; Vaisheshika - Kapila; Purva Mimamsa - Gautama",
+    "Nyaya - Kapila; Vaisheshika - Patanjali; Purva Mimamsa - Badarayana"
+   ],
+   "correctIndex": 0,
+   "explanation": "Samkhya - Kapila; Yoga - Patanjali; Nyaya - Gautama; Vaisheshika - Kanada; Purva Mimamsa - Jaimini; Uttara Mimamsa (Vedanta) - Badarayana.",
+   "pageRef": "Handbook pg. 178",
+   "type": "conceptual"
+  },
+  {
+   "id": "a012",
+   "topic": "Yoga Philosophy & History",
+   "question": "Why does Nyaya describe liberation (Apavarga) as absence of sorrow rather than continuous bliss?",
+   "options": [
+    "Because pain and pleasure always coexist through the mind-sense-object association, so pure bliss without pain cannot exist",
+    "Because Nyaya denies liberation",
+    "Because bliss is only for gods",
+    "Because sorrow is the only reality"
+   ],
+   "correctIndex": 0,
+   "explanation": "This is the logic of the negation doctrine: since pleasure always comes with pain, liberation is total and permanent absence of suffering.",
+   "pageRef": "Handbook pg. 15",
+   "type": "conceptual"
+  },
+  {
+   "id": "a013",
+   "topic": "Yoga Philosophy & History",
+   "question": "The three-fold Sadhana of Nyaya for destroying false knowledge (Mithyajnana) is, in order:",
+   "options": [
+    "Shravana, Manana, Nidhidhyasana",
+    "Manana, Shravana, Nidhidhyasana",
+    "Nidhidhyasana, Shravana, Manana",
+    "Shravana, Nidhidhyasana, Manana"
+   ],
+   "correctIndex": 0,
+   "explanation": "Listening to the instructions (Shravana), reflecting on them (Manana), then meditating on that knowledge (Nidhidhyasana).",
+   "pageRef": "Handbook pg. 15",
+   "type": "conceptual"
+  },
+  {
+   "id": "a014",
+   "topic": "Yoga Philosophy & History",
+   "question": "In Samkhya's evolution, what determines whether Ahamkara evolves into the ten Indriyas or into the five Tanmatras?",
+   "options": [
+    "Predominance of Sattva leads to Indriyas; predominance of Tamas leads to Tanmatras",
+    "Predominance of Rajas leads to Indriyas",
+    "The wish of Purusha",
+    "Predominance of Tamas leads to Indriyas"
+   ],
+   "correctIndex": 0,
+   "explanation": "When Sattva predominates, Ahamkara evolves into the ten Indriyas (with Manas as supervisor); when Tamas predominates it evolves into the five Tanmatras, which evolve into the five Mahabhutas.",
+   "pageRef": "Handbook pg. 13",
+   "type": "conceptual"
+  },
+  {
+   "id": "a015",
+   "topic": "Yoga Philosophy & History",
+   "question": "What is the correct order of Samkhya evolution from Prakriti?",
+   "options": [
+    "Prakriti → Mahat/Buddhi → Ahamkara → Indriyas/Tanmatras → Mahabhutas",
+    "Prakriti → Ahamkara → Mahat → Tanmatras",
+    "Purusha → Prakriti → Buddhi",
+    "Mahabhutas → Tanmatras → Ahamkara → Prakriti"
+   ],
+   "correctIndex": 0,
+   "explanation": "Prakriti evolves into Mahat (Buddhi), then Ahamkara, then Indriyas and Tanmatras, and finally the five gross Mahabhutas.",
+   "pageRef": "Handbook pg. 13",
+   "type": "conceptual"
+  },
+  {
+   "id": "a016",
+   "topic": "Yoga Philosophy & History",
+   "question": "The practical message of Samkhya, 'be the Purusha you are', follows from which realisation?",
+   "options": [
+    "The world is temporary and changeful, so not worth the suffering; the real self is free of it",
+    "The world is an illusion that must be destroyed",
+    "Purusha must be merged into Prakriti",
+    "Pleasure is the highest goal"
+   ],
+   "correctIndex": 0,
+   "explanation": "Samkhya asks us to realise how temporary and changeful the world is and that the real self (Purusha, unchanging) is free from it.",
+   "pageRef": "Handbook pg. 13",
+   "type": "conceptual"
+  },
+  {
+   "id": "a017",
+   "topic": "Yoga Philosophy & History",
+   "question": "Which two Samkhya works are available today, since the original system is lost?",
+   "options": [
+    "Samkhya Sutras of Panchashikha and Samkhya Karika of Ishwara Krishna",
+    "Samkhya Sutra of Kapila and Yoga Vasishtha",
+    "Brahma Sutras and Samkhya Karika",
+    "Nyaya Sutras and Samkhya Karika"
+   ],
+   "correctIndex": 0,
+   "explanation": "The original Samkhya was compiled from references in other texts; only these two works survive.",
+   "pageRef": "Handbook pg. 13",
+   "type": "conceptual"
+  },
+  {
+   "id": "a018",
+   "topic": "Yoga Philosophy & History",
+   "question": "Why is Purushartha called an Upanishadic concept of motivation?",
+   "options": [
+    "Purusha (human) + Artha (purpose); it explains why a human should grow beyond animal-like living through right motivation behind action",
+    "Because it lists the four Vedas",
+    "Because it describes four asramas",
+    "Because it is only about earning money"
+   ],
+   "correctIndex": 0,
+   "explanation": "Purushartha channels the urges behind all actions so that they become actions of self-growth, lifting a person from animal to human level.",
+   "pageRef": "Handbook pg. 39",
+   "type": "conceptual"
+  },
+  {
+   "id": "a019",
+   "topic": "Yoga Philosophy & History",
+   "question": "Among the four Purusharthas, which acts as the regulating principle that guides Artha and Kama?",
+   "options": [
+    "Dharma",
+    "Moksha",
+    "Kama",
+    "Artha"
+   ],
+   "correctIndex": 0,
+   "explanation": "Dharma discriminates right from wrong and checks how much to earn (Artha) and how to enjoy (Kama). Moksha is the final goal reached through selfless action.",
+   "pageRef": "Handbook pg. 39-40",
+   "type": "conceptual"
+  },
+  {
+   "id": "a020",
+   "topic": "Yoga Philosophy & History",
+   "question": "Why did the Yoga Sutra become the foundation text of Yoga though Yoga existed long before it?",
+   "options": [
+    "Patanjali brought order to existing practices and compiled them in under 200 concise sutras, like a grammar of spirituality",
+    "He invented Yoga",
+    "It was the first book ever written",
+    "It abolished other traditions"
+   ],
+   "correctIndex": 0,
+   "explanation": "Around 250 BC (Classical period, 500 BC - 800 AD) Patanjali systematised Yoga into 195 sutras.",
+   "pageRef": "Handbook pg. 11",
+   "type": "conceptual"
+  },
+  {
+   "id": "a021",
+   "topic": "Yoga Philosophy & History",
+   "question": "Which period is associated with Nath Yogis such as Matsyendranath and Gorakshanath and the popularisation of Hatha Yoga?",
+   "options": [
+    "Post-classical period (AD 800-1700)",
+    "Classical period",
+    "Vedic period",
+    "Modern period only"
+   ],
+   "correctIndex": 0,
+   "explanation": "The post-classical period saw the Acharyas (Shankara, Ramanuja, Madhva), Bhakti poets, and Nath Yogis popularising Hatha Yoga.",
+   "pageRef": "Handbook pg. 11",
+   "type": "conceptual"
+  },
+  {
+   "id": "a022",
+   "topic": "Yoga Philosophy & History",
+   "question": "According to tradition in the handbook, who is the first yogi (Adiyogi) and to whom did he pass on his knowledge?",
+   "options": [
+    "Shiva, to the Saptarishis",
+    "Patanjali, to Vyasa",
+    "Kapila, to Gautama",
+    "Krishna, to Arjuna"
+   ],
+   "correctIndex": 0,
+   "explanation": "Shiva as Adiyogi imparted his knowledge to the seven sages (Saptarishis) on the banks of Kantisarovar in the Himalayas.",
+   "pageRef": "Handbook pg. 10",
+   "type": "conceptual"
+  },
+  {
+   "id": "a023",
+   "topic": "Yoga Philosophy & History",
+   "question": "Which Bhagavad Gita definition of Yoga links it to everyday work and which to the state of mind?",
+   "options": [
+    "'Yogah Karmasu Kaushalam' (excellence in action) and 'Samatvam Yoga Uchyate' (equanimity)",
+    "'Yogah Chittavritti Nirodhah' for both",
+    "'Sthira Sukham Asanam' and 'Yogah Karmasu Kaushalam'",
+    "'Samatvam Yoga Uchyate' (work) and 'Atha Yoganushasanam' (mind)"
+   ],
+   "correctIndex": 0,
+   "explanation": "The Gita says excellence in work is Yoga and maintaining mental equilibrium is Yoga.",
+   "pageRef": "Handbook pg. 10",
+   "type": "conceptual"
+  },
+  {
+   "id": "a024",
+   "topic": "Patanjali's Yoga Sutras",
+   "question": "Which Pada would you consult to learn about Kriya Yoga, Kleshas and the first five limbs of Ashtanga Yoga?",
+   "options": [
+    "Sadhana Pada",
+    "Samadhi Pada",
+    "Vibhuti Pada",
+    "Kaivalya Pada"
+   ],
+   "correctIndex": 0,
+   "explanation": "Sadhana Pada introduces Kleshas, Kriya Yoga and Ashtanga Yoga. Samadhi Pada covers Chitta, Vrittis, Abhyasa-Vairagya; Vibhuti Pada covers Samadhi/powers; Kaivalya Pada covers liberation.",
+   "pageRef": "Handbook pg. 14",
+   "type": "conceptual"
+  },
+  {
+   "id": "a025",
+   "topic": "Patanjali's Yoga Sutras",
+   "question": "Why is Kriya Yoga placed in Sadhana Pada and not Samadhi Pada?",
+   "options": [
+    "Because it is a practical means for an agitated mind to weaken the Kleshas, while Samadhi Pada addresses the one-pointed mind",
+    "Because Kriya Yoga is a posture",
+    "Because Samadhi Pada has no techniques",
+    "By accident of arrangement"
+   ],
+   "correctIndex": 0,
+   "explanation": "Sadhana Pada deals with Kleshas and the Kriya Yoga technique (Tapas, Svadhyaya, Ishvarapranidhana) to overcome them.",
+   "pageRef": "Handbook pg. 14",
+   "type": "conceptual"
+  },
+  {
+   "id": "a026",
+   "topic": "Patanjali's Yoga Sutras",
+   "question": "Why does the handbook say 'a sick body cannot concentrate' under the first Antaraya?",
+   "options": [
+    "Vyadhi is the most universal, gross obstacle; a disordered body prevents steady practice, so wholesome moderate food and right attitude are advised",
+    "Because disease is unimportant",
+    "Because only the mind matters",
+    "Because Yoga cures all disease instantly"
+   ],
+   "correctIndex": 0,
+   "explanation": "The nine Antarayas run from gross to subtle; Vyadhi (disease) is the grossest and most universal.",
+   "pageRef": "Handbook pg. 33",
+   "type": "conceptual"
+  },
+  {
+   "id": "a027",
+   "topic": "Patanjali's Yoga Sutras",
+   "question": "A student knows regular practice is good for him but never does it. Which Antaraya is this?",
+   "options": [
+    "Styana (incompetence)",
+    "Alasya (sloth)",
+    "Samshaya (doubt)",
+    "Pramada (delusion)"
+   ],
+   "correctIndex": 0,
+   "explanation": "Styana is the failure to take right action despite knowing what is good; it is the inability to translate knowledge into action. Alasya is laziness from Tamas.",
+   "pageRef": "Handbook pg. 33",
+   "type": "conceptual"
+  },
+  {
+   "id": "a028",
+   "topic": "Patanjali's Yoga Sutras",
+   "question": "A student mistakes the supernormal powers (siddhis) gained in practice for the highest spiritual attainment. Which Antaraya is this?",
+   "options": [
+    "Bhranti Darshana (false perception)",
+    "Avirati",
+    "Alabdhabhumikatva",
+    "Anavasthitatvani"
+   ],
+   "correctIndex": 0,
+   "explanation": "Taking a lower achievement for a higher one is Bhranti Darshana; devotion to the Higher Reality and study of scriptures remove it.",
+   "pageRef": "Handbook pg. 34",
+   "type": "conceptual"
+  },
+  {
+   "id": "a029",
+   "topic": "Patanjali's Yoga Sutras",
+   "question": "Which technique helps sustain a yogic state once reached, countering Anavasthitatvani?",
+   "options": [
+    "Paravairagya",
+    "Pratipakshabhavana",
+    "Pranayama",
+    "Svadhyaya"
+   ],
+   "correctIndex": 0,
+   "explanation": "Paravairagya (higher detachment) helps retain the stage of progress. Ishvarapranidhana is the main technique for all impediments.",
+   "pageRef": "Handbook pg. 34",
+   "type": "conceptual"
+  },
+  {
+   "id": "a030",
+   "topic": "Patanjali's Yoga Sutras",
+   "question": "Which of the following is a Sahabhuva (companion of the Antarayas)?",
+   "options": [
+    "Daurmanasya (dejection)",
+    "Styana",
+    "Alasya",
+    "Samshaya"
+   ],
+   "correctIndex": 0,
+   "explanation": "The five Sahabhuvas are Dukha, Daurmanasya, Angamejayatva, Svasa and Prasvasa.",
+   "pageRef": "Handbook pg. 34",
+   "type": "conceptual"
+  },
+  {
+   "id": "a031",
+   "topic": "Patanjali's Yoga Sutras",
+   "question": "Why is Pranayama the main remedy for Svasa and Prasvasa?",
+   "options": [
+    "They are irregular inhalation and exhalation linked to mental distraction, so regular breath training steadies them",
+    "They are caused by hunger",
+    "They are cured by Asanas only",
+    "They are limb tremors"
+   ],
+   "correctIndex": 0,
+   "explanation": "Irregular breathing is mainly associated with mental distractions; knowledge of Pranayama and regular practice help overcome it.",
+   "pageRef": "Handbook pg. 34",
+   "type": "conceptual"
+  },
+  {
+   "id": "a032",
+   "topic": "Patanjali's Yoga Sutras",
+   "question": "Pain caused by a mosquito bite or catching a cold from bad weather is classified as:",
+   "options": [
+    "Adhibhautik",
+    "Adhidaivik",
+    "Adhyatmik",
+    "Daurmanasya"
+   ],
+   "correctIndex": 0,
+   "explanation": "Adhidaivik is from natural calamities; Adhibhautik from external/environmental factors; Adhyatmik from our own wrong attitude (and is avoidable).",
+   "pageRef": "Handbook pg. 34",
+   "type": "conceptual"
+  },
+  {
+   "id": "a033",
+   "topic": "Patanjali's Yoga Sutras",
+   "question": "Which type of Dukha can be avoided entirely by changing one's attitude?",
+   "options": [
+    "Adhyatmik",
+    "Adhidaivik",
+    "Adhibhautik",
+    "None of them"
+   ],
+   "correctIndex": 0,
+   "explanation": "Adhyatmik pain arises from our wrong attitude or understanding of life, so it can be avoided.",
+   "pageRef": "Handbook pg. 34",
+   "type": "conceptual"
+  },
+  {
+   "id": "a034",
+   "topic": "Patanjali's Yoga Sutras",
+   "question": "Why are Yamas said to be practised on the base of Ahimsa?",
+   "options": [
+    "The other four are supportive of Ahimsa; e.g., truth must not be hurtful",
+    "Ahimsa is easiest",
+    "Ahimsa is the first in sequence only",
+    "Other Yamas are optional"
+   ],
+   "correctIndex": 0,
+   "explanation": "Satya, for example, must never be hurtful; Ahimsa must always be the baseline. Ahimsa also includes violence of words and thoughts.",
+   "pageRef": "Handbook pg. 26",
+   "type": "conceptual"
+  },
+  {
+   "id": "a035",
+   "topic": "Patanjali's Yoga Sutras",
+   "question": "Why does harsh speech violate Ahimsa according to the handbook?",
+   "options": [
+    "It is a form of violence that wounds others and costs the speaker peace of mind needed to continue on the yogic path",
+    "It is only a social offence",
+    "It violates Satya only",
+    "It is allowed if true"
+   ],
+   "correctIndex": 0,
+   "explanation": "Ahimsa covers physical violence, words and thoughts. Loss of peace of mind blocks progress.",
+   "pageRef": "Handbook pg. 26",
+   "type": "conceptual"
+  },
+  {
+   "id": "a036",
+   "topic": "Patanjali's Yoga Sutras",
+   "question": "Taking credit for someone else's good work is a violation of which Yama?",
+   "options": [
+    "Asteya",
+    "Satya",
+    "Aparigraha",
+    "Brahmacharya"
+   ],
+   "correctIndex": 0,
+   "explanation": "Asteya covers unlawful taking of things or thoughts/credit; taking only the legitimate due stops hoarding and stealing.",
+   "pageRef": "Handbook pg. 26",
+   "type": "conceptual"
+  },
+  {
+   "id": "a037",
+   "topic": "Patanjali's Yoga Sutras",
+   "question": "Why are Yama, Niyama, Asana, Pranayama and Pratyahara classed as Bahiranga (external) and Dharana, Dhyana, Samadhi as Antaranga?",
+   "options": [
+    "The first group is visible/outward in behaviour and body, while the last three are internal mental states unseen by others",
+    "Because the first group is optional",
+    "Because the last group needs a teacher",
+    "Because the first group is physical only"
+   ],
+   "correctIndex": 0,
+   "explanation": "Antaranga limbs are internal; Pratyahara is the bridge, as it turns the senses inward.",
+   "pageRef": "Handbook pg. 25-26",
+   "type": "conceptual"
+  },
+  {
+   "id": "a038",
+   "topic": "Patanjali's Yoga Sutras",
+   "question": "Which order of Ashtanga Yoga's limbs is correct?",
+   "options": [
+    "Yama, Niyama, Asana, Pranayama, Pratyahara, Dharana, Dhyana, Samadhi",
+    "Niyama, Yama, Asana, Pranayama, Pratyahara, Dhyana, Dharana, Samadhi",
+    "Yama, Niyama, Pranayama, Asana, Pratyahara, Dharana, Dhyana, Samadhi",
+    "Asana, Yama, Niyama, Pranayama, Dharana, Pratyahara, Dhyana, Samadhi"
+   ],
+   "correctIndex": 0,
+   "explanation": "Ethical base first, then body, breath, senses, then the three internal stages.",
+   "pageRef": "Handbook pg. 25",
+   "type": "conceptual"
+  },
+  {
+   "id": "a039",
+   "topic": "Patanjali's Yoga Sutras",
+   "question": "Which Chitta Bhumi is characterised by constant wandering with many desires, making yogic study unsuitable?",
+   "options": [
+    "Kshipta",
+    "Ekagra",
+    "Niruddha",
+    "Mudha"
+   ],
+   "correctIndex": 0,
+   "explanation": "Kshipta is the restless, scattered mind. Mudha is dull, Vikshipta alternates between steady and distracted, Ekagra is one-pointed, Niruddha is restrained.",
+   "pageRef": "Handbook pg. 28-29",
+   "type": "conceptual"
+  },
+  {
+   "id": "a040",
+   "topic": "Patanjali's Yoga Sutras",
+   "question": "Which of the Pada names indicates the goal and discussion of liberation (Pure Consciousness)?",
+   "options": [
+    "Kaivalya Pada",
+    "Vibhuti Pada",
+    "Sadhana Pada",
+    "Samadhi Pada"
+   ],
+   "correctIndex": 0,
+   "explanation": "Kaivalya Pada examines how liberation may be realised and what may arise from Pure Consciousness.",
+   "pageRef": "Handbook pg. 14",
+   "type": "conceptual"
+  },
+  {
+   "id": "a041",
+   "topic": "Patanjali's Yoga Sutras",
+   "question": "Why is Vyasa's Bhashya considered important among the commentaries on the Yoga Sutra?",
+   "options": [
+    "It is the first available elaboration and is accepted by many scholars as definitive",
+    "It was written by Patanjali",
+    "It is the shortest",
+    "It is the only one not influenced by belief"
+   ],
+   "correctIndex": 0,
+   "explanation": "Vyasa's commentary is the first available. Many later commentaries are tainted by the commentator's belief system; Hariharananda Aranya's is considered more neutral.",
+   "pageRef": "Handbook pg. 14",
+   "type": "conceptual"
+  },
+  {
+   "id": "a042",
+   "topic": "Hatha Yoga",
+   "question": "Why does the Hatha Yoga Pradipika list over-eating and talkativeness among the Badhaka Tattvas?",
+   "options": [
+    "They dissipate energy and disturb the body-mind, thereby obstructing progress",
+    "They are good for digestion",
+    "They help Samadhi",
+    "They are not listed"
+   ],
+   "correctIndex": 0,
+   "explanation": "Factors detrimental to Yoga include over-eating, exertion, talkativeness, adherence to rules, company of people, and unsteadiness (Chapter 1, shloka 15).",
+   "pageRef": "Handbook pg. 22-23",
+   "type": "conceptual"
+  },
+  {
+   "id": "a046",
+   "topic": "Hatha Yoga",
+   "question": "According to the handbook, Hatha Yoga defines Yoga in terms of:",
+   "options": [
+    "Awakening of Kundalini, advancement to Raja Yoga and Samadhi",
+    "Excellence in action",
+    "Selfless service",
+    "Intellectual inquiry"
+   ],
+   "correctIndex": 0,
+   "explanation": "The Gita defines Yoga through action and equanimity, Patanjali through mind control, and Hatha Yoga through the awakening of Kundalini.",
+   "pageRef": "Handbook pg. 10",
+   "type": "conceptual"
+  },
+  {
+   "id": "a047",
+   "topic": "Yoga for Wellness",
+   "question": "In Karma Yoga, why is 'selfless action' considered a means to Moksha?",
+   "options": [
+    "It transcends concern for success/failure and ego, so actions stop binding and the person serves all beings as divine",
+    "It makes one rich",
+    "It avoids all action",
+    "It builds strength"
+   ],
+   "correctIndex": 0,
+   "explanation": "Karma Yoga eliminates ego and selfishness, working on spiritual levels; Kriya Yoga and Karma Yoga are the Yogas of action.",
+   "pageRef": "Handbook pg. 20",
+   "type": "conceptual"
+  },
+  {
+   "id": "a048",
+   "topic": "Yoga for Wellness",
+   "question": "Jnana Yoga differs from Karma Yoga mainly because it:",
+   "options": [
+    "Works through inquiry, questioning and contemplation to realise knowledge hidden within",
+    "Works through service",
+    "Works through ritual",
+    "Works through breath only"
+   ],
+   "correctIndex": 0,
+   "explanation": "Jnana Yoga is the intellectual path of knowledge and wisdom; everything you know, think, believe or feel is questioned.",
+   "pageRef": "Handbook pg. 20",
+   "type": "conceptual"
+  },
+  {
+   "id": "a049",
+   "topic": "Human Systems & Physiology",
+   "question": "Which Kosha is responsible for thinking and decision-making according to the Taittiriya Upanishad?",
+   "options": [
+    "Vijnanamaya Kosha",
+    "Manomaya Kosha",
+    "Pranamaya Kosha",
+    "Annamaya Kosha"
+   ],
+   "correctIndex": 0,
+   "explanation": "Annamaya: physical; Pranamaya: bio-energy; Manomaya: emotions and feelings; Vijnanamaya: thinking/decisions; Anandamaya: bliss/spirituality.",
+   "pageRef": "Handbook pg. 177",
+   "type": "conceptual"
+  },
+  {
+   "id": "a051",
+   "topic": "Human Systems & Physiology",
+   "question": "Why is homeostasis called a 'dynamic' equilibrium?",
+   "options": [
+    "Continuous change occurs while relatively uniform conditions are maintained",
+    "Nothing ever changes",
+    "It is a fixed set-point",
+    "It happens only during sleep"
+   ],
+   "correctIndex": 0,
+   "explanation": "Built-in regulators (nervous and hormonal systems) re-establish balance whenever a system is disturbed, much like a thermostat.",
+   "pageRef": "Handbook pg. 40",
+   "type": "conceptual"
+  },
+  {
+   "id": "a052",
+   "topic": "Human Systems & Physiology",
+   "question": "Which pair of body systems chiefly drives homeostatic regulation?",
+   "options": [
+    "Nervous and endocrine (hormonal) systems",
+    "Skeletal and muscular systems",
+    "Digestive and excretory systems",
+    "Reproductive and lymphatic systems"
+   ],
+   "correctIndex": 0,
+   "explanation": "Regulation such as of temperature and blood pressure is brought about by the action of nervous and hormonal systems.",
+   "pageRef": "Handbook pg. 40",
+   "type": "conceptual"
+  },
+  {
+   "id": "a053",
+   "topic": "Yoga & Stress Management",
+   "question": "Why does the Samkhya classification of pain matter to a stress-management teacher?",
+   "options": [
+    "It separates avoidable pain (Adhyatmik, from wrong attitude) from unavoidable external pain, guiding what can be worked on",
+    "It says all pain is imaginary",
+    "It says pain is a punishment",
+    "It recommends ignoring pain"
+   ],
+   "correctIndex": 0,
+   "explanation": "Samkhya identifies three causes: Adhidaivik, Adhibhautik and Adhyatmik; the last arises from our own attitude and is within our control.",
+   "pageRef": "Handbook pg. 34",
+   "type": "conceptual"
+  },
+  {
+   "id": "a054",
+   "topic": "Yoga & Stress Management",
+   "question": "Why is the mind trained to become a 'witness' in stress management?",
+   "options": [
+    "Objectivity prevents emotional reactions from escalating, and promotes an integrated personality able to face challenges",
+    "To avoid responsibility",
+    "To suppress emotions",
+    "To make the mind blank"
+   ],
+   "correctIndex": 0,
+   "explanation": "The witness attitude of Nispandabhava gives detachment and objectivity, helping balance in the midst of chaos.",
+   "pageRef": "Handbook pg. 138",
+   "type": "conceptual"
+  },
+  {
+   "id": "a056",
+   "topic": "Communication & Teaching",
+   "question": "Why must a Yoga teacher base communication on Ahimsa?",
+   "options": [
+    "Because Ahimsa is the basic principle of Yoga communication; harsh or hurtful words violate it even if true",
+    "Because it makes classes shorter",
+    "Because students cannot speak",
+    "Because it is a legal rule"
+   ],
+   "correctIndex": 0,
+   "explanation": "Satya must not be hurtful; Ahimsa is always the baseline for how a teacher speaks.",
+   "pageRef": "Handbook pg. 26",
+   "type": "conceptual"
+  },
+  {
+   "id": "a062",
+   "topic": "Yoga Philosophy & History",
+   "question": "The Triguna theory says life needs all three Gunas. Which statement correctly reflects this?",
+   "options": [
+    "Without Tamas we would not sleep, without Rajas we would lack dynamism, and without Sattva life would be unbalanced; the yoga student aims to increase Sattva",
+    "Only Sattva is needed",
+    "Only Rajas is useful",
+    "Tamas must be eliminated entirely"
+   ],
+   "correctIndex": 0,
+   "explanation": "Gunas are qualities of energy; a student of Yoga works to raise Sattva through diet, lifestyle, a healthy body and a peaceful mind.",
+   "pageRef": "Handbook Triguna section",
+   "type": "conceptual"
+  },
+  {
+   "id": "a063",
+   "topic": "Patanjali's Yoga Sutras",
+   "question": "Which is the correct pairing of the Parikarmas with the type of person they should be directed towards?",
+   "options": [
+    "Maitri - happy; Karuna - suffering; Mudita - virtuous; Upeksha - non-virtuous",
+    "Maitri - suffering; Karuna - happy; Mudita - non-virtuous; Upeksha - virtuous",
+    "Maitri - virtuous; Karuna - happy; Mudita - suffering; Upeksha - non-virtuous",
+    "Maitri - non-virtuous; Karuna - virtuous; Mudita - happy; Upeksha - suffering"
+   ],
+   "correctIndex": 0,
+   "explanation": "Friendliness toward the happy, compassion toward the suffering, gladness toward the virtuous, indifference toward the non-virtuous (YS 1.33). They make the mind clear/peaceful.",
+   "pageRef": "Handbook pg. 31",
+   "type": "conceptual"
+  },
+  {
+   "id": "a064",
+   "topic": "Conceptual Techniques",
+   "question": "How do Nispandabhava and Yogendra Yonimudra differ in aim?",
+   "options": [
+    "Nispandabhava cultivates objectivity/witness attitude; Yonimudra trains Pratyahara (withdrawal of senses)",
+    "Both train breath retention",
+    "Nispandabhava is a Kriya; Yonimudra is a Bandha",
+    "They are identical"
+   ],
+   "correctIndex": 0,
+   "explanation": "Nispandabhava is for objectivity; Yogendra Yonimudra is for abstraction (Pratyahara).",
+   "pageRef": "Handbook pg. 138-139",
+   "type": "conceptual"
+  }
+ ]
+}

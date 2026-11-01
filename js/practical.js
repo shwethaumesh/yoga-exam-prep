@@ -1,11 +1,12 @@
 /* Practical Prep page logic: tabs, search/filter, collapsible cards, practiced-today tracking */
 
-const PREFIX = { asana: "asana", pranayama: "pranayama", kriya: "kriya" };
+const PREFIX = { asana: "asana", pranayama: "pranayama", kriya: "kriya", technique: "technique" };
 
 let STATE = {
   asana: { items: [], extra: null },
   pranayama: { items: [], extra: null },
   kriya: { items: [], extra: null },
+  technique: { items: [], extra: null },
   activeTab: "asana",
   search: "",
   activeCategory: "All",
@@ -36,10 +37,11 @@ async function checkPdfAvailable() {
 async function init() {
   renderNav("practical");
 
-  const [asanaData, pranayamaData, kriyaData, pdfOk] = await Promise.all([
+  const [asanaData, pranayamaData, kriyaData, techniqueData, pdfOk] = await Promise.all([
     loadData("js/data/asanas.json").catch(() => ({ items: [] })),
     loadData("js/data/pranayama.json").catch(() => ({ items: [] })),
     loadData("js/data/kriya.json").catch(() => ({ items: [] })),
+    loadData("js/data/techniques.json").catch(() => ({ items: [] })),
     checkPdfAvailable(),
   ]);
   PDF_AVAILABLE = pdfOk;
@@ -49,12 +51,13 @@ async function init() {
   STATE.pranayama.extra = pranayamaData.generalRules || null;
   STATE.kriya.items = kriyaData.items || [];
   STATE.kriya.extra = kriyaData.generalNotes || null;
+  STATE.technique.items = techniqueData.items || [];
 
   document.getElementById("countAsana").textContent = STATE.asana.items.length;
   document.getElementById("countPranayama").textContent = STATE.pranayama.items.length;
   document.getElementById("countKriya").textContent = STATE.kriya.items.length;
-  document.getElementById("totalCount").textContent =
-    STATE.asana.items.length + STATE.pranayama.items.length + STATE.kriya.items.length;
+  document.getElementById("countTechnique").textContent = STATE.technique.items.length;
+  updateHeaderStats();
 
   document.querySelectorAll(".tab-btn").forEach((btn) => {
     btn.addEventListener("click", () => {
@@ -245,7 +248,8 @@ function renderPanel(tab) {
 function updateHeaderStats() {
   const streak = computeStreak();
   const todayCount = countPracticedToday();
-  const total = STATE.asana.items.length + STATE.pranayama.items.length + STATE.kriya.items.length;
+  const total =
+    STATE.asana.items.length + STATE.pranayama.items.length + STATE.kriya.items.length + STATE.technique.items.length;
   document.getElementById("streakLabel").textContent = `🔥 ${streak} day streak`;
   document.getElementById("todayCount").textContent = todayCount;
   document.getElementById("totalCount").textContent = total;

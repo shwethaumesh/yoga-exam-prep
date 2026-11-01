@@ -15,7 +15,8 @@ async function init() {
   renderNav("exam");
 
   const data = await loadData("js/data/mcq-bank.json").catch(() => ({ topics: [], questions: [] }));
-  QUESTION_BANK = data.questions || [];
+  const advanced = await loadData("js/data/mcq-bank-advanced.json").catch(() => ({ questions: [] }));
+  QUESTION_BANK = [...(data.questions || []), ...(advanced.questions || [])];
   TOPICS = data.topics && data.topics.length ? data.topics : [...new Set(QUESTION_BANK.map((q) => q.topic))];
 
   renderTopicChecklist();
@@ -67,7 +68,7 @@ function startExam() {
 
   const numSetting = document.getElementById("numQuestions").value;
   const numQuestions = numSetting === "all" ? pool.length : Math.min(parseInt(numSetting, 10), pool.length);
-  examQuestions = shuffleArray(pool).slice(0, numQuestions);
+  examQuestions = pickQuestions(pool, numQuestions).map(shuffleOptions);
 
   timeLimitMinutes = parseInt(document.getElementById("timeLimit").value, 10);
   answers = {};
@@ -82,6 +83,37 @@ function startExam() {
   renderExamNavGrid();
   renderQuestion();
   startTimer();
+}
+
+const SEEN_KEY = "yic_seen_questions_v1";
+
+// Prefers questions not yet seen in earlier exams, spreads picks across topics,
+// and resets the seen list once the selected pool is exhausted.
+function pickQuestions(pool, n) {
+  let seen = new Set(loadJSON(SEEN_KEY, []));
+  let fresh = pool.filter((q) => !seen.has(q.id));
+  if (fresh.length < n) {
+    pool.forEach((q) => seen.delete(q.id));
+    fresh = pool.slice();
+  }
+  const byTopic = {};
+  shuffleArray(fresh).forEach((q) => (byTopic[q.topic] = byTopic[q.topic] || []).push(q));
+  const topics = shuffleArray(Object.keys(byTopic));
+  const picked = [];
+  while (picked.length < n && topics.some((t) => byTopic[t].length)) {
+    for (const t of topics) {
+      if (picked.length >= n) break;
+      if (byTopic[t].length) picked.push(byTopic[t].pop());
+    }
+  }
+  picked.forEach((q) => seen.add(q.id));
+  saveJSON(SEEN_KEY, [...seen]);
+  return shuffleArray(picked);
+}
+
+function shuffleOptions(q) {
+  const order = shuffleArray(q.options.map((_, i) => i));
+  return { ...q, options: order.map((i) => q.options[i]), correctIndex: order.indexOf(q.correctIndex) };
 }
 
 function startTimer() {
