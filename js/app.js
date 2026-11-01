@@ -129,7 +129,7 @@ function shuffleArray(arr) {
 }
 
 async function loadData(path) {
-  const res = await fetch(path);
+  const res = await fetch(path, { cache: "no-cache" });
   if (!res.ok) throw new Error("Failed to load " + path);
   return res.json();
 }
