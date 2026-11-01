@@ -384,7 +384,58 @@ a:hover { text-decoration: underline; }
 
 footer.site-footer { text-align: center; color: var(--text-muted); font-size: 12px; margin-top: 40px; }
 
+/* ---------- Key Terms Map ---------- */
+.term-group-card {
+  background: var(--card-bg);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  margin-bottom: 14px;
+  overflow: hidden;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.03);
+}
+.term-group-head {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  padding: 16px 20px;
+  cursor: pointer;
+  flex-wrap: wrap;
+}
+.term-group-head:hover { background: #F7FAFC; }
+.term-group-head h3 { color: var(--primary); font-size: 16px; margin-bottom: 2px; }
+.term-group-head p { color: var(--text-muted); font-size: 12px; margin: 0; }
+.term-group-count {
+  font-size: 11px;
+  font-weight: 700;
+  color: var(--accent);
+  background: var(--accent-light);
+  padding: 3px 10px;
+  border-radius: 12px;
+  white-space: nowrap;
+}
+.term-group-body {
+  display: none;
+  padding: 4px 20px 18px;
+  border-top: 1px solid var(--border);
+}
+.term-group-body.open { display: block; padding-top: 14px; }
+.term-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+  gap: 10px;
+}
+.term-chip {
+  background: #F7FAFC;
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  padding: 10px 14px;
+}
+.term-chip .term-name { font-weight: 700; color: var(--primary); font-size: 13px; }
+.term-chip .term-meaning { color: var(--accent); font-size: 12px; font-weight: 600; }
+.term-chip mark { background: #FFF3B0; color: inherit; padding: 0 1px; border-radius: 2px; }
+
 @media print {
   .topnav, .controls, .btn-row, .practiced-check, .exam-nav-grid { display: none !important; }
-  .practice-card-body { display: block !important; }
+  .practice-card-body, .term-group-body { display: block !important; }
 }

@@ -92,6 +92,7 @@ function renderNav(active) {
     { href: "index.html", label: "🏠 Dashboard", key: "home" },
     { href: "practical.html", label: "🧘 Practical Prep", key: "practical" },
     { href: "flashcards.html", label: "🗂️ Flashcards", key: "flashcards" },
+    { href: "terms-map.html", label: "🗺️ Terms Map", key: "terms" },
     { href: "mock-exam.html", label: "📝 Mock Exam", key: "exam" },
   ];
   const nav = document.getElementById("topnav-container");

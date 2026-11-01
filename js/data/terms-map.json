@@ -1,0 +1,319 @@
+{
+  "groups": [
+    {
+      "id": "ashtanga-yoga",
+      "topic": "Ashtanga Yoga — The 8 Limbs",
+      "description": "Patanjali's eight-fold path of Yoga.",
+      "pageRef": "Handbook pg. 25, 172",
+      "terms": [
+        { "term": "Yama", "meaning": "Restraint" },
+        { "term": "Niyama", "meaning": "Observance" },
+        { "term": "Asana", "meaning": "Posture" },
+        { "term": "Pranayama", "meaning": "Breath-control" },
+        { "term": "Pratyahara", "meaning": "Withdrawal" },
+        { "term": "Dharana", "meaning": "Concentration" },
+        { "term": "Dhyana", "meaning": "Meditation" },
+        { "term": "Samadhi", "meaning": "Absorption" }
+      ]
+    },
+    {
+      "id": "yamas",
+      "topic": "Yamas — 5 Restraints",
+      "description": "The ethical 'don'ts' — first limb of Ashtanga Yoga.",
+      "pageRef": "Handbook pg. 172",
+      "terms": [
+        { "term": "Ahimsa", "meaning": "Non-violence" },
+        { "term": "Satya", "meaning": "Truthfulness" },
+        { "term": "Asteya", "meaning": "Non-stealing" },
+        { "term": "Brahmacharya", "meaning": "Continence" },
+        { "term": "Aparigraha", "meaning": "Non-hoarding" }
+      ]
+    },
+    {
+      "id": "niyamas",
+      "topic": "Niyamas — 5 Observances",
+      "description": "The ethical 'dos' — second limb of Ashtanga Yoga.",
+      "pageRef": "Handbook pg. 172",
+      "terms": [
+        { "term": "Saucha", "meaning": "Purity" },
+        { "term": "Santosha", "meaning": "Contentment" },
+        { "term": "Tapa", "meaning": "Austerity" },
+        { "term": "Svadhyaya", "meaning": "Self-study" },
+        { "term": "Ishwarapranidhana", "meaning": "Surrender" }
+      ]
+    },
+    {
+      "id": "kleshas",
+      "topic": "Kleshas — 5 Afflictions",
+      "description": "Inherent defects in thinking described by Patanjali.",
+      "pageRef": "Handbook pg. 36, 171",
+      "terms": [
+        { "term": "Avidya", "meaning": "Ignorance" },
+        { "term": "Asmita", "meaning": "Ego" },
+        { "term": "Raga", "meaning": "Attachment" },
+        { "term": "Dvesha", "meaning": "Hatred" },
+        { "term": "Abhinivesha", "meaning": "Fear-of-death" }
+      ]
+    },
+    {
+      "id": "chitta-bhumis",
+      "topic": "Chitta Bhumis — 5 States of Mind",
+      "description": "Habitual states/levels of the mind.",
+      "pageRef": "Handbook pg. 29, 171",
+      "terms": [
+        { "term": "Kshipta", "meaning": "Restless" },
+        { "term": "Mudha", "meaning": "Dull" },
+        { "term": "Vikshipta", "meaning": "Distracted" },
+        { "term": "Ekagra", "meaning": "One-pointed" },
+        { "term": "Niruddha", "meaning": "Arrested" }
+      ]
+    },
+    {
+      "id": "chitta-vrittis",
+      "topic": "Chitta Vrittis — 5 Mental Modifications",
+      "description": "Activities/fluctuations of the mind.",
+      "pageRef": "Handbook pg. 30, 171",
+      "terms": [
+        { "term": "Pramana", "meaning": "Right-knowledge" },
+        { "term": "Viparyaya", "meaning": "Wrong-knowledge" },
+        { "term": "Vikalpa", "meaning": "Imagination" },
+        { "term": "Nidra", "meaning": "Sleep" },
+        { "term": "Smriti", "meaning": "Memory" }
+      ]
+    },
+    {
+      "id": "pramana-types",
+      "topic": "Pramana — 3 Types of Right Knowledge",
+      "description": "Sub-types of the Pramana Chitta-vritti.",
+      "pageRef": "Handbook pg. 171",
+      "terms": [
+        { "term": "Pratyaksha", "meaning": "Perception" },
+        { "term": "Anumana", "meaning": "Inference" },
+        { "term": "Aagama", "meaning": "Testimony" }
+      ]
+    },
+    {
+      "id": "antarayas",
+      "topic": "Antarayas — 9 Obstacles (Chitta Vikshepas)",
+      "description": "Obstacles caused by distractions of the mind.",
+      "pageRef": "Handbook pg. 33, 172",
+      "terms": [
+        { "term": "Vyadhi", "meaning": "Disease" },
+        { "term": "Styana", "meaning": "Dullness" },
+        { "term": "Samshaya", "meaning": "Doubt" },
+        { "term": "Pramada", "meaning": "Carelessness" },
+        { "term": "Aalasya", "meaning": "Laziness" },
+        { "term": "Avirati", "meaning": "Craving" },
+        { "term": "Bhrantidarshana", "meaning": "False-perception" },
+        { "term": "Alabdhabhumikatva", "meaning": "Non-attainment" },
+        { "term": "Anavasthitatvani", "meaning": "Instability" }
+      ]
+    },
+    {
+      "id": "sahabhuva",
+      "topic": "Sahabhuva — 5 Accompaniments to Distraction",
+      "description": "Symptoms that accompany the Antarayas.",
+      "pageRef": "Handbook pg. 173",
+      "terms": [
+        { "term": "Dukha", "meaning": "Pain" },
+        { "term": "Daurmanasya", "meaning": "Frustration" },
+        { "term": "Angamejayatva", "meaning": "Unsteadiness" },
+        { "term": "Shvaasa", "meaning": "Irregular-inhalation" },
+        { "term": "Prashvaasa", "meaning": "Irregular-exhalation" }
+      ]
+    },
+    {
+      "id": "parikarmas",
+      "topic": "Parikarmas — 4 Purifying Feelings",
+      "description": "Feelings that purify the mind of malicious intent, for attaining Chitta Prasadana.",
+      "pageRef": "Handbook pg. 35, 173",
+      "terms": [
+        { "term": "Maitri", "meaning": "Friendliness" },
+        { "term": "Karuna", "meaning": "Compassion" },
+        { "term": "Mudita", "meaning": "Goodwill" },
+        { "term": "Upeksha", "meaning": "Indifference" }
+      ]
+    },
+    {
+      "id": "badhaka-tattva",
+      "topic": "Badhaka Tattva — 6 Causes of Failure",
+      "description": "Causes of failure in the practice of Yoga (Hatha Yoga).",
+      "pageRef": "Handbook pg. 20, 173",
+      "terms": [
+        { "term": "Atyahara", "meaning": "Overeating" },
+        { "term": "Prayasa", "meaning": "Overexertion" },
+        { "term": "Prajalpa", "meaning": "Overtalking" },
+        { "term": "Niyamagraha", "meaning": "Fanaticism" },
+        { "term": "Janasanga", "meaning": "Bad-company" },
+        { "term": "Laulyam", "meaning": "Fickleness" }
+      ]
+    },
+    {
+      "id": "sadhaka-tattva",
+      "topic": "Sadhaka Tattva — 6 Principles of Success",
+      "description": "Principles that help in success in the practice of Yoga.",
+      "pageRef": "Handbook pg. 20, 174",
+      "terms": [
+        { "term": "Utsaha", "meaning": "Enthusiasm" },
+        { "term": "Saahas", "meaning": "Courage" },
+        { "term": "Dhairya", "meaning": "Patience" },
+        { "term": "Tattvajnana", "meaning": "Philosophy-knowledge" },
+        { "term": "Nischaya", "meaning": "Determination" },
+        { "term": "Janasanga Parityaga", "meaning": "Good-company" }
+      ]
+    },
+    {
+      "id": "bhavas",
+      "topic": "Bhavas — Traits of Buddhi (Intellect)",
+      "description": "Four positive and four negative traits of the intellect.",
+      "pageRef": "Handbook pg. 37",
+      "terms": [
+        { "term": "Dharma", "meaning": "Virtue" },
+        { "term": "Jnana", "meaning": "Wisdom" },
+        { "term": "Vairagya", "meaning": "Detachment" },
+        { "term": "Aishwarya", "meaning": "Strength" },
+        { "term": "Adharma", "meaning": "Vice" },
+        { "term": "Ajnana", "meaning": "Ignorance" },
+        { "term": "Raga (Bhava)", "meaning": "Attachment" },
+        { "term": "Anaishvarya", "meaning": "Weakness" }
+      ]
+    },
+    {
+      "id": "purushartha",
+      "topic": "Purushartha — 4 Goals of Life",
+      "description": "The four motivations/goals of human action (Upanishadic concept).",
+      "pageRef": "Handbook pg. 39",
+      "terms": [
+        { "term": "Dharma", "meaning": "Duty" },
+        { "term": "Artha", "meaning": "Wealth" },
+        { "term": "Kama", "meaning": "Desire" },
+        { "term": "Moksha", "meaning": "Liberation" }
+      ]
+    },
+    {
+      "id": "triguna",
+      "topic": "Triguna — 3 Qualities of Nature",
+      "description": "The three tendencies of mind, body, and consciousness.",
+      "pageRef": "Handbook pg. 67",
+      "terms": [
+        { "term": "Sattva", "meaning": "Purity" },
+        { "term": "Rajas", "meaning": "Activity" },
+        { "term": "Tamas", "meaning": "Inertia" }
+      ]
+    },
+    {
+      "id": "panchkosha",
+      "topic": "Panchkosha — 5 Sheaths of Existence",
+      "description": "Layers of human existence per the Taittiriya Upanishad.",
+      "pageRef": "Handbook pg. 175",
+      "terms": [
+        { "term": "Annamaya Kosha", "meaning": "Food-sheath" },
+        { "term": "Pranamaya Kosha", "meaning": "Energy-sheath" },
+        { "term": "Manomaya Kosha", "meaning": "Mind-sheath" },
+        { "term": "Vigyanamaya Kosha", "meaning": "Wisdom-sheath" },
+        { "term": "Anandamaya Kosha", "meaning": "Bliss-sheath" }
+      ]
+    },
+    {
+      "id": "panch-mahabhutas",
+      "topic": "Panch Mahabhutas — 5 Gross Elements",
+      "description": "The gross matter of material existence.",
+      "pageRef": "Handbook pg. 175",
+      "terms": [
+        { "term": "Aakaasha", "meaning": "Space" },
+        { "term": "Vaayu", "meaning": "Air" },
+        { "term": "Agni (Tejas)", "meaning": "Fire" },
+        { "term": "Aap (Jala)", "meaning": "Water" },
+        { "term": "Prithvi", "meaning": "Earth" }
+      ]
+    },
+    {
+      "id": "tanmatra",
+      "topic": "Tanmatra — 5 Subtle Elements",
+      "description": "Subtle matter corresponding to each Mahabhuta.",
+      "pageRef": "Handbook pg. 175",
+      "terms": [
+        { "term": "Shabda", "meaning": "Sound" },
+        { "term": "Sparsha", "meaning": "Touch" },
+        { "term": "Rupa", "meaning": "Form" },
+        { "term": "Rasa", "meaning": "Taste" },
+        { "term": "Gandha", "meaning": "Smell" }
+      ]
+    },
+    {
+      "id": "jnanendriyas",
+      "topic": "Jnanendriyas — 5 Sense Capacities",
+      "description": "The five capacities of perception.",
+      "pageRef": "Handbook pg. 175",
+      "terms": [
+        { "term": "Chaksu", "meaning": "Sight" },
+        { "term": "Srotram", "meaning": "Hearing" },
+        { "term": "Ghraana", "meaning": "Smell" },
+        { "term": "Rasanaa", "meaning": "Taste" },
+        { "term": "Tvak", "meaning": "Touch" }
+      ]
+    },
+    {
+      "id": "karmendriyas",
+      "topic": "Karmendriyas — 5 Action Capacities",
+      "description": "The five capacities of action.",
+      "pageRef": "Handbook pg. 175",
+      "terms": [
+        { "term": "Vaak", "meaning": "Speech" },
+        { "term": "Paani", "meaning": "Grasping" },
+        { "term": "Paada", "meaning": "Locomotion" },
+        { "term": "Paayu", "meaning": "Excretion" },
+        { "term": "Upastha", "meaning": "Procreation" }
+      ]
+    },
+    {
+      "id": "pancha-prana",
+      "topic": "Pancha Prana — 5 Vital Energies",
+      "description": "Five types of Prana, classified by function.",
+      "pageRef": "Handbook pg. 174",
+      "terms": [
+        { "term": "Prana", "meaning": "Respiration" },
+        { "term": "Apana", "meaning": "Elimination" },
+        { "term": "Samana", "meaning": "Digestion" },
+        { "term": "Udana", "meaning": "Upward-movement" },
+        { "term": "Vyana", "meaning": "Distribution" }
+      ]
+    },
+    {
+      "id": "tritapa",
+      "topic": "Tritapa — 3 Types of Pain",
+      "description": "Three sources of suffering.",
+      "pageRef": "Handbook pg. 174",
+      "terms": [
+        { "term": "Adhyatmik", "meaning": "Self-inflicted" },
+        { "term": "Adhibhautik", "meaning": "Other-beings" },
+        { "term": "Adhidaivik", "meaning": "Natural-forces" }
+      ]
+    },
+    {
+      "id": "shad-darshan",
+      "topic": "Shad-Darshan — 6 Orthodox Philosophies",
+      "description": "Six Astika (Vedic-authority-accepting) Indian philosophies.",
+      "pageRef": "Handbook pg. 13, 176",
+      "terms": [
+        { "term": "Samkhya", "meaning": "Enumeration" },
+        { "term": "Yoga", "meaning": "Union" },
+        { "term": "Nyaya", "meaning": "Logic" },
+        { "term": "Vaisheshika", "meaning": "Particularity" },
+        { "term": "Purva Mimansa", "meaning": "Ritual-inquiry" },
+        { "term": "Uttar Mimansa (Vedanta)", "meaning": "End-of-Vedas" }
+      ]
+    },
+    {
+      "id": "nastik-darshan",
+      "topic": "Nastik Darshan — 3 Heterodox Philosophies",
+      "description": "Indian philosophies that do not accept the supremacy of the Vedas.",
+      "pageRef": "Handbook pg. 176",
+      "terms": [
+        { "term": "Buddhism", "meaning": "Non-Vedic" },
+        { "term": "Jainism", "meaning": "Non-Vedic" },
+        { "term": "Charvaka", "meaning": "Materialist" }
+      ]
+    }
+  ]
+}

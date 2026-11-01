@@ -1,6 +1,6 @@
 # Yoga Teacher Exam Prep
 
-A free study site for Yoga Institute Basic Teachers' Training Course (BTTC) exam prep — mock exams, flashcards, and a practical-exam practice tracker for every Asana, Pranayama, and Kriya.
+A free study site for Yoga Institute Basic Teachers' Training Course (BTTC) exam prep — mock exams, flashcards, a key terms map, and a practical-exam practice tracker for every Asana, Pranayama, and Kriya.
 
 **Open it here:** https://shwethaumesh.github.io/yoga-exam-prep/
 
@@ -10,6 +10,7 @@ No download, login, or install needed — just open the link in any browser (pho
 
 - **🧘 Practical Prep** — full theory (starting position, steps, breath, limitations, benefits) for 28 Asanas, 11 Pranayama techniques, and 8 Kriyas, with a daily "practiced today" checklist and streak tracker.
 - **🗂️ Flashcards** — 198 topic-wise cue cards (philosophy, Patanjali's Yoga Sutras, physiology, wellness, stress management, teaching, general rules, and a full glossary of yogic + medical terms), with flip-to-reveal and simple spaced repetition.
+- **🗺️ Key Terms Map** — a searchable quick-reference grid of every enumerated Sanskrit term-group in the handbook (24 groups, 123 terms) — e.g. Ashtanga Yoga's 8 limbs, the 5 Yamas, 5 Niyamas, 5 Kleshas, Panchkosha, Shad-Darshan, etc. — each paired with a one-word English meaning.
 - **📝 Mock Exam** — a 55-question MCQ bank matching the real exam format, with a timer, topic filters, instant scoring, topic breakdown, and full answer review.
 
 Content is condensed and paraphrased from The Yoga Institute's Basic TTC Students' Handbook for personal study use.
