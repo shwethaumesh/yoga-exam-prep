@@ -87,26 +87,43 @@ function startExam() {
 
 const SEEN_KEY = "yic_seen_questions_v1";
 
-// Prefers questions not yet seen in earlier exams, spreads picks across topics,
-// and resets the seen list once the selected pool is exhausted.
+// Prefers questions not yet seen in earlier exams and spreads picks across topics.
+// When a topic's own fresh supply runs dry, only that topic's seen-history is
+// recycled (instead of resetting the whole bank), so topics that still have
+// unseen questions keep rotating through them before anything repeats.
 function pickQuestions(pool, n) {
   let seen = new Set(loadJSON(SEEN_KEY, []));
-  let fresh = pool.filter((q) => !seen.has(q.id));
-  if (fresh.length < n) {
-    pool.forEach((q) => seen.delete(q.id));
-    fresh = pool.slice();
-  }
   const byTopic = {};
-  shuffleArray(fresh).forEach((q) => (byTopic[q.topic] = byTopic[q.topic] || []).push(q));
+  pool.forEach((q) => (byTopic[q.topic] = byTopic[q.topic] || []).push(q));
   const topics = shuffleArray(Object.keys(byTopic));
+
+  const queues = {};
+  topics.forEach((t) => {
+    queues[t] = shuffleArray(byTopic[t].filter((q) => !seen.has(q.id)));
+  });
+
   const picked = [];
-  while (picked.length < n && topics.some((t) => byTopic[t].length)) {
+  const pickedIds = new Set();
+  let madeProgress = true;
+  while (picked.length < n && madeProgress) {
+    madeProgress = false;
     for (const t of topics) {
       if (picked.length >= n) break;
-      if (byTopic[t].length) picked.push(byTopic[t].pop());
+      if (!queues[t].length) {
+        // This topic is exhausted - recycle only its own questions rather
+        // than wiping the seen-status for every other topic in the bank.
+        byTopic[t].forEach((q) => seen.delete(q.id));
+        queues[t] = shuffleArray(byTopic[t].filter((q) => !pickedIds.has(q.id)));
+      }
+      if (queues[t].length) {
+        const q = queues[t].pop();
+        picked.push(q);
+        pickedIds.add(q.id);
+        seen.add(q.id);
+        madeProgress = true;
+      }
     }
   }
-  picked.forEach((q) => seen.add(q.id));
   saveJSON(SEEN_KEY, [...seen]);
   return shuffleArray(picked);
 }
